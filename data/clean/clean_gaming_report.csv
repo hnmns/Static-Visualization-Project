@@ -1,0 +1,1023 @@
+facility_name,owner_name,is_facility,address,state,owner_state,classes
+,Absentee Shawnee Tribe of Indians of OK,False,"2025 S. Gordon Cooper Dr., Shawnee OK 74801",OK,OK,Class II & III
+Thunderbird Casino - Shawnee,Absentee Shawnee Tribe of Indians of OK,True,"2025 S. Gordon Cooper Dr., Shawnee OK 74801",OK,OK,Class II & III
+Thunderbird Entertainment Center,Absentee Shawnee Tribe of Indians of OK,True,"2025 S. Gordon Cooper Dr., Shawnee OK 74801",OK,OK,Class II & III
+,Agua Caliente Band of Cahuilla Indians,False,"5401 Dinah Shore Dr., Palm Springs CA 92264",CA,CA,Class II & III
+Agua Caliente Casino Rancho Mirage,Agua Caliente Band of Cahuilla Indians,True,"5401 Dinah Shore Dr., Palm Springs CA 92264",CA,CA,Class II & III
+Agua Caliente Fuel,Agua Caliente Band of Cahuilla Indians,True,"5401 Dinah Shore Dr., Palm Springs CA 92264",CA,CA,Class II
+Agua Caliente Casino Cathedral City,Agua Caliente Band of Cahuilla Indians,True,"5401 Dinah Shore Dr., Palm Springs CA 92264",CA,CA,Class III
+Agua Caliente Casino Palm Springs,Agua Caliente Band of Cahuilla Indians,True,"5401 Dinah Shore Dr., Palm Springs CA 92264",CA,CA,Class III
+,Ak-Chin Indian Communityof the Maricopa Indian Res,False,"42507 W. Peters & Nall Rd., Maricopa AZ 85238",AZ,AZ,Class II & III
+Harrah's Ak-Chin Casino Resort,Ak-Chin Indian Communityof the Maricopa Indian Res,True,"42507 W. Peters & Nall Rd., Maricopa AZ 85238",AZ,AZ,Class II & III
+,Alabama-Coushatta Tribe of Texas,False,"571 State Park Road 56, Livingston TX 77351",TX,TX,Class II
+Ischoopa Travel Center,Alabama-Coushatta Tribe of Texas,True,"571 State Park Road 56, Livingston TX 77351",TX,TX,Class II
+Naskila Gaming,Alabama-Coushatta Tribe of Texas,True,"571 State Park Road 56, Livingston TX 77351",TX,TX,Class II
+Naskila Gaming,Alabama-Coushatta Tribe of Texas,True,"571 State Park Road 56, Livingston TX 77351",TX,TX,Class II
+,"Alturas Indian Rancheria, California",False,"PO Box 340 901 County Road 56, Alturas CA 96101",PO,PO,Class II & III
+Desert Rose Casino,"Alturas Indian Rancheria, California",True,"PO Box 340 901 County Road 56, Alturas CA 96101",PO,PO,Class III
+,Apache Tribe of Oklahoma,False,"P.O. Box 1330, Anadarko OK 73005",OK,OK,Class II & III
+Golden Eagle Casino,Apache Tribe of Oklahoma,True,"P.O. Box 1330, Anadarko OK 73005",OK,OK,Class II & III
+Apache Lonestar Casino,Apache Tribe of Oklahoma,True,"P.O. Box 1330, Anadarko OK 73005",OK,OK,Class II & III
+,Assiniboine & Sioux Tribes of the Fort Peck Reservation,False,"P.O. Box 1027, Poplar MT 59255",MT,MT,Class II & III
+Fred's Grill and Casino fka B & S Laundry,Assiniboine & Sioux Tribes of the Fort Peck Reservation,True,"P.O. Box 1027, Poplar MT 59255",MT,MT,Class III
+Tavern Casino,Assiniboine & Sioux Tribes of the Fort Peck Reservation,True,"P.O. Box 1027, Poplar MT 59255",MT,MT,Class III
+Tribal Express Casino,Assiniboine & Sioux Tribes of the Fort Peck Reservation,True,"P.O. Box 1027, Poplar MT 59255",MT,MT,Class III
+T.J.'s Quick Stop,Assiniboine & Sioux Tribes of the Fort Peck Reservation,True,"P.O. Box 1027, Poplar MT 59255",MT,MT,Class III
+Silver Wolf Casino,Assiniboine & Sioux Tribes of the Fort Peck Reservation,True,"P.O. Box 1027, Poplar MT 59255",MT,MT,Class II & III
+Git-N-Go,Assiniboine & Sioux Tribes of the Fort Peck Reservation,True,"P.O. Box 1027, Poplar MT 59255",MT,MT,Class III
+,Augustine Band of Cahuilla Indians,False,"P.O. Box 846 84481 Avenue 54, Coachella CA 92236",CA,CA,Class II & III
+Augustine Casino,Augustine Band of Cahuilla Indians,True,"P.O. Box 846 84481 Avenue 54, Coachella CA 92236",CA,CA,Class III
+,Bad River Band of Lake Superior Tribe of Chippewa Indians,False,"P.O. Box 39, Odanah WI 54861",WI,WI,Class II & III
+Bad River Lodge & Casino,Bad River Band of Lake Superior Tribe of Chippewa Indians,True,"P.O. Box 39, Odanah WI 54861",WI,WI,Class II & III
+,Barona Group of Capitan Grande Band of Mission Indians,False,"1095 Barona Road, Lakeside CA 92040",CA,CA,Class II & III
+Barona Valley Ranch Resort and Casino,Barona Group of Capitan Grande Band of Mission Indians,True,"1095 Barona Road, Lakeside CA 92040",CA,CA,Class II & III
+,Bay Mills Indian Community,False,"12140 W. Lakeshore Drive, Brimley MI 49715",MI,MI,Class II & III
+Bay Mills Resort & Casino,Bay Mills Indian Community,True,"12140 W. Lakeshore Drive, Brimley MI 49715",MI,MI,Class II & III
+,Bear River Band of the Rohnerville Rancheria,False,"266 Keisner Road, Loleta CA 95551",CA,CA,Class II & III
+Bear River Casino Resort,Bear River Band of the Rohnerville Rancheria,True,"266 Keisner Road, Loleta CA 95551",CA,CA,Class II & III
+Bear River Pump and Play,Bear River Band of the Rohnerville Rancheria,True,"266 Keisner Road, Loleta CA 95551",CA,CA,Class III
+,Berry Creek Rancheria of Maidu Indians of California,False,"5 Tyme Way, Oroville CA 95966",CA,CA,Class II & III
+Gold Country Casino,Berry Creek Rancheria of Maidu Indians of California,True,"5 Tyme Way, Oroville CA 95966",CA,CA,Class II & III
+,Big Sandy Band of Western Mono Indians,False,"P.O. Box 337 37302 Rancheria Lane, Auberry CA 93602",CA,CA,Class II & III
+Mono Wind Casino,Big Sandy Band of Western Mono Indians,True,"P.O. Box 337 37302 Rancheria Lane, Auberry CA 93602",CA,CA,Class III
+Mono Wind Casino,Big Sandy Band of Western Mono Indians,True,"P.O. Box 337 37302 Rancheria Lane, Auberry CA 93602",CA,CA,Class III
+,Big Valley Band of Pomo Indians,False,"2726 Mission Rancheria Road, Lakeport CA 95453",CA,CA,Class II & III
+Konocti Vista Casino Resort & Marina,Big Valley Band of Pomo Indians,True,"2726 Mission Rancheria Road, Lakeport CA 95453",CA,CA,Class III
+,Bishop Paiute Tribe,False,"50 Tu Su Lane, Bishop CA 93514",CA,CA,Class II & III
+Wanaaha Casino fka Paiute Palace,Bishop Paiute Tribe,True,"50 Tu Su Lane, Bishop CA 93514",CA,CA,Class II & III
+,Blackfeet Tribe of the Blackfeet Indian Reservation of Montana,False,"P.O. Box 850, Browning MT 59417",MT,MT,Class III
+The Peak,Blackfeet Tribe of the Blackfeet Indian Reservation of Montana,True,"P.O. Box 850, Browning MT 59417",MT,MT,Class II
+Glacier Lil Peaks Casino,Blackfeet Tribe of the Blackfeet Indian Reservation of Montana,True,"P.O. Box 850, Browning MT 59417",MT,MT,Class II
+Glacier Peaks Casino,Blackfeet Tribe of the Blackfeet Indian Reservation of Montana,True,"P.O. Box 850, Browning MT 59417",MT,MT,Class II
+,Blue Lake Rancheria,False,"P.O. Box 428 428 Chartin Road, Blue Lake CA 95525",CA,CA,Class II & III
+Blue Lake Fuel and Fun,Blue Lake Rancheria,True,"P.O. Box 428 428 Chartin Road, Blue Lake CA 95525",CA,CA,Class III
+Blue Lake Casino,Blue Lake Rancheria,True,"P.O. Box 428 428 Chartin Road, Blue Lake CA 95525",CA,CA,Class II & III
+,"Bois Forte Band of Minnesota Chippewa Tribe, Minnesota",False,"P.O. Box 16 5344 Lakeshore Drive, Nett Lake MN 55772",MN,MN,Class II & III
+Fortune Bay Casino,"Bois Forte Band of Minnesota Chippewa Tribe, Minnesota",True,"P.O. Box 16 5344 Lakeshore Drive, Nett Lake MN 55772",MN,MN,Class II & III
+,Buena Vista Rancheria of Me-Wuk Indians,False,"4650 Coal Mine Rd, Ione CA 95640",CA,CA,Class II & III
+Harrah's Northern California,Buena Vista Rancheria of Me-Wuk Indians,True,"4650 Coal Mine Rd, Ione CA 95640",CA,CA,Class III
+,Cabazon Band of Mission Indians,False,"84-245 B Indio Springs Dr., Indio CA 92203",CA,CA,Class II & III
+Fantasy Springs Resort Casino,Cabazon Band of Mission Indians,True,"84-245 B Indio Springs Dr., Indio CA 92203",CA,CA,Class II & III
+,Cachil Dehe Band of Wintun Indians of the Colusa Indian Community,False,"3730 Hwy 45, Colusa CA 95932",CA,CA,Class II & III
+Wintun Mini Mart,Cachil Dehe Band of Wintun Indians of the Colusa Indian Community,True,"3730 Hwy 45, Colusa CA 95932",CA,CA,Class II
+Colusa Casino Resort,Cachil Dehe Band of Wintun Indians of the Colusa Indian Community,True,"3730 Hwy 45, Colusa CA 95932",CA,CA,Class II & III
+,Cahuilla Band of Mission Indians of the Cahuilla Reservation,False,"P.O. Box 391760 52701 Highway 371, Anza CA 92539",CA,CA,Class II & III
+Cahuilla Casino,Cahuilla Band of Mission Indians of the Cahuilla Reservation,True,"P.O. Box 391760 52701 Highway 371, Anza CA 92539",CA,CA,Class II & III
+Cahuilla Casino,Cahuilla Band of Mission Indians of the Cahuilla Reservation,True,"P.O. Box 391760 52701 Highway 371, Anza CA 92539",CA,CA,Class II & III
+,Campo Band of Diegueno Mission of the Campo Indian Reservation,False,"36190 Church Rd.,Suite 1 PO Box 310, Campo CA 91906",PO,PO,Class II & III
+Golden Acorn Casino,Campo Band of Diegueno Mission of the Campo Indian Reservation,True,"36190 Church Rd.,Suite 1 PO Box 310, Campo CA 91906",PO,PO,Class III
+,Catawba Indian Nation,False,"996 Avenue of the Nations, Rock Hill SC 29730",SC,SC,Class III
+Catawba Two Kings Casino,Catawba Indian Nation,True,"538 Kings Mountain Blvd, Kings Mountain, NC 28086",NC,SC,Class III
+Catawba Two Kings Casino,Catawba Indian Nation,True,"538 Kings Mountain Blvd, Kings Mountain, NC 28086",NC,SC,Class III
+,Cayuga Nation,False,"P.O. Box 786, Seneca Falls NY 13148",NY,NY,Class II
+Lakeside Entertainment I,Cayuga Nation,True,"P.O. Box 786, Seneca Falls NY 13148",NY,NY,Class II
+Lakeside Entertainment II,Cayuga Nation,True,"P.O. Box 786, Seneca Falls NY 13148",NY,NY,Class II
+Lakeside Entertainment III (E3),Cayuga Nation,True,"P.O. Box 786, Seneca Falls NY 13148",NY,NY,Class II
+Lakeside Entertainment IV,Cayuga Nation,True,"P.O. Box 786, Seneca Falls NY 13148",NY,NY,Class II
+,Chemehuevi Indian Tribe of the Chemehuevi Nation,False,"P.O. Box 1976 1990 Palo Verde Dr., Havasu Lake CA 92363",CA,CA,Class II & III
+Havasu Landing Resort & Casino,Chemehuevi Indian Tribe of the Chemehuevi Nation,True,"P.O. Box 1976 1990 Palo Verde Dr., Havasu Lake CA 92363",CA,CA,Class III
+,Cher-Ae Heights Indian Community of the Trinidad Rancheria,False,"P.O.Box 630, Trinidad CA 95570",CA,CA,Class III
+Cher-Ae-Heights Casino,Cher-Ae Heights Indian Community of the Trinidad Rancheria,True,"P.O.Box 630, Trinidad CA 95570",CA,CA,Class II & III
+,"Cherokee Nation, Oklahoma",False,"P.O. Box 948, Tahlequah OK 74465",OK,OK,Class III
+Cherokee Casino - Fort Gibson,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,OK,Class II & III
+Cherokee Casino - Roland,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,OK,Class II & III
+Cherokee Casino - Sallisaw,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,OK,Class II & III
+Roland Travel Plaza,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,OK,Class II & III
+Cherokee Casino - South Coffeyville,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,OK,Class II & III
+Cherokee Nation Grove Casino,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,OK,Class II & III
+Cherokee Casino Ramona,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,OK,Class II & III
+Cherokee Casino - Tahlequah,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,OK,Class II & III
+Cherokee Casino - Tahlequah,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,OK,Class II & III
+Cherokee Casino - West Siloam Springs,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,OK,Class II & III
+Hard Rock Hotel & Casino,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,OK,Class II & III
+,"Cheyenne and Arapaho Tribes, Oklahoma",False,"100 Red Moon Circle, Concho OK 73022",OK,OK,Class II & III
+Lucky Star Casino #108,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",OK,OK,Class II & III
+Lucky Star Travel Center Casino - Hammon,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",OK,OK,Class II & III
+Lucky Star Travel Center Casino - Concho,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",OK,OK,Class II & III
+Lucky Star Travel Center Casino - Concho,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",OK,OK,Class II & III
+Lucky Star Casino Clinton,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",OK,OK,Class II & III
+Lucky Star Casino - Concho,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",OK,OK,Class II & III
+Lucky Star Casino - Canton,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",OK,OK,Class II & III
+Lucky Star Casino - Watonga,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",OK,OK,Class II & III
+,"Chickasaw Nation, Oklahoma",False,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Ada Gaming Center,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Chickasaw Travel Stop-Ada Gaming West,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Black Gold Casino - Wilson,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Chisholm Trail Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+West Bay Casino and Resort,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Lakecrest Casino and Hotel,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Megastar Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Newcastle Travel Center,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Riverstar Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Chickasaw Travel Stop - Davis Gaming,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Chickasaw Travel Stop - Davis Gaming,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Tishomingo Tobacco Games,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II
+Tishomingo Tobacco Games,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II
+Artesian Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Artesian Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Jet Stream Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Jet Stream Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Winstar World Casino and Resort,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Salt Creek Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Salt Creek Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Texoma Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Chickasaw Travel Stop - Thackerville Gaming,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II
+Border Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Treasure Valley Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Washita Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Madill Gaming Center,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Newcastle Gaming Center,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Riverwind Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Goldsby Gaming Center,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+Gold Mountain Casino - Ardmore,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,OK,Class II & III
+,Chicken Ranch Rancheria of Me-wuk Indians of California,False,"P.O. Box 1159 9195 Red Tail Hawk Drive, Jamestown CA 95327",CA,CA,Class II & III
+Chicken Ranch Casino Resort,Chicken Ranch Rancheria of Me-wuk Indians of California,True,"P.O. Box 1159 9195 Red Tail Hawk Drive, Jamestown CA 95327",CA,CA,Class II & III
+Chicken Ranch Casino & Event Hall,Chicken Ranch Rancheria of Me-wuk Indians of California,True,"P.O. Box 1159 9195 Red Tail Hawk Drive, Jamestown CA 95327",CA,CA,Class II & III
+Chicken Ranch Casino & Event Hall,Chicken Ranch Rancheria of Me-wuk Indians of California,True,"P.O. Box 1159 9195 Red Tail Hawk Drive, Jamestown CA 95327",CA,CA,Class II & III
+,"Chippewa Cree Indians of the Rocky Boy's Reservation, Montana",False,"96 Clinic Road North, Box Elder MT 59521",MT,MT,Class II & III
+Northern Winz Casino II,"Chippewa Cree Indians of the Rocky Boy's Reservation, Montana",True,"96 Clinic Road North, Box Elder MT 59521",MT,MT,Class III
+Northern Winz Hotel and Casino,"Chippewa Cree Indians of the Rocky Boy's Reservation, Montana",True,"96 Clinic Road North, Box Elder MT 59521",MT,MT,Class II & III
+,Choctaw Nation of Oklahoma,False,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Pocola Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Landing-Hochatown,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Heavener Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Hugo Travel Center,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Idabel Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Idabel Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Antlers Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Antlers Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Antlers Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Antlers Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Grant Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Stigler,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - McAlester,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Atoka Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Poteau Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Stringtown Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Wilburton Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Broken Bow Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Idabel,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Pocola,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Stringtown,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino Too - McAlester Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Durant Travel Plaza (East),Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Durant Travel Plaza  (West),Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino and Resort - Durant,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Broken Bow,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+Choctaw Casino - Grant,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,OK,Class II & III
+,"Citizen Potawatomi Nation, Oklahoma",False,"1601 S. Gordon Cooper Drive, Shawnee OK 74801",OK,OK,Class II & III
+Firelake Travel Plaza,"Citizen Potawatomi Nation, Oklahoma",True,"1601 S. Gordon Cooper Drive, Shawnee OK 74801",OK,OK,Class II & III
+Golf Clubhouse,"Citizen Potawatomi Nation, Oklahoma",True,"1601 S. Gordon Cooper Drive, Shawnee OK 74801",OK,OK,Class III
+Golf Clubhouse,"Citizen Potawatomi Nation, Oklahoma",True,"1601 S. Gordon Cooper Drive, Shawnee OK 74801",OK,OK,Class III
+Firelake Entertainment Center,"Citizen Potawatomi Nation, Oklahoma",True,"1601 S. Gordon Cooper Drive, Shawnee OK 74801",OK,OK,Class II & III
+Grand Casino Hotel Resort,"Citizen Potawatomi Nation, Oklahoma",True,"1601 S. Gordon Cooper Drive, Shawnee OK 74801",OK,OK,Class II & III
+,Cocopah Tribe of Arizona,False,"County 15th & Ave. G, Somerton AZ 85350",AZ,AZ,Class II & III
+Cocopah Bingo and Casino,Cocopah Tribe of Arizona,True,"County 15th & Ave. G, Somerton AZ 85350",AZ,AZ,Class II & III
+,Coeur d'Alene Tribe,False,"PO Box 408 850 A Street, Plummer ID 83851",PO,PO,Class II & III
+Benewah Market,Coeur d'Alene Tribe,True,"PO Box 408 850 A Street, Plummer ID 83851",PO,PO,Class III
+Benewah Automotive Center,Coeur d'Alene Tribe,True,"PO Box 408 850 A Street, Plummer ID 83851",PO,PO,Class III
+Coeur d'Alene Casino Resort/Hotel,Coeur d'Alene Tribe,True,"PO Box 408 850 A Street, Plummer ID 83851",PO,PO,Class II & III
+,"Colorado River Indian Tribes of the Colorado River Indian Reservation, AZ and CA",False,"26600 Mohave Road, Parker AZ 85344",AZ,AZ,Class II & III
+Blue Water Casino,"Colorado River Indian Tribes of the Colorado River Indian Reservation, AZ and CA",True,"26600 Mohave Road, Parker AZ 85344",AZ,AZ,Class II & III
+,"Comanche Nation, Oklahoma",False,"P.O. Box 908, Lawton OK 73502",OK,OK,Class II & III
+Comanche Cache Casino,"Comanche Nation, Oklahoma",True,"P.O. Box 908, Lawton OK 73502",OK,OK,Class II & III
+War Pony Casino,"Comanche Nation, Oklahoma",True,"P.O. Box 908, Lawton OK 73502",OK,OK,Class II & III
+Comanche Nation Travel Plaza.,"Comanche Nation, Oklahoma",True,"P.O. Box 908, Lawton OK 73502",OK,OK,Class II & III
+Comanche Nation Casino,"Comanche Nation, Oklahoma",True,"P.O. Box 908, Lawton OK 73502",OK,OK,Class II & III
+Comanche Red River Casino,"Comanche Nation, Oklahoma",True,"P.O. Box 908, Lawton OK 73502",OK,OK,Class II & III
+Comanche Spur Casino,"Comanche Nation, Oklahoma",True,"P.O. Box 908, Lawton OK 73502",OK,OK,Class II & III
+Comanche Star Casino,"Comanche Nation, Oklahoma",True,"P.O. Box 908, Lawton OK 73502",OK,OK,Class II & III
+,Confederated Salish and Kootenai Tribes of the Flathead Reservation,False,"4287 Complex Blvd., Pablo MT 59855",MT,MT,Class II & III
+Gray Wolf Peak Casino,Confederated Salish and Kootenai Tribes of the Flathead Reservation,True,"4287 Complex Blvd., Pablo MT 59855",MT,MT,Class II
+Gray Wolf Peak Casino,Confederated Salish and Kootenai Tribes of the Flathead Reservation,True,"4287 Complex Blvd., Pablo MT 59855",MT,MT,Class II
+Gray Wolf Peak Casino,Confederated Salish and Kootenai Tribes of the Flathead Reservation,True,"4287 Complex Blvd., Pablo MT 59855",MT,MT,Class II
+Gray Wolf Peak Casino,Confederated Salish and Kootenai Tribes of the Flathead Reservation,True,"4287 Complex Blvd., Pablo MT 59855",MT,MT,Class II
+Big Arm Marina Casino,Confederated Salish and Kootenai Tribes of the Flathead Reservation,True,"4287 Complex Blvd., Pablo MT 59855",MT,MT,Class II
+KwaTaqNuk Resort,Confederated Salish and Kootenai Tribes of the Flathead Reservation,True,"4287 Complex Blvd., Pablo MT 59855",MT,MT,Class II
+,"Confederated Tribes and Bands of the Yakama Nation, Washington",False,"PO Box 151 401 Fort Rd, Toppenish WA 98948",PO,PO,Class II & III
+Yakama Nation Legends Casino,"Confederated Tribes and Bands of the Yakama Nation, Washington",True,"PO Box 151 401 Fort Rd, Toppenish WA 98948",PO,PO,Class II & III
+,"Confederated Tribes of Coos, Lower Umpqua & Siuslaw Indians of Oregon",False,"1245 Fulton Ave, Coos Bay OR 97420",OR,OR,Class II & III
+Three River Casino - Coos Bay,"Confederated Tribes of Coos, Lower Umpqua & Siuslaw Indians of Oregon",True,"1245 Fulton Ave, Coos Bay OR 97420",OR,OR,Class II
+Three River Casino - Coos Bay,"Confederated Tribes of Coos, Lower Umpqua & Siuslaw Indians of Oregon",True,"1245 Fulton Ave, Coos Bay OR 97420",OR,OR,Class II
+Three Rivers Casino - Florence,"Confederated Tribes of Coos, Lower Umpqua & Siuslaw Indians of Oregon",True,"1245 Fulton Ave, Coos Bay OR 97420",OR,OR,Class II & III
+,Confederated Tribes of Siletz Indians of Oregon,False,"PO Box 549 201 SE Swan Ave, Siletz OR 97380",PO,PO,Class II & III
+Chinook Winds Casino Resort,Confederated Tribes of Siletz Indians of Oregon,True,"PO Box 549 201 SE Swan Ave, Siletz OR 97380",PO,PO,Class II & III
+,"Confederated Tribes of the Chehalis Reservation, Washington",False,"PO Box 536 420 Howanut Road, Oakville WA 98568",PO,PO,Class II & III
+Lucky Eagle Casino and Hotel,"Confederated Tribes of the Chehalis Reservation, Washington",True,"PO Box 536 420 Howanut Road, Oakville WA 98568",PO,PO,Class II & III
+,Confederated Tribes of the Colville Reservation Washington,False,"PO Box 150 21 Colville Street, Nespelem WA 99155",PO,PO,Class II & III
+12 Tribes Omak Casino,Confederated Tribes of the Colville Reservation Washington,True,"PO Box 150 21 Colville Street, Nespelem WA 99155",PO,PO,Class III
+12 Tribes of Lake Chelan Casino,Confederated Tribes of the Colville Reservation Washington,True,"PO Box 150 21 Colville Street, Nespelem WA 99155",PO,PO,Class II & III
+12 Tribes Coulee Dam Casino,Confederated Tribes of the Colville Reservation Washington,True,"PO Box 150 21 Colville Street, Nespelem WA 99155",PO,PO,Class II & III
+,Confederated Tribes of the Grand Ronde Community of Oregon,False,"9615 Grand Ronde Rd, Grand Ronde OR 97347-",OR,OR,Class II & III
+Spirit Mountain Casino,Confederated Tribes of the Grand Ronde Community of Oregon,True,"9615 Grand Ronde Rd, Grand Ronde OR 97347-",OR,OR,Class II & III
+,Confederated Tribes of the Umatilla Indian Reservation,False,"46411 Timine Way, Pendleton OR 97801",OR,OR,Class II & III
+Wildhorse Gaming Resort and Casino,Confederated Tribes of the Umatilla Indian Reservation,True,"46411 Timine Way, Pendleton OR 97801",OR,OR,Class II & III
+,Confederated Tribes of the Warm Springs Reservation of OR,False,"P.O. Box 1299 1233 Veterns St, Warm Springs OR 97761",OR,OR,Class II & III
+Plateau Travel Plaza,Confederated Tribes of the Warm Springs Reservation of OR,True,"P.O. Box 1299 1233 Veterns St, Warm Springs OR 97761",OR,OR,Class II
+Indian Head Casino,Confederated Tribes of the Warm Springs Reservation of OR,True,"P.O. Box 1299 1233 Veterns St, Warm Springs OR 97761",OR,OR,Class III
+,Coquille Indian Tribe,False,"3050 Tremont Avenue, North Bend OR 97459",OR,OR,Class II & III
+Ko-Kwell Casino Resort Medford,Coquille Indian Tribe,True,"3050 Tremont Avenue, North Bend OR 97459",OR,OR,Class II
+The Mill Casino,Coquille Indian Tribe,True,"3050 Tremont Avenue, North Bend OR 97459",OR,OR,Class III
+,Coushatta Tribe of Louisiana,False,"P.O. BOX 818, C.C. Bel Road, ELTON LA 70532",BO,BO,Class II & III
+Coushatta Casino Resort,Coushatta Tribe of Louisiana,True,"P.O. BOX 818, C.C. Bel Road, ELTON LA 70532",BO,BO,Class II & III
+,Cow Creek Band of Umpqua Tribe of Indians,False,"2371 NE Stephens St STE 100, Roseburg OR 97470",NE,NE,Class II & III
+Seven Feathers Casino Resort,Cow Creek Band of Umpqua Tribe of Indians,True,"2371 NE Stephens St STE 100, Roseburg OR 97470",NE,NE,Class II & III
+,Cowlitz Tribe,False,"PO Box 2547 1055 9th Ave S, Suite B, Longview WA 98632",PO,PO,Other
+ilani Casino Resort,Cowlitz Tribe,True,"PO Box 2547 1055 9th Ave S, Suite B, Longview WA 98632",PO,PO,Class III
+,Coyote Valley Band of Pomo Indians,False,"7601 North State Street, Redwood Valley CA 95470",CA,CA,Class II & III
+Coyote Valley Mini Casino,Coyote Valley Band of Pomo Indians,True,"7601 North State Street, Redwood Valley CA 95470",CA,CA,Class II
+Coyote Valley Casino,Coyote Valley Band of Pomo Indians,True,"7601 North State Street, Redwood Valley CA 95470",CA,CA,Class II & III
+,Crow Creek Sioux Tribe of the Crow Creek Reservation,False,"P.O. Box 50, Fort Thompson SD 57339",SD,SD,Class III
+Lode Star Casino,Crow Creek Sioux Tribe of the Crow Creek Reservation,True,"P.O. Box 50, Fort Thompson SD 57339 nan",SD,SD,Class III
+,"Delaware Nation, Oklahoma",False,"P.O. Box 825, Anadarko OK 73005",OK,OK,Class II & III
+Casino Oklahoma,"Delaware Nation, Oklahoma",True,"P.O. Box 825, Anadarko OK 73005",OK,OK,Class II & III
+Gold River Casino,"Delaware Nation, Oklahoma",True,"P.O. Box 825, Anadarko OK 73005",OK,OK,Class II & III
+,"Dry Creek Rancheria Band of Pomo Indians, California",False,"1450 Airport Blvd. Ste. 200A, Santa Rosa CA 95403",CA,CA,Class II & III
+River Rock Casino,"Dry Creek Rancheria Band of Pomo Indians, California",True,,CA,CA,Class III
+,Eastern Band of Cherokee Indians of North Carolina,False,"P.O. Box 455, Cherokee NC 28719",NC,NC,Class II & III
+Harrah's Cherokee Casino,Eastern Band of Cherokee Indians of North Carolina,True,,NC,NC,Class II & III
+Harrah's Cherokee Valley River Casino,Eastern Band of Cherokee Indians of North Carolina,True,,NC,NC,Class III
+Harrah's Cherokee Valley River Casino,Eastern Band of Cherokee Indians of North Carolina,True,,NC,NC,Class III
+,Eastern Shawnee Tribe of Oklahoma,False,"70500 E. 128 Road Suite 1, Wyandotte OK 74370",OK,OK,Class II & III
+Bordertown Outpost Casino,Eastern Shawnee Tribe of Oklahoma,True,,OK,OK,Class II & III
+Indigo Sky Casino,Eastern Shawnee Tribe of Oklahoma,True,,OK,OK,Class II & III
+,Eklutna Native Village,False,"26339 Eklutna Village Road, Chugiak AK 99567",AK,AK,Other
+Chin'an Gaming Hall,Eklutna Native Village,True,,AK,AK,Class II
+,Elk Valley Rancheria,False,"2332 Howland Hill Road, Crescent City CA 95531",CA,CA,Class II & III
+Elk Valley Casino,Elk Valley Rancheria,True,,CA,CA,Class II & III
+,Enterprise Rancheria of the Maidu Indians of California,False,"3311 Forty Mile Road, Wheatland CA 95692",CA,CA,Class II & III
+Rocktane Slots & Casino at Fire Mountain,Enterprise Rancheria of the Maidu Indians of California,True,,CA,CA,Class III
+Hard Rock Hotel & Casino Sacramento at Fire Mountain,Enterprise Rancheria of the Maidu Indians of California,True,,CA,CA,Class III
+,Federated Indians of Graton Rancheria,False,"6400 Redwood Dr. Suite 300, Rohnert Park CA 94928",CA,CA,Class II & III
+Graton Resort & Casino,Federated Indians of Graton Rancheria,True,,CA,CA,Class II & III
+,Flandreau Santee Sioux Tribe,False,"P.O. Box 283, Flandreau SD 57028",SD,SD,Class II & III
+First American Mart,Flandreau Santee Sioux Tribe,True,,SD,SD,Class III
+Royal River Casino and Hotel,Flandreau Santee Sioux Tribe,True,,SD,SD,Class II & III
+,"Fond du Lac Band of Minnesota Chippewa Tribe, Minnesota",False,"1720 Big Lake Road, Cloquet MN 55720",MN,MN,Class II & III
+Black Bear Casino,"Fond du Lac Band of Minnesota Chippewa Tribe, Minnesota",True,,MN,MN,Class II & III
+Fond du Luth Casino,"Fond du Lac Band of Minnesota Chippewa Tribe, Minnesota",True,,MN,MN,Class III
+,"Forest County Potawatomi Community, Wisconsin",False,"5416 Everybody's Rd, Crandon WI 54520",WI,WI,Class II & III
+Potawatomi Hotel & Casino,"Forest County Potawatomi Community, Wisconsin",True,,WI,WI,Class II & III
+Potawatomi Carter Casino Hotel,"Forest County Potawatomi Community, Wisconsin",True,,WI,WI,Class II & III
+,"Fort Belknap Indian Community of the Fort Belknap Reservation, Montana",False,"RR 1 Box 66 656 Agency Main Street, Harlem MT 59526",RR,RR,Class II & III
+Fort Belknap Casino,"Fort Belknap Indian Community of the Fort Belknap Reservation, Montana",True,,RR,RR,Class II & III
+,Fort Independence Indian Community of Paiute Indians of  Fort Independence Reservation,False,"P.O.Box 67, Independence CA 93526",CA,CA,Class II & III
+Oak Creek Casino,Fort Independence Indian Community of Paiute Indians of  Fort Independence Reservation,True,,CA,CA,Class II
+,Fort McDowell Yavapai Nation of Arizona,False,"P.O. Box 17779, Fountain Hills AZ 85269",AZ,AZ,Class II & III
+We-Ko-Pa Casino Resort,Fort McDowell Yavapai Nation of Arizona,True,,AZ,AZ,Class II & III
+,Fort Mojave Indian Tribe,False,"500 Merriman Avenue, Needles CA 92363",CA,CA,Class II & III
+Avi Casino,Fort Mojave Indian Tribe,True,,CA,CA,Class II & III
+Spirit Mountain Casino,Fort Mojave Indian Tribe,True,,CA,CA,Class III
+,Fort Sill Apache Tribe of Oklahoma,False,"43187 US Highway 281, Apache OK 73006",US,US,Class II
+Warm Springs Casino,Fort Sill Apache Tribe of Oklahoma,True,,US,US,Class II & III
+Apache Casino Hotel,Fort Sill Apache Tribe of Oklahoma,True,,US,US,Class II & III
+,"Gila River Indian Community of the Gila River Indian Reservation, Arizona",False,"P.O. Box 97 315 West Casa Blanca, Sacaton AZ 85247",AZ,AZ,Class II & III
+San Tan Mountain Casino,"Gila River Indian Community of the Gila River Indian Reservation, Arizona",True,,AZ,AZ,Class II & III
+Vee Quiva Casino,"Gila River Indian Community of the Gila River Indian Reservation, Arizona",True,,AZ,AZ,Class II & III
+Wild Horse Pass Casino,"Gila River Indian Community of the Gila River Indian Reservation, Arizona",True,"P.O. Box 97 315 West Casa Blanca, Sacaton AZ 85247",AZ,AZ,Class II & III
+Lone Butte Casino,"Gila River Indian Community of the Gila River Indian Reservation, Arizona",True,"P.O. Box 97 315 West Casa Blanca, Sacaton AZ 85247",AZ,AZ,Class II & III
+,"Grand Portage Band of Minnesota Chippewa Tribe, Minnesota",False,"P.O. Box 428, Grand Portage MN 55605",MN,MN,Class II & III
+Grand Portage Casino,"Grand Portage Band of Minnesota Chippewa Tribe, Minnesota",True,"P.O. Box 428, Grand Portage MN 55605",MN,MN,Class II & III
+,"Grand Traverse Band of Ottawa and Chippewa Indians, Michigan",False,"2605 N. West Bay Shore Dr., Peshawbestown MI 49682",MI,MI,Class II & III
+Crystal Shores Casino,"Grand Traverse Band of Ottawa and Chippewa Indians, Michigan",True,"2605 N. West Bay Shore Dr., Peshawbestown MI 49682",MI,MI,Class II & III
+Turtle Creek Casino,"Grand Traverse Band of Ottawa and Chippewa Indians, Michigan",True,"2605 N. West Bay Shore Dr., Peshawbestown MI 49682",MI,MI,Class II & III
+Leelanau Sands Casino,"Grand Traverse Band of Ottawa and Chippewa Indians, Michigan",True,"2605 N. West Bay Shore Dr., Peshawbestown MI 49682",MI,MI,Class II & III
+,Habematolel Pomo of Upper Lake,False,"375 East Highway 20, Suite 1 P.O. Box 516, Upper Lake CA",CA,CA,Class II & III
+Running Creek Casino,Habematolel Pomo of Upper Lake,True,"375 East Highway 20, Suite 1 P.O. Box 516, Upper Lake CA 95485",CA,CA,Class III
+,Hannahville Indian Community,False,"N. 14911 Hannahville B1 Road P.O. Box 351, Wilson MI 49896",MI,MI,Class II & III
+Island Resort & Casino,Hannahville Indian Community,True,"N. 14911 Hannahville B1 Road P.O. Box 351, Wilson MI 49896",MI,MI,Class II & III
+,Ho-Chunk Nation of Wisconsin,False,"P.O. Box 667 W9814 Airport Road, Black River Falls WI 54615",WI,WI,Class II & III
+Ho-Chunk Gaming - Wittenberg,Ho-Chunk Nation of Wisconsin,True,"P.O. Box 667 W9814 Airport Road, Black River Falls WI 54615",WI,WI,Class III
+Ho-Chunk Gaming - Tomah,Ho-Chunk Nation of Wisconsin,True,"P.O. Box 667 W9814 Airport Road, Black River Falls WI 54615",WI,WI,Class III
+Ho-Chunk Gaming - Nekoosa,Ho-Chunk Nation of Wisconsin,True,"P.O. Box 667 W9814 Airport Road, Black River Falls WI 54615",WI,WI,Class II & III
+Ho-Chunk Gaming - Black River Falls,Ho-Chunk Nation of Wisconsin,True,"P.O. Box 667 W9814 Airport Road, Black River Falls WI 54615",WI,WI,Class II & III
+Ho-Chunk Gaming - Wisconsin Dells,Ho-Chunk Nation of Wisconsin,True,"P.O. Box 667 W9814 Airport Road, Black River Falls WI 54615",WI,WI,Class II & III
+Ho-Chunk Gaming - Madison,Ho-Chunk Nation of Wisconsin,True,"P.O. Box 667 W9814 Airport Road, Black River Falls WI 54615",WI,WI,Class II
+,Hoopa Valley Tribe,False,"P.O. Box 1348 NF Building Highway 96, Hoopa CA 95546",NF,NF,Class II & III
+Lucky Bear Casino,Hoopa Valley Tribe,True,"P.O. Box 1348 NF Building Highway 96, Hoopa CA 95546",NF,NF,Class II & III
+,Iowa Tribe of Kansas and Nebraska,False,"3345 B Thrasher Rd., White Cloud KS 66094",KS,KS,Class II & III
+Casino White Cloud,Iowa Tribe of Kansas and Nebraska,True,"3345 B Thrasher Rd., White Cloud KS 66094",KS,KS,Class II & III
+,Iowa Tribe of Oklahoma,False,"335588 E. 750 Road, Perkins OK 74059",OK,OK,Class II & III
+Cimarron Casino,Iowa Tribe of Oklahoma,True,"335588 E. 750 Road, Perkins OK 74059",OK,OK,Class II & III
+Ioway Travel Plaza Casino,Iowa Tribe of Oklahoma,True,"335588 E. 750 Road, Perkins OK 74059",OK,OK,Class II & III
+Ioway Casino,Iowa Tribe of Oklahoma,True,"335588 E. 750 Road, Perkins OK 74059",OK,OK,Class II & III
+,Jackson Band of Miwuk Indians,False,"P.O. Box 1090 12222 New York Ranch Road, Jackson CA 95642",CA,CA,Class II & III
+Jackson Rancheria Casino & Hotel,Jackson Band of Miwuk Indians,True,"P.O. Box 1090 12222 New York Ranch Road, Jackson CA 95642",CA,CA,Class II & III
+,Jamestown S'Klallam Tribe,False,"1033 Old Blyn Highway, Sequim WA 98382",WA,WA,Class II & III
+Seven Cedars Casino,Jamestown S'Klallam Tribe,True,"1033 Old Blyn Highway, Sequim WA 98382",WA,WA,Class II & III
+,Jamul Indian Village of California,False,"P.O. Box 612 14191 Hwy 94, Jamul CA 91935",CA,CA,Class II
+Jamul Casino,Jamul Indian Village of California,True,"P.O. Box 612 14191 Hwy 94, Jamul CA 91935",CA,CA,Class III
+,Jena Band of Choctaw Indians,False,"P.O. Box 14, Jena LA 71342",LA,LA,Class II & III
+Miko's Gaming,Jena Band of Choctaw Indians,True,"P.O. Box 14, Jena LA 71342",LA,LA,Class II
+Miko's Gaming,Jena Band of Choctaw Indians,True,"P.O. Box 14, Jena LA 71342",LA,LA,Class II
+Choctaw Pines Casino,Jena Band of Choctaw Indians,True,"P.O. Box 14, Jena LA 71342",LA,LA,Class II
+Choctaw Pines Casino,Jena Band of Choctaw Indians,True,"P.O. Box 14, Jena LA 71342",LA,LA,Class II
+,Kalispel Indian Community of the Kalispel Reservation,False,"1981 LeClerc Rd North, Usk WA 99180",WA,WA,Class II & III
+Kalispel Casino,Kalispel Indian Community of the Kalispel Reservation,True,"1981 LeClerc Rd North, Usk WA 99180",WA,WA,Class II & III
+Northern Quest Resort & Casino,Kalispel Indian Community of the Kalispel Reservation,True,"1981 LeClerc Rd North, Usk WA 99180",WA,WA,Class II & III
+,Karuk Tribe,False,"P.O. Box 1016 64236 2nd Ave., Happy Camp CA 96039",CA,CA,Class II & III
+Rain Rock Casino,Karuk Tribe,True,"P.O. Box 1016 64236 2nd Ave., Happy Camp CA 96039",CA,CA,Class III
+,"Kaw Nation, Oklahoma",False,"5640 LaCann Drive, Kaw City OK 74647",OK,OK,Class II & III
+Rock and Brews Casino,"Kaw Nation, Oklahoma",True,"5640 LaCann Drive, Kaw City OK 74647 nan",OK,OK,Class II & III
+Rock and Brews Casino,"Kaw Nation, Oklahoma",True,"5640 LaCann Drive, Kaw City OK 74647 nan",OK,OK,Class II & III
+Kanza Casino,"Kaw Nation, Oklahoma",True,"5640 LaCann Drive, Kaw City OK 74647 nan",OK,OK,Class II & III
+,Keweenaw Bay Indian Community,False,"KBIC Tribal Center 16429  Bear Town Rd., Baraga MI 49908",KB,KB,Class II & III
+Ojibwa Casino II,Keweenaw Bay Indian Community,True,"KBIC Tribal Center 16429  Bear Town Rd., Baraga MI 49908",KB,KB,Class III
+Ojibwa Casino and Resort - Marquette,Keweenaw Bay Indian Community,True,"KBIC Tribal Center 16429  Bear Town Rd., Baraga MI 49908",KB,KB,Class II & III
+,Kickapoo Traditional Tribe of Texas,False,"2212 Rosita Valley Road, Eagle Pass TX 78852",TX,TX,Class II & III
+Kickapoo Lucky Eagle Casino,Kickapoo Traditional Tribe of Texas,True,"2212 Rosita Valley Road, Eagle Pass TX 78852",TX,TX,Class II
+,Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas,False,"824 111th Drive, Horton KS 66439",KS,KS,Class III
+Golden Eagle Casino,Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas,True,"824 111th Drive, Horton KS 66439",KS,KS,Class II & III
+,Kickapoo Tribe of Oklahoma,False,"P.O. Box 70, McLoud OK 74851",OK,OK,Class II & III
+Kickapoo Casino - Shawnee,Kickapoo Tribe of Oklahoma,True,"P.O. Box 70, McLoud OK 74851",OK,OK,Class II & III
+Kickapoo Casino - Shawnee,Kickapoo Tribe of Oklahoma,True,"P.O. Box 70, McLoud OK 74851",OK,OK,Class II & III
+Kickapoo Casino,Kickapoo Tribe of Oklahoma,True,"P.O. Box 70, McLoud OK 74851",OK,OK,Class II & III
+,Kiowa Tribe of Oklahoma,False,"100 W Kiowa Way, Carnegie OK 73015",OK,OK,Class II & III
+Kiowa Casino Carnegie,Kiowa Tribe of Oklahoma,True,"100 W Kiowa Way, Carnegie OK 73015",OK,OK,Class II & III
+Kiowa Casino Red River,Kiowa Tribe of Oklahoma,True,"100 W Kiowa Way, Carnegie OK 73015",OK,OK,Class II & III
+,"Klamath Tribes, Oregon",False,"PO Box 436 501 Chiloquin Blvd, Chiloquin OR 97624",PO,PO,Class II & III
+Kla-Mo-Ya Casino,"Klamath Tribes, Oregon",True,"PO Box 436 501 Chiloquin Blvd, Chiloquin OR 97624",PO,PO,Class III
+,Klawock Cooperative Association,False,"PO Box 430 310 Bayview Blvd, Klawock AK 99925",PO,PO,Class II & III
+Klawock Casino,Klawock Cooperative Association,True,"PO Box 430 310 Bayview Blvd, Klawock AK 99925",PO,PO,Class II
+,Kootenai Tribe of Idaho,False,"PO Box 1269 100 Circle Dr, Bonners Ferry ID 83805",PO,PO,Class II & III
+Kootenai River Inn Casino and Spa,Kootenai Tribe of Idaho,True,"PO Box 1269 100 Circle Dr, Bonners Ferry ID 83805",PO,PO,Class II & III
+,Lac du Flambeau Band of Lake Superior Chippewa Indians,False,"P.O. Box 67, Lac du Flambeau WI 54538",WI,WI,Class II & III
+Lake of the Torches Resort Casino,Lac du Flambeau Band of Lake Superior Chippewa Indians,True,"P.O. Box 67, Lac du Flambeau WI 54538",WI,WI,Class II & III
+,"Leech Lake Band of Minnesota Chippewa Tribe, Minnesota",False,"190 Salistar Dr. NW, Cass Lake MN 56633",NW,NW,Class III
+Big Winnie Bar,"Leech Lake Band of Minnesota Chippewa Tribe, Minnesota",True,"190 Salistar Dr. NW, Cass Lake MN 56633",NW,NW,Class II
+Charlie's Up North,"Leech Lake Band of Minnesota Chippewa Tribe, Minnesota",True,"190 Salistar Dr. NW, Cass Lake MN 56633",NW,NW,Class II
+Leino's Riverside Pub,"Leech Lake Band of Minnesota Chippewa Tribe, Minnesota",True,"190 Salistar Dr. NW, Cass Lake MN 56633",NW,NW,Class II
+Shingobee on the Bay,"Leech Lake Band of Minnesota Chippewa Tribe, Minnesota",True,"190 Salistar Dr. NW, Cass Lake MN 56633",NW,NW,Class II & III
+Cedar Lakes Casino & Hotel,"Leech Lake Band of Minnesota Chippewa Tribe, Minnesota",True,"190 Salistar Dr. NW, Cass Lake MN 56633",NW,NW,Class II & III
+White Oak Casino,"Leech Lake Band of Minnesota Chippewa Tribe, Minnesota",True,"190 Salistar Dr. NW, Cass Lake MN 56633",NW,NW,Class III
+Northern Lights Casino,"Leech Lake Band of Minnesota Chippewa Tribe, Minnesota",True,"190 Salistar Dr. NW, Cass Lake MN 56633",NW,NW,Class II & III
+,Little River Band of Ottawa Indians,False,"375 River St., Manistee MI 49660",MI,MI,Class II & III
+Little River Casino,Little River Band of Ottawa Indians,True,"375 River St., Manistee MI 49660",MI,MI,Class III
+,Little Traverse Bay Band of Odawa Indians,False,"7500 Odawa Circle, Harbor Springs MI 49740",MI,MI,Class II & III
+Odawa Casino Mackinaw City,Little Traverse Bay Band of Odawa Indians,True,"7500 Odawa Circle, Harbor Springs MI 49740",MI,MI,Class II
+Odawa Casino Resort,Little Traverse Bay Band of Odawa Indians,True,"7500 Odawa Circle, Harbor Springs MI 49740",MI,MI,Class II & III
+,Lower Brule Sioux Tribe of the Lower Brule Reservation,False,"187 Oyate Circle, Lower Brule SD 57548",SD,SD,Class II & III
+Golden Buffalo Casino & Resort,Lower Brule Sioux Tribe of the Lower Brule Reservation,True,"187 Oyate Circle, Lower Brule SD 57548",SD,SD,Class III
+,Lower Elwha Tribal Community,False,"2851 Lower Elwha Rd, Port Angeles WA 98363",WA,WA,Class II & III
+Elwha River Casino,Lower Elwha Tribal Community,True,"2851 Lower Elwha Rd, Port Angeles WA 98363",WA,WA,Class II
+,Lower Sioux Indian Community in the State of Minnesota,False,"P.O. Box 308 39527 Res. Hwy 1, Morton MN 56270",MN,MN,Class II & III
+Jackpot Junction Casino Hotel,Lower Sioux Indian Community in the State of Minnesota,True,"P.O. Box 308 39527 Res. Hwy 1, Morton MN 56270",MN,MN,Class II & III
+,"Lummi Tribe of the Lummi Reservation, Washington",False,"2665 Kwina Road, Bellingham WA 98226",WA,WA,Class II & III
+Silver Reef Casino,"Lummi Tribe of the Lummi Reservation, Washington",True,"2665 Kwina Road, Bellingham WA 98226",WA,WA,Class III
+,Lytton Rancheria of California,False,"437 Aviation Blvd., Santa Rosa CA 95403",CA,CA,Class II
+San Pablo Lytton Casino,Lytton Rancheria of California,True,"437 Aviation Blvd., Santa Rosa CA 95403",CA,CA,Class II
+,"Manchester Band of Pomo Indians of the Manchester Rancheria, California",False,"P.O. Box 623 24 Mamie Laiwa Dr., Point Arena CA 95468",CA,CA,Class II & III
+Garcia River Casino,"Manchester Band of Pomo Indians of the Manchester Rancheria, California",True,"P.O. Box 623 24 Mamie Laiwa Dr., Point Arena CA 95468",CA,CA,Class III
+,Mashantucket Pequot Indian Tribe,False,"P.O. Box 3060 2 Matts Path, Mashantucket CT 063383060",CT,CT,Class II & III
+Foxwoods Resort & Casino,Mashantucket Pequot Indian Tribe,True,"P.O. Box 3060 2 Matts Path, Mashantucket CT 63383060",CT,CT,Class II & III
+,Match-E-Be-Nash-She-Wish Band of Potawatomi Indians,False,"2872 Mission Drive, Shelbyville MI 49344",MI,MI,Class II & III
+Gun Lake Casino,Match-E-Be-Nash-She-Wish Band of Potawatomi Indians,True,"2872 Mission Drive, Shelbyville MI 49344",MI,MI,Class III
+,Mechoopda Indian Tribe of Chico Rancheria,False,"125 Mission Ranch Blvd., Chico CA 95926",CA,CA,Class II & III
+Mechoopda Casino,Mechoopda Indian Tribe of Chico Rancheria,True,"125 Mission Ranch Blvd., Chico CA 95926",CA,CA,Class II
+,Menominee Indian Tribe of Wisconsin,False,"P.O. Box 910, Keshena WI 54135",WI,WI,Class II & III
+Thunderbird C Store,Menominee Indian Tribe of Wisconsin,True,"P.O. Box 910, Keshena WI 54135 nan",WI,WI,Class III
+Menominee Casino Resort,Menominee Indian Tribe of Wisconsin,True,"P.O. Box 910, Keshena WI 54135",WI,WI,Class II & III
+,"Mescalero Apache Tribe of the Mescalero Reservation, NM",False,"P.O. Box 227, Mescalero NM 88340",NM,NM,Class II & III
+Casino Apache Travel Center,"Mescalero Apache Tribe of the Mescalero Reservation, NM",True,"P.O. Box 227, Mescalero NM 88340",NM,NM,Class II & III
+Inn of the Mountain Gods Resort and Casino,"Mescalero Apache Tribe of the Mescalero Reservation, NM",True,"P.O. Box 227, Mescalero NM 88340",NM,NM,Class II & III
+,"Metlakatla Indian Community, Annette Island Reservation",False,"8th and Milton Street, Metlakatla AK 99926",AK,AK,Class II
+MIC Gaming Casino,"Metlakatla Indian Community, Annette Island Reservation",True,"8th and Milton Street, Metlakatla AK 99926",AK,AK,Class II
+,Miami Tribe of Oklahoma,False,"P.O. Box 1326 3410 P St. NW, Miami OK 74355",NW,NW,Class II & III
+Prairie Moon Casino,Miami Tribe of Oklahoma,True,"P.O. Box 1326 3410 P St. NW, Miami OK 74355",NW,NW,Class II & III
+,Miccosukee Tribe of Indians of Florida,False,"P.O. Box 440021 Tamiami Station, Miami FL 33144",FL,FL,Class II
+Little Trail Casino,Miccosukee Tribe of Indians of Florida,True,"P.O. Box 440021 Tamiami Station, Miami FL 33144",FL,FL,Class II
+Miccosukee Resort & Gaming,Miccosukee Tribe of Indians of Florida,True,"P.O. Box 440021 Tamiami Station, Miami FL 33144",FL,FL,Class II
+,Middletown Rancheria of Pomo Indians of California,False,"P.O. Box 1035 22223 Hwy 29 @ Rancheria Rd, Middletown CA",CA,CA,Class II & III
+Twin Pine Casino,Middletown Rancheria of Pomo Indians of California,True,"P.O. Box 1035 22223 Hwy 29 @ Rancheria Rd, Middletown CA 95461",CA,CA,Class II & III
+,"Mille Lacs Band of Ojibwe, Minnesota",False,"43408 Oodena Drive, Onamia MN 56359",MN,MN,Class II & III
+Grand Casino Mille Lacs,"Mille Lacs Band of Ojibwe, Minnesota",True,"43408 Oodena Drive, Onamia MN 56359",MN,MN,Class II & III
+Grand Casino Mille Lacs,"Mille Lacs Band of Ojibwe, Minnesota",True,"43408 Oodena Drive, Onamia MN 56359",MN,MN,Class II & III
+Grand Casino Hinckley,"Mille Lacs Band of Ojibwe, Minnesota",True,"43408 Oodena Drive, Onamia MN 56359",MN,MN,Class II & III
+,Mississippi Band of Choctaw Indians,False,"P.O. Box 6010 101 Industrial Road, Choctaw MS 39350",MS,MS,Class II & III
+Golden Moon Hotel and Casino,Mississippi Band of Choctaw Indians,True,"P.O. Box 6010 101 Industrial Road, Choctaw MS 39350",MS,MS,Class II & III
+,Morongo Travel Center @ Morongo Trail Work Phone: 951-849-2895,False,"12700 Pumarra Road, Banning CA 92220",CA,CA,Class II & III
+, Casino Morongo,False,Work Fax: 951-849-2895,,,Other
+, Work Phone: 951-849-3080,False,"12700 Pumarra Road, Banning CA 92220",CA,CA,Class II & III
+, Morongo Casino Resort & Spa,False,Work Fax: 951-849-3181,,,Other
+, Work Phone: 800-252-4499,False,"12700 Pumarra Road, Banning CA 92220",CA,CA,Class II & III
+, Morongo Travel Center @ Seminole Dr.,False,Work Fax: 951-849-3181,,,Other
+, Work Phone: 951-849-2895,False,"12700 Pumarra Road, Banning CA 92220",CA,CA,Class II
+, Morongo Canyon Lanes,False,Work Fax: 951-849-5345,,,Other
+, Work Phone: 909-849-3080,False,"12700 Pumarra Road, Banning CA 92220",CA,CA,Class II
+, Creek Nation Casino - Checotah,False,Work Fax: 909-849-3181,,,Other
+, Creek Nation Casino - Checotah,False,Work Fax: 909-849-3181,,,Other
+, Creek Nation Casino - Checotah,False,Work Fax: 909-849-3181,,,Other
+, Creek Nation Casino - Checotah,False,Work Fax: 909-849-3181,,,Other
+, Work Phone: 918-473-5899,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-473-5899,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Creek Nation Casino - Checotah,False,Work Fax: 918-473-5899,,,Other
+, Creek Nation Casino - Checotah,False,Work Fax: 918-473-5899,,,Other
+, Creek Nation Casino - Checotah,False,Work Fax: 918-473-5899,,,Other
+, Creek Nation Casino - Checotah,False,Work Fax: 918-473-5899,,,Other
+, Work Phone: 918-473-5899,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-473-5899,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Creek Nation Casino - Checotah,False,Work Fax: 918-473-5899,,,Other
+, Creek Nation Casino - Checotah,False,Work Fax: 918-473-5899,,,Other
+, Creek Nation Casino - Checotah,False,Work Fax: 918-473-5899,,,Other
+, Creek Nation Casino - Checotah,False,Work Fax: 918-473-5899,,,Other
+, Work Phone: 918-473-4628,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-473-4628,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Creek Nation Casino - Checotah,False,Work Fax: 918-473-5899,,,Other
+, Creek Nation Casino - Checotah,False,Work Fax: 918-473-5899,,,Other
+, Creek Nation Casino - Checotah,False,Work Fax: 918-473-5899,,,Other
+, Creek Nation Casino - Checotah,False,Work Fax: 918-473-5899,,,Other
+, Work Phone: 918-473-4628,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-473-4628,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Suite Shots,False,Work Fax: 918-473-5899,,,Other
+, Suite Shots,False,Work Fax: 918-473-5899,,,Other
+, Suite Shots,False,Work Fax: 918-473-5899,,,Other
+, Suite Shots,False,Work Fax: 918-473-5899,,,Other
+, Suite Shots,False,Work Fax: 918-473-5899,,,Other
+, Suite Shots,False,Work Fax: 918-473-5899,,,Other
+, Suite Shots,False,Work Fax: 918-473-5899,,,Other
+, Suite Shots,False,Work Fax: 918-473-5899,,,Other
+, Suite Shots,False,Work Fax: 918-473-5899,,,Other
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Suite Shots,False,Work Fax: 918-995-8212,,,Other
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Suite Shots,False,Work Fax:,,,Other
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Creek Nation Travel Plaza - Muskogee,False,Work Fax: 918-995-8212,,,Other
+, Work Phone: 918-683-1825,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Creek Nation Travel Plaza - Okmulgee,False,Work Fax: 918-709-7509,,,Other
+, Work Phone: 918-756-8400,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+, Creek Nation Casino - Holdenville,False,Work Fax:,,,Other
+, Work Phone: 405-379-3321,False,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+Work Fax: 405-379-3504, Work Phone: 405-379-3321,True,,,OK,Other
+Creek Nation Casino - Muskogee, Work Phone: 405-379-3321,True,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+Creek Nation Casino - Okemah, Work Phone: 405-379-3321,True,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+One Fire Casino, Work Phone: 405-379-3321,True,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+River Spirit Casino, Work Phone: 405-379-3321,True,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+Creek Nation Casino -  Bristow, Work Phone: 405-379-3321,True,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+Creek Nation Casino - Duck Creek, Work Phone: 405-379-3321,True,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+Creek Nation Casino - Eufaula, Work Phone: 405-379-3321,True,"P.O. Box 580, Okmulgee OK 74447",OK,OK,Class II & III
+,Navajo Nation,False,"P.O. Box 9000, Window Rock AZ 86515",AZ,AZ,Class II & III
+Navajo Blue Travel Plaza- Twin Arrows Navajo Casino Resort,Navajo Nation,True,"P.O. Box 9000, Window Rock AZ 86515",AZ,AZ,Class III
+Northern Edge Navajo Casino,Navajo Nation,True,"P.O. Box 9000, Window Rock AZ 86515",AZ,AZ,Class II & III
+Twin Arrows Navajo Casino Resort,Navajo Nation,True,"P.O. Box 9000, Window Rock AZ 86515",AZ,AZ,Class II & III
+Flowing Waters Navajo Casino,Navajo Nation,True,"P.O. Box 9000, Window Rock AZ 86515",AZ,AZ,Class II
+Fire Rock Navajo Casino,Navajo Nation,True,"P.O. Box 9000, Window Rock AZ 86515",AZ,AZ,Class II & III
+,Nez Perce Tribe,False,"PO Box 305 100 Agency Rd, Lapwai ID 83540",PO,PO,Class II & III
+Nez Perce Express Convenience Store,Nez Perce Tribe,True,"PO Box 305 100 Agency Rd, Lapwai ID 83540",PO,PO,Class III
+Nez Perce Express Convenience Store,Nez Perce Tribe,True,"PO Box 305 100 Agency Rd, Lapwai ID 83540",PO,PO,Class III
+Clearwater River Casino & Lodge,Nez Perce Tribe,True,"PO Box 305 100 Agency Rd, Lapwai ID 83540",PO,PO,Class II & III
+It'Se Ye-Ye Casino,Nez Perce Tribe,True,"PO Box 305 100 Agency Rd, Lapwai ID 83540",PO,PO,Class III
+,Nisqually Indian Tribe,False,"4820 She-Nah-Num Dr SE, Olympia WA 98513",SE,SE,Class II & III
+Red Wind Casino,Nisqually Indian Tribe,True,"4820 She-Nah-Num Dr SE, Olympia WA 98513",SE,SE,Class III
+,Nooksack Indian Tribe of Washington,False,"PO Box 157 5016 Deming Rd, Deming WA 98244",PO,PO,Class III
+Northwood Casino,Nooksack Indian Tribe of Washington,True,"PO Box 157 5016 Deming Rd, Deming WA 98244",PO,PO,Class II
+,Northern Arapaho Tribe of the Wind River Indian Reservation,False,"P.O. Box 396, Fort Washakie WY 82514",WY,WY,Class II & III
+Wind River Casino,Northern Arapaho Tribe of the Wind River Indian Reservation,True,"P.O. Box 396, Fort Washakie WY 82514",WY,WY,Class II & III
+Little Wind Casino,Northern Arapaho Tribe of the Wind River Indian Reservation,True,"P.O. Box 396, Fort Washakie WY 82514",WY,WY,Class III
+,Northern Cheyenne Tribe of the Northern Cheyenne Indian Reservation,False,"P.O. Box 128, Lame Deer MT 59043",MT,MT,Class II & III
+Charging Horse Casino & Bingo,Northern Cheyenne Tribe of the Northern Cheyenne Indian Reservation,True,"P.O. Box 128, Lame Deer MT 59043",MT,MT,Class II & III
+,"Nottawaseppi Huron Band of Potawatomi, Michigan",False,"1485 Mno-Madzawen Way, Fulton MI 49052",MI,MI,Class II & III
+Firekeepers,"Nottawaseppi Huron Band of Potawatomi, Michigan",True,"1485 Mno-Madzawen Way, Fulton MI 49052",MI,MI,Class II & III
+,"Ohkay Owingeh, New Mexico",False,"P.O. Box 1099, San Juan NM 87566",NM,NM,Class II & III
+OHKAY Casino,"Ohkay Owingeh, New Mexico",True,"P.O. Box 1099, San Juan NM 87566",NM,NM,Class III
+,Omaha Tribe of Nebraska,False,"P.O. Box 368, Macy NE 68039",NE,NE,Class III
+Blackbird Bend Casino,Omaha Tribe of Nebraska,True,"P.O. Box 368, Macy NE 68039",NE,NE,Class III
+Lucky 77 Casino,Omaha Tribe of Nebraska,True,"P.O. Box 368, Macy NE 68039",NE,NE,Class II
+,Oneida Indian Nation,False,"2037 Dream Catcher Plaza, Oneida NY 13421",NY,NY,Class II & III
+Play On #39 Slot Parlor at Verona Crossroads,Oneida Indian Nation,True,"2037 Dream Catcher Plaza, Oneida NY 13421",NY,NY,Class II
+SavOn Gas & Cigarettes #015,Oneida Indian Nation,True,"2037 Dream Catcher Plaza, Oneida NY 13421",NY,NY,Class II
+SavOn Gas and Cigarettes #032,Oneida Indian Nation,True,"2037 Dream Catcher Plaza, Oneida NY 13421",NY,NY,Class II
+Point Place Casino,Oneida Indian Nation,True,"2037 Dream Catcher Plaza, Oneida NY 13421",NY,NY,Class III
+The Lake House at Sylvan Beach,Oneida Indian Nation,True,"2037 Dream Catcher Plaza, Oneida NY 13421",NY,NY,Class II
+Yellow Brick Road Casino,Oneida Indian Nation,True,"2037 Dream Catcher Plaza, Oneida NY 13421",NY,NY,Class III
+Oneida Lake Savon #34,Oneida Indian Nation,True,"2037 Dream Catcher Plaza, Oneida NY 13421",NY,NY,Class II
+Turning Stone Casino,Oneida Indian Nation,True,"2037 Dream Catcher Plaza, Oneida NY 13421",NY,NY,Class II & III
+,Oneida Nation,False,"P.O. Box 365 N7210 Seminary Rd, Oneida WI 54155",WI,WI,Class II & III
+Oneida Travel Center,Oneida Nation,True,"P.O. Box 365 N7210 Seminary Rd, Oneida WI 54155",WI,WI,Class III
+Oneida Packerland One Stop,Oneida Nation,True,"P.O. Box 365 N7210 Seminary Rd, Oneida WI 54155",WI,WI,Class III
+Oneida Bingo & Casino,Oneida Nation,True,"P.O. Box 365 N7210 Seminary Rd, Oneida WI 54155",WI,WI,Class II & III
+Mason Street Casino,Oneida Nation,True,"P.O. Box 365 N7210 Seminary Rd, Oneida WI 54155",WI,WI,Class II & III
+Imac Bingo Facility,Oneida Nation,True,"P.O. Box 365 N7210 Seminary Rd, Oneida WI 54155",WI,WI,Class II & III
+,"Otoe-Missouria Tribe of Indians, Oklahoma",False,"8151 Highway 177, Red Rock OK 74651",OK,OK,Class II & III
+7 Clans Paradise Casino,"Otoe-Missouria Tribe of Indians, Oklahoma",True,"8151 Highway 177, Red Rock OK 74651",OK,OK,Class II & III
+7 Clans Casino Perry,"Otoe-Missouria Tribe of Indians, Oklahoma",True,"8151 Highway 177, Red Rock OK 74651",OK,OK,Class II & III
+7 Clans Red Rock Gasino,"Otoe-Missouria Tribe of Indians, Oklahoma",True,"8151 Highway 177, Red Rock OK 74651",OK,OK,Class II & III
+7 Clans Chilocco Gasino,"Otoe-Missouria Tribe of Indians, Oklahoma",True,"8151 Highway 177, Red Rock OK 74651",OK,OK,Class II & III
+7 Clans First Council Casino,"Otoe-Missouria Tribe of Indians, Oklahoma",True,"8151 Highway 177, Red Rock OK 74651",OK,OK,Class II & III
+,Ottawa Tribe of Oklahoma,False,"13 S. 69A P.O. Box 110, Miami OK 74355",OK,OK,Class II & III
+High Winds Casino,Ottawa Tribe of Oklahoma,True,"13 S. 69A P.O. Box 110, Miami OK 74355",OK,OK,Class II & III
+,Pala Band of Luiseno Mission Indians of the Pala Reservation,False,"35008 Pala Temecula Road PMB 50, Pala CA 92059",PM,PM,Class II & III
+Pala Casino Resort and Spa,Pala Band of Luiseno Mission Indians of the Pala Reservation,True,"35008 Pala Temecula Road PMB 50, Pala CA 92059 nan",PM,PM,Class II & III
+,Pascua Yaqui Tribe of Arizona,False,"7474 S. Camino De Oeste, Tucson AZ 85746",AZ,AZ,Class II & III
+Del Sol Marketplace,Pascua Yaqui Tribe of Arizona,True,"7474 S. Camino De Oeste, Tucson AZ 85746",AZ,AZ,Class II
+Casino Del Sol,Pascua Yaqui Tribe of Arizona,True,"7474 S. Camino De Oeste, Tucson AZ 85746",AZ,AZ,Class II & III
+Casino of the Sun,Pascua Yaqui Tribe of Arizona,True,"7474 S. Camino De Oeste, Tucson AZ 85746",AZ,AZ,Class III
+,Paskenta Band of Nomlaki Indians,False,"2655 Everett Freeman Way PO Box 709, Corning CA 960219336",PO,PO,Class II & III
+South Tower at Rolling Hills,Paskenta Band of Nomlaki Indians,True,"2655 Everett Freeman Way PO Box 709, Corning CA 960219336",PO,PO,Class II
+The Travel Center,Paskenta Band of Nomlaki Indians,True,"2655 Everett Freeman Way PO Box 709, Corning CA 960219336",PO,PO,Class II
+The Equestrian Center,Paskenta Band of Nomlaki Indians,True,"2655 Everett Freeman Way PO Box 709, Corning CA 960219336",PO,PO,Class II
+The Travel Clubhouse,Paskenta Band of Nomlaki Indians,True,"2655 Everett Freeman Way PO Box 709, Corning CA 960219336",PO,PO,Class II
+The Links at Rolling Hills,Paskenta Band of Nomlaki Indians,True,"2655 Everett Freeman Way PO Box 709, Corning CA 960219336",PO,PO,Class II
+Rolling Hills Casino,Paskenta Band of Nomlaki Indians,True,"2655 Everett Freeman Way PO Box 709, Corning CA 960219336",PO,PO,Class III
+,Pauma Band of Luiseno Mission Indians of the Pauma - Yuima Reservation,False,"1010 Pauma Reservation Road P.O. Box 369, Pauma Valley CA",CA,CA,Class II & III
+Casino Pauma,Pauma Band of Luiseno Mission Indians of the Pauma - Yuima Reservation,True,"1010 Pauma Reservation Road P.O. Box 369, Pauma Valley CA 92061",CA,CA,Class II & III
+,Pawnee Nation of Oklahoma,False,"P.O. Box 470 881 Little Deer Drive, Pawnee OK 74058",OK,OK,Class II & III
+TeePee Casino,Pawnee Nation of Oklahoma,True,"P.O. Box 470 881 Little Deer Drive, Pawnee OK 74058",OK,OK,Class II & III
+Stonewolf Casino,Pawnee Nation of Oklahoma,True,"P.O. Box 470 881 Little Deer Drive, Pawnee OK 74058",OK,OK,Class II & III
+Pawnee Nation Trading Post & Casino,Pawnee Nation of Oklahoma,True,"P.O. Box 470 881 Little Deer Drive, Pawnee OK 74058 nan",OK,OK,Class II & III
+,Pechanga Band of Luiseno Mission Indians of the Pechanga Reservation,False,"P.O. Box 1477 12705 Pechanga Rd., Temecula CA 92593",CA,CA,Class II & III
+Pechanga Resort and Casino,Pechanga Band of Luiseno Mission Indians of the Pechanga Reservation,True,"P.O. Box 1477 12705 Pechanga Rd., Temecula CA 92593",CA,CA,Class II & III
+Pechanga Resort and Casino,Pechanga Band of Luiseno Mission Indians of the Pechanga Reservation,True,"P.O. Box 1477 12705 Pechanga Rd., Temecula CA 92593",CA,CA,Class II & III
+,Peoria Tribe of Indians of Oklahoma,False,"P.O. Box 1527, Miami OK 74355",OK,OK,Class II & III
+Buffalo Run Casino,Peoria Tribe of Indians of Oklahoma,True,"P.O. Box 1527, Miami OK 74355",OK,OK,Class II & III
+,Picayune Rancheria of Chukchansi Indians,False,"49260 Chapel Hill, Oakhurst CA 93644",CA,CA,Class II & III
+Chukchansi Gold Resort and Casino,Picayune Rancheria of Chukchansi Indians,True,"49260 Chapel Hill, Oakhurst CA 93644",CA,CA,Class III
+Chukchansi Gold Resort and Casino,Picayune Rancheria of Chukchansi Indians,True,"49260 Chapel Hill, Oakhurst CA 93644",CA,CA,Class III
+,Pit River Tribe,False,"36970 Park Ave, Burney CA 96013",CA,CA,Class II & III
+Pit River Casino,Pit River Tribe,True,"36970 Park Ave, Burney CA 96013",CA,CA,Class III
+,Poarch Band of Creek Indians,False,"5811 Jack Springs Road, Atmore AL 36502",AL,AL,Class II
+Wind Creek Casino and Hotel - Montgomery,Poarch Band of Creek Indians,True,"5811 Jack Springs Road, Atmore AL 36502",AL,AL,Class II
+Wind Creek Casino and Hotel - Atmore,Poarch Band of Creek Indians,True,"5811 Jack Springs Road, Atmore AL 36502",AL,AL,Class II
+Wind Creek Casino and Hotel - Wetumpka,Poarch Band of Creek Indians,True,"5811 Jack Springs Road, Atmore AL 36502",AL,AL,Class II
+,Pokagon Band of Potawatomi Indians of Michigan and Indiana,False,"PO Box 180 58620 Sink Rd., Dowagiac MI 49047",PO,PO,Class II & III
+Four Winds Casino South Bend,Pokagon Band of Potawatomi Indians of Michigan and Indiana,True,"PO Box 180 58620 Sink Rd., Dowagiac MI 49047",PO,PO,Class II
+Four Winds Casino Dowagiac,Pokagon Band of Potawatomi Indians of Michigan and Indiana,True,"PO Box 180 58620 Sink Rd., Dowagiac MI 49047",PO,PO,Class II & III
+Four Winds Hartford,Pokagon Band of Potawatomi Indians of Michigan and Indiana,True,"PO Box 180 58620 Sink Rd., Dowagiac MI 49047",PO,PO,Class II & III
+Four Winds Casino Resort,Pokagon Band of Potawatomi Indians of Michigan and Indiana,True,"PO Box 180 58620 Sink Rd., Dowagiac MI 49047",PO,PO,Class II & III
+,Ponca Tribe of Indians of Oklahoma,False,"20 White Eagle Drive, Ponca City OK 74601",OK,OK,Class II & III
+Fancy Dance Casino,Ponca Tribe of Indians of Oklahoma,True,"20 White Eagle Drive, Ponca City OK 74601",OK,OK,Class II & III
+,Ponca Tribe of Nebraska,False,"P.O. Box 288, Niobrara NE 68760",NE,NE,Class II & III
+Prairie Flower Casino,Ponca Tribe of Nebraska,True,"P.O. Box 288, Niobrara NE 68760",NE,NE,Class III
+,Port Gamble S'Klallam Tribe,False,"31912 Little Boston Rd NE, Kingston WA 98346",NE,NE,Class II & III
+The Point Casino,Port Gamble S'Klallam Tribe,True,"31912 Little Boston Rd NE, Kingston WA 98346",NE,NE,Class II & III
+,Prairie Band Potawatomi Nation,False,"16281 Q Road, Mayetta KS 66509",KS,KS,Class II & III
+Prairie Band One Stop,Prairie Band Potawatomi Nation,True,"16281 Q Road, Mayetta KS 66509",KS,KS,Class II
+Prairie Band Casino and Resort,Prairie Band Potawatomi Nation,True,"16281 Q Road, Mayetta KS 66509",KS,KS,Class II & III
+,Prairie Island Indian Community in the State of Minnesota,False,"5636 Sturgeon Lake Road, Welch MN 55089",MN,MN,Class II & III
+Treasure Island Resort & Casino,Prairie Island Indian Community in the State of Minnesota,True,"5636 Sturgeon Lake Road, Welch MN 55089",MN,MN,Class II & III
+,"Pueblo of Acoma, New Mexico",False,"P.O. Box 309, Acoma NM 87034",NM,NM,Class II & III
+Sky City Travel Center,"Pueblo of Acoma, New Mexico",True,"P.O. Box 309, Acoma NM 87034",NM,NM,Class III
+Sky City Casino,"Pueblo of Acoma, New Mexico",True,"P.O. Box 309, Acoma NM 87034",NM,NM,Class II & III
+,Pueblo of Isleta,False,"P.O. Box 1270, Isleta NM 87022",NM,NM,Class II & III
+Isleta Resort & Casino,Pueblo of Isleta,True,"P.O. Box 1270, Isleta NM 87022",NM,NM,Class II & III
+,Pueblo of Laguna,False,"P.O. Box 194, Laguna NM 87026",NM,NM,Class II & III
+Rt. 66 Casino,Pueblo of Laguna,True,"P.O. Box 194, Laguna NM 87026",NM,NM,Class II & III
+Rt. 66 Casino Express,Pueblo of Laguna,True,"P.O. Box 194, Laguna NM 87026",NM,NM,Class III
+Dancing Eagle Casino,Pueblo of Laguna,True,"P.O. Box 194, Laguna NM 87026",NM,NM,Class II & III
+,Pueblo of Pojoaque,False,"78 Cities of Gold Road, Santa Fe NM 87506",NM,NM,Class II & III
+Buffalo Thunder,Pueblo of Pojoaque,True,"78 Cities of Gold Road, Santa Fe NM 87506",NM,NM,Class II & III
+Cities of Gold Casino,Pueblo of Pojoaque,True,"78 Cities of Gold Road, Santa Fe NM 87506",NM,NM,Class II & III
+,Pueblo of San Felipe,False,"P.O. Box 4339, San Felipe NM 87001",NM,NM,Class II & III
+Travel Center - Slot Stop,Pueblo of San Felipe,True,"P.O. Box 4339, San Felipe NM 87001",NM,NM,Class III
+Black Mesa Casino,Pueblo of San Felipe,True,"P.O. Box 4339, San Felipe NM 87001",NM,NM,Class III
+,Pueblo of Sandia,False,"481 Sandia Loop, Bernalillo NM 87004",NM,NM,Class II & III
+Sandia Resort and Casino,Pueblo of Sandia,True,"481 Sandia Loop, Bernalillo NM 87004",NM,NM,Class II & III
+,Pueblo of Santa Ana,False,"2 Dove Road, Santa Ana Pueblo NM 87004",NM,NM,Class II & III
+Santa Ana Star Casino,Pueblo of Santa Ana,True,"2 Dove Road, Santa Ana Pueblo NM 87004",NM,NM,Class III
+,Pueblo of Santa Clara,False,"P.O. Box 580, Espanola NM 87532",NM,NM,Class III
+Santa Claran Hotel Casino,Pueblo of Santa Clara,True,"P.O. Box 580, Espanola NM 87532",NM,NM,Class II & III
+,Pueblo of Taos,False,"P.O. Box 1846, Taos NM 87571",NM,NM,Class II & III
+Taos Mountain Casino,Pueblo of Taos,True,"P.O. Box 1846, Taos NM 87571",NM,NM,Class III
+,"Pueblo of Tesuque, New Mexico",False,"Route 42 Box 360-T, Santa Fe NM 87506",NM,NM,Class II & III
+Tesuque Casino,"Pueblo of Tesuque, New Mexico",True,"Route 42 Box 360-T, Santa Fe NM 87506",NM,NM,Class III
+,"Puyallup Tribe of Indians, Washington",False,"3009 E Portland Ave, Tacoma WA 98404",WA,WA,Class II & III
+"BJ's Enterprises, Inc.","Puyallup Tribe of Indians, Washington",True,"3009 E Portland Ave, Tacoma WA 98404",WA,WA,Class II
+Emerald Queen Casino and Hotel in Tacoma,"Puyallup Tribe of Indians, Washington",True,"3009 E Portland Ave, Tacoma WA 98404",WA,WA,Class II & III
+Emerald Queen Casino at Fife,"Puyallup Tribe of Indians, Washington",True,"3009 E Portland Ave, Tacoma WA 98404",WA,WA,Class III
+,"Quapaw Tribe of Indians, Oklahoma",False,"69300 East Nee Road, Quapaw OK 74363",OK,OK,Class II & III
+Quapaw Casino,"Quapaw Tribe of Indians, Oklahoma",True,"69300 East Nee Road, Quapaw OK 74363",OK,OK,Class II & III
+Downstream Casino,"Quapaw Tribe of Indians, Oklahoma",True,"69300 East Nee Road, Quapaw OK 74363",OK,OK,Class II & III
+,Quechan Indian Tribe/CA,False,"350 Picacho Rd. PO Box 1899 Yuma AZ 85366, Winterhaven",PO,PO,Class III
+CA 92283,Quechan Indian Tribe/CA,True,,,PO,Other
+Quechan Casino Resort,Quechan Indian Tribe/CA,True,"350 Picacho Rd. PO Box 1899 Yuma AZ 85366, Winterhaven CA 92283",PO,PO,Class II & III
+,"Quechan Tribe of the Fort Yuma Indian Reservation, CA and AZ",False,"P.O. Box 1899, Yuma AZ 85366",AZ,AZ,Class II & III
+Quechan Casino Resort,"Quechan Tribe of the Fort Yuma Indian Reservation, CA and AZ",True,"P.O. Box 1899, Yuma AZ 85366",AZ,AZ,Class II & III
+Quechan Paradise Casino Arizona,"Quechan Tribe of the Fort Yuma Indian Reservation, CA and AZ",True,"P.O. Box 1899, Yuma AZ 85366",AZ,AZ,Class II & III
+,"Quinault Indian Nation, Washington",False,"PO Box 189 1214 Aalis Drive, Taholah WA 98587",PO,PO,Class II & III
+Quinault Beach Resort and Casino,"Quinault Indian Nation, Washington",True,"PO Box 189 1214 Aalis Drive, Taholah WA 98587",PO,PO,Class II & III
+,Red Cliff Band of Lake Superior Chippewa Indians of Wisconsin,False,"88455 Pike Rd Hwy 13, Bayfield WI 54814",WI,WI,Class II & III
+Legendary Waters Resort and Casino,Red Cliff Band of Lake Superior Chippewa Indians of Wisconsin,True,"88455 Pike Rd Hwy 13, Bayfield WI 54814",WI,WI,Class II & III
+,Red Lake Band of Chippewa Indians,False,"P.O. Box 550, Red Lake MN 56671",MN,MN,Class II & III
+Seven Clans Casino - Red Lake,Red Lake Band of Chippewa Indians,True,"P.O. Box 550, Red Lake MN 56671",MN,MN,Class II & III
+Seven Clans Casino - Thief River Falls,Red Lake Band of Chippewa Indians,True,"P.O. Box 550, Red Lake MN 56671",MN,MN,Class II & III
+Seven Clans Casino - Warroad,Red Lake Band of Chippewa Indians,True,"P.O. Box 550, Red Lake MN 56671",MN,MN,Class II & III
+,Redding Rancheria,False,"2000 Redding Rancheria Road, Redding CA 96001",CA,CA,Class II & III
+Win-River Casino,Redding Rancheria,True,"2000 Redding Rancheria Road, Redding CA 96001",CA,CA,Class II & III
+,Rincon Band of Luiseno Mission Indians of the Rincon Reservation,False,"One Government Center Lane, Valley Center CA 92082",CA,CA,Class II & III
+Harrah's Southern California Resort,Rincon Band of Luiseno Mission Indians of the Rincon Reservation,True,"One Government Center Lane, Valley Center CA 92082",CA,CA,Class II & III
+,Robinson Rancheria,False,"P.O. Box 428, Nice CA 95464",CA,CA,Class II & III
+Robinson Rancheria Bingo & Casino,Robinson Rancheria,True,"P.O. Box 428, Nice CA 95464",CA,CA,Class II & III
+,Rosebud Sioux Tribe of the Rosebud Indian Reservation,False,"P.O. Box 430, Rosebud SD 57570",SD,SD,Class II & III
+Rosebud Casino,Rosebud Sioux Tribe of the Rosebud Indian Reservation,True,"P.O. Box 430, Rosebud SD 57570",SD,SD,Class II & III
+,"Round Valley Indian Tribes, Round Valley Reservation, California",False,"77826 Covelo Road, Covelo CA 95428",CA,CA,Class II & III
+Hidden Oaks Casino,"Round Valley Indian Tribes, Round Valley Reservation, California",True,"77826 Covelo Road, Covelo CA 95428",CA,CA,Class II
+,"Sac & Fox Nation, Oklahoma",False,"920883 South Highway 99 Building A, Stroud OK 74079",OK,OK,Class II
+Black Hawk Casino,"Sac & Fox Nation, Oklahoma",True,"920883 South Highway 99 Building A, Stroud OK 74079",OK,OK,Class II & III
+Sac and Fox Nation Casino - Stroud,"Sac & Fox Nation, Oklahoma",True,"920883 South Highway 99 Building A, Stroud OK 74079",OK,OK,Class II & III
+,Sac & Fox Tribe of the Mississippi in Iowa,False,"349 Meskwaki Road, Tama IA 52339",IA,IA,Class II & III
+"Meskwaki Bingo, Casino, Hotel",Sac & Fox Tribe of the Mississippi in Iowa,True,"349 Meskwaki Road, Tama IA 52339",IA,IA,Class II & III
+,Sac and Fox Nation of Missouri in Kansas & Nebraska,False,"305 N. Main, Reserve KS 66434",KS,KS,Class II & III
+Sac & Fox Casino,Sac and Fox Nation of Missouri in Kansas & Nebraska,True,"305 N. Main, Reserve KS 66434",KS,KS,Class II & III
+,Saginaw Chippewa Indian Tribe of Michigan,False,"7070 E. Broadway Rd., Mt. Pleasant MI 48858",MI,MI,Class II & III
+Soaring Eagle Casino & Resort,Saginaw Chippewa Indian Tribe of Michigan,True,"7070 E. Broadway Rd., Mt. Pleasant MI 48858",MI,MI,Class II & III
+Soaring Eagle-Slot Palace and Bingo Hall,Saginaw Chippewa Indian Tribe of Michigan,True,"7070 E. Broadway Rd., Mt. Pleasant MI 48858",MI,MI,Class II & III
+Saganing Eagle's Landing Casino,Saginaw Chippewa Indian Tribe of Michigan,True,"7070 E. Broadway Rd., Mt. Pleasant MI 48858",MI,MI,Class III
+,Saint Regis Mohawk Tribe,False,"Akwesasne Community Building 412 State Route 37, Akwesasne",,,Class II & III
+NY 13655,Saint Regis Mohawk Tribe,True,nan nan,,,Other
+Akwesasne Mohawk Casino Resort,Saint Regis Mohawk Tribe,True,"Akwesasne Community Building 412 State Route 37, Akwesasne NY 13655",NY,,Class II & III
+,Salt River Pima-Maricopa Indian Community,False,"10005 East Osborn Road, Scottsdale AZ 85256",AZ,AZ,Class II & III
+Casino Arizona,Salt River Pima-Maricopa Indian Community,True,"10005 East Osborn Road, Scottsdale AZ 85256",AZ,AZ,Class II & III
+Talking Stick Resort,Salt River Pima-Maricopa Indian Community,True,"10005 East Osborn Road, Scottsdale AZ 85256",AZ,AZ,Class II & III
+,San Carlos Apache Tribe of the San Carlos Reservation,False,"P.O. Box 0, San Carlos AZ 85550",AZ,AZ,Class II & III
+Apache Gold Casino,San Carlos Apache Tribe of the San Carlos Reservation,True,"P.O. Box 0, San Carlos AZ 85550",AZ,AZ,Class II & III
+Apache Sky Casino,San Carlos Apache Tribe of the San Carlos Reservation,True,"P.O. Box 0, San Carlos AZ 85550",AZ,AZ,Class III
+,San Pasqual Band of Diegueno Mission Indians of California,False,"P.O. Box 365 16400 Kumeyaay Way, Valley Center CA 92082",CA,CA,Class II & III
+Valley View Casino,San Pasqual Band of Diegueno Mission Indians of California,True,"P.O. Box 365 16400 Kumeyaay Way, Valley Center CA 92082",CA,CA,Class III
+,Santa Rosa Rancheria Tachi Yokut Tribe,False,"P.O. Box 8 16835 Alkali Drive, Lemoore CA 93245",CA,CA,Class II & III
+Yokut Hall,Santa Rosa Rancheria Tachi Yokut Tribe,True,"P.O. Box 8 16835 Alkali Drive, Lemoore CA 93245",CA,CA,Class II & III
+Yokut Gas,Santa Rosa Rancheria Tachi Yokut Tribe,True,"P.O. Box 8 16835 Alkali Drive, Lemoore CA 93245",CA,CA,Class II
+Tachi Palace Hotel and Casino,Santa Rosa Rancheria Tachi Yokut Tribe,True,"P.O. Box 8 16835 Alkali Drive, Lemoore CA 93245",CA,CA,Class II & III
+,Santa Ynez Band of Chumash Mission Indians of the Santa Ynez Reservation,False,"P.O. Box 517 100 Via Juana Lane, Santa Ynez CA 93460",CA,CA,Class II & III
+Chumash Casino and Resort Enterprises,Santa Ynez Band of Chumash Mission Indians of the Santa Ynez Reservation,True,"P.O. Box 517 100 Via Juana Lane, Santa Ynez CA 93460",CA,CA,Class II & III
+,Santee Sioux Nation,False,"108 Spirit Lake Avenue West, Niobrara NE 68760",NE,NE,Class II
+Ohiya Casino and Resort,Santee Sioux Nation,True,"108 Spirit Lake Avenue West, Niobrara NE 68760",NE,NE,Class II
+,Sault Ste. Marie Tribe of Chippewa Indians of Michigan,False,"523 Ashmun Street, Sault Ste. Marie MI 49783",MI,MI,Class II & III
+"Kewadin Casino, Manistique",Sault Ste. Marie Tribe of Chippewa Indians of Michigan,True,"523 Ashmun Street, Sault Ste. Marie MI 49783",MI,MI,Class II & III
+"Kewadin Casino, St. Ignace",Sault Ste. Marie Tribe of Chippewa Indians of Michigan,True,"523 Ashmun Street, Sault Ste. Marie MI 49783",MI,MI,Class II & III
+Kewadin Casino Christmas,Sault Ste. Marie Tribe of Chippewa Indians of Michigan,True,"523 Ashmun Street, Sault Ste. Marie MI 49783",MI,MI,Class III
+"Kewadin Casino, Hessel",Sault Ste. Marie Tribe of Chippewa Indians of Michigan,True,"523 Ashmun Street, Sault Ste. Marie MI 49783",MI,MI,Class III
+"Kewadin Casino, Hotel & Convention Center",Sault Ste. Marie Tribe of Chippewa Indians of Michigan,True,"523 Ashmun Street, Sault Ste. Marie MI 49783",MI,MI,Class II & III
+,Seminole Nation of Oklahoma,False,"P.O. Box 1498, Wewoka OK 74884",OK,OK,Class II & III
+Seminole Nation Rivermist Casino,Seminole Nation of Oklahoma,True,"P.O. Box 1498, Wewoka OK 74884",OK,OK,Class II & III
+Wewoka Trading Post,Seminole Nation of Oklahoma,True,"P.O. Box 1498, Wewoka OK 74884",OK,OK,Class II & III
+Seminole Nation Casino,Seminole Nation of Oklahoma,True,"P.O. Box 1498, Wewoka OK 74884",OK,OK,Class II & III
+,Seminole Tribe of Florida,False,"6300 Stirling Road, Hollywood FL 33024",FL,FL,Class II & III
+Seminole Brighton Bay Hotel & Casino,Seminole Tribe of Florida,True,"6300 Stirling Road, Hollywood FL 33024",FL,FL,Class II & III
+Seminole Indian Casino - Coconut Creek,Seminole Tribe of Florida,True,"6300 Stirling Road, Hollywood FL 33024",FL,FL,Class II & III
+Seminole Indian Casino - Hollywood,Seminole Tribe of Florida,True,"6300 Stirling Road, Hollywood FL 33024",FL,FL,Class II & III
+Seminole Indian Casino - Immokalee,Seminole Tribe of Florida,True,"6300 Stirling Road, Hollywood FL 33024",FL,FL,Class II & III
+Seminole Hard Rock Hotel & Casino - Hollywood,Seminole Tribe of Florida,True,"6300 Stirling Road, Hollywood FL 33024",FL,FL,Class II & III
+Seminole Hard Rock Hotel & Casino - Tampa,Seminole Tribe of Florida,True,"6300 Stirling Road, Hollywood FL 33024",FL,FL,Class II & III
+,Seneca Nation of Indians,False,"12837 Route 438, Irving NY 14081",NY,NY,Class II & III
+Seneca Gaming and Entertainment - Oil Springs,Seneca Nation of Indians,True,"12837 Route 438, Irving NY 14081",NY,NY,Class II
+Seneca Gaming and Entertainment - Irving,Seneca Nation of Indians,True,"12837 Route 438, Irving NY 14081",NY,NY,Class II
+Seneca Niagara Casino,Seneca Nation of Indians,True,"12837 Route 438, Irving NY 14081",NY,NY,Class II & III
+Seneca Allegany Casino,Seneca Nation of Indians,True,"12837 Route 438, Irving NY 14081",NY,NY,Class III
+Seneca Buffalo Creek Casino,Seneca Nation of Indians,True,"12837 Route 438, Irving NY 14081",NY,NY,Class III
+Seneca Gaming and Entertainment - Salamanca,Seneca Nation of Indians,True,"12837 Route 438, Irving NY 14081",NY,NY,Class II
+,Seneca-Cayuga Nation,False,"23701 S. 655 Rd., Grove OK 74344",OK,OK,Class II & III
+Grand Lake Casino,Seneca-Cayuga Nation,True,"23701 S. 655 Rd., Grove OK 74344",OK,OK,Class II & III
+,Shakopee Mdewakanton Sioux Community of Minnesota,False,"2330 Sioux Trail NW, Prior Lake MN 55372",NW,NW,Class II & III
+Mystic Lake Casino,Shakopee Mdewakanton Sioux Community of Minnesota,True,"2330 Sioux Trail NW, Prior Lake MN 55372",NW,NW,Class II & III
+Little Six Casino,Shakopee Mdewakanton Sioux Community of Minnesota,True,"2330 Sioux Trail NW, Prior Lake MN 55372",NW,NW,Class II & III
+,"Shawnee Tribe, Oklahoma",False,"P.O. Box 189, Miami OK 74355",OK,OK,Class II & III
+Golden Mesa Casino,"Shawnee Tribe, Oklahoma",True,"P.O. Box 189, Miami OK 74355",OK,OK,Class II & III
+,Sherwood Valley Rancheria,False,"190 Sherwood Hill Dr., Willits CA 95490",CA,CA,Class II & III
+Sherwood Valley Rancheria Casino,Sherwood Valley Rancheria,True,"190 Sherwood Hill Dr., Willits CA 95490",CA,CA,Class III
+,Shingle Springs Band of Miwok Indians,False,"P.O. Box 1340 5281 Honpie Rd, Shingle Springs CA 95682",CA,CA,Class II & III
+Red Hawk Casino,Shingle Springs Band of Miwok Indians,True,"P.O. Box 1340 5281 Honpie Rd, Shingle Springs CA 95682",CA,CA,Class II & III
+,"Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington",False,"PO Box 130 2373 Tokeland Rd, Tokeland WA 98590",PO,PO,Class II & III
+Shoalwater Bay Casino,"Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington",True,"PO Box 130 2373 Tokeland Rd, Tokeland WA 98590",PO,PO,Class II
+,Shoshone Tribe of the Wind River Indian Reservation,False,"P.O. Box 538, Fort Washakie WY 82514",WY,WY,Class II & III
+Shoshone Rose Casino,Shoshone Tribe of the Wind River Indian Reservation,True,"P.O. Box 538, Fort Washakie WY 82514",WY,WY,Class III
+,"Shoshone-Bannock Tribes, Idaho",False,"PO Box 306 Agency Bldg 82, 1 Pima Drive, Fort Hall ID 83203",PO,PO,Class II & III
+Bannock Peak Casino,"Shoshone-Bannock Tribes, Idaho",True,"PO Box 306 Agency Bldg 82, 1 Pima Drive, Fort Hall ID 83203",PO,PO,Class III
+Shoshone-Bannock Casino,"Shoshone-Bannock Tribes, Idaho",True,"PO Box 306 Agency Bldg 82, 1 Pima Drive, Fort Hall ID 83203",PO,PO,Class II & III
+Sage Hill Travel Center & Casino,"Shoshone-Bannock Tribes, Idaho",True,"PO Box 306 Agency Bldg 82, 1 Pima Drive, Fort Hall ID 83203",PO,PO,Class III
+,Sisseton-Wahpeton Oyate of the Lake Traverse Reservation,False,"Box 509, Agency Village SD 57262",SD,SD,Class II & III
+Dakota Connection Casino,Sisseton-Wahpeton Oyate of the Lake Traverse Reservation,True,"Box 509, Agency Village SD 57262",SD,SD,Class II & III
+Dakota Magic Casino,Sisseton-Wahpeton Oyate of the Lake Traverse Reservation,True,"Box 509, Agency Village SD 57262",SD,SD,Class II & III
+Dakota Sioux Casino,Sisseton-Wahpeton Oyate of the Lake Traverse Reservation,True,"Box 509, Agency Village SD 57262",SD,SD,Class II & III
+,Skokomish Indian Tribe,False,"80 N Tribal Center Rd, Skokomish Nation WA 98584",WA,WA,Class II & III
+Lucky Dog Casino,Skokomish Indian Tribe,True,"80 N Tribal Center Rd, Skokomish Nation WA 98584",WA,WA,Class III
+,Snoqualmie Indian Tribe,False,"8130 Railroad Ave., Ste. 103, Snoqualmie WA 98065",WA,WA,Class II & III
+Snoqualmie Casino,Snoqualmie Indian Tribe,True,"8130 Railroad Ave., Ste. 103, Snoqualmie WA 98065",WA,WA,Class II & III
+,Soboba Band of Luiseno Indians,False,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class II & III
+Soboba Casino,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class III
+Soboba Casino,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class III
+Soboba Casino,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class III
+Soboba Casino,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class III
+Soboba Casino,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class III
+Soboba Casino,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class III
+Soboba Casino,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class III
+Soboba Casino,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class III
+Soboba Casino,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class III
+Soboba Casino,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class III
+Soboba Casino,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class III
+Soboba Casino,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class III
+Soboba Casino,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class III
+Soboba Casino,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class III
+Soboba Casino,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class III
+Soboba Casino,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class III
+RoadRunner Express,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class II & III
+RoadRunner Express,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class II & III
+RoadRunner Express,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class II & III
+RoadRunner Express,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",CA,CA,Class II & III
+,Sokaogon Chippewa Community,False,"3051 Sand Lake Rd., Crandon WI 54520",WI,WI,Class II & III
+Mole Lake Casino and Bingo,Sokaogon Chippewa Community,True,"3051 Sand Lake Rd., Crandon WI 54520",WI,WI,Class II & III
+,Southern Ute Indian Tribe,False,"P.O. Box 737 116 Capote Dr., Ignacio CO 81137",CO,CO,Class II & III
+Sky Ute Casino Resort,Southern Ute Indian Tribe,True,"P.O. Box 737 116 Capote Dr., Ignacio CO 81137",CO,CO,Class II & III
+,"Spirit Lake Tribe, North Dakota",False,"P.O. Box 359 816 3rd Avenue, Fort Totten ND 58335",ND,ND,Class II & III
+Spirit Lake Casino & Resort,"Spirit Lake Tribe, North Dakota",True,"P.O. Box 359 816 3rd Avenue, Fort Totten ND 58335",ND,ND,Class II & III
+,"Spokane Tribe of the Spokane Reservation, Washington",False,"PO Box 100 6195 Ford/Wellpinit Rd., Wellpinit WA 99040",PO,PO,Class II & III
+Mistequa Casino,"Spokane Tribe of the Spokane Reservation, Washington",True,"PO Box 100 6195 Ford/Wellpinit Rd., Wellpinit WA 99040",PO,PO,Class III
+Spokane Tribe Casino,"Spokane Tribe of the Spokane Reservation, Washington",True,"PO Box 100 6195 Ford/Wellpinit Rd., Wellpinit WA 99040",PO,PO,Class III
+,"Squaxin Island Tribe, Washington",False,"10 SE Squaxin Lane, Shelton WA 98584",SE,SE,Class II & III
+Little Creek Casino Resort,"Squaxin Island Tribe, Washington",True,"10 SE Squaxin Lane, Shelton WA 98584",SE,SE,Class II & III
+,St. Croix Chippewa Indians of Wisconsin,False,"P.O. Box 45287 24663 Angeline Ave., Webster WI 54893",WI,WI,Class II & III
+Danbury Community Center,St. Croix Chippewa Indians of Wisconsin,True,"P.O. Box 45287 24663 Angeline Ave., Webster WI 54893",WI,WI,Class II
+St. Croix Casino Turtle Lake,St. Croix Chippewa Indians of Wisconsin,True,"P.O. Box 45287 24663 Angeline Ave., Webster WI 54893",WI,WI,Class II & III
+Sand Lake Community Center,St. Croix Chippewa Indians of Wisconsin,True,"P.O. Box 45287 24663 Angeline Ave., Webster WI 54893",WI,WI,Class II
+St. Croix Casino Hertle Express,St. Croix Chippewa Indians of Wisconsin,True,"P.O. Box 45287 24663 Angeline Ave., Webster WI 54893",WI,WI,Class III
+St. Croix Casino Danbury,St. Croix Chippewa Indians of Wisconsin,True,"P.O. Box 45287 24663 Angeline Ave., Webster WI 54893",WI,WI,Class II & III
+,Standing Rock Sioux Tribe of North and South Dakota,False,"P.O. Box D, Fort Yates ND 58538",ND,ND,Class II & III
+Prairie Knights Casino and Resort,Standing Rock Sioux Tribe of North and South Dakota,True,"P.O. Box D, Fort Yates ND 58538",ND,ND,Class III
+Grand River Casino & Resort,Standing Rock Sioux Tribe of North and South Dakota,True,"P.O. Box D, Fort Yates ND 58538",ND,ND,Class II & III
+,Stillaguamish Tribe of Indians of Washington,False,"PO Box 277 3322 236th St NE, Arlington WA 98223",PO,PO,Class II & III
+Angel of the Winds Casino,Stillaguamish Tribe of Indians of Washington,True,"PO Box 277 3322 236th St NE, Arlington WA 98223",PO,PO,Class III
+,Stockbridge-Munsee Community,False,"N8476 Moh He Con Nuck Rd., Bowler WI 54416",WI,WI,Class II & III
+North Star Mohican Casino Resort,Stockbridge-Munsee Community,True,"N8476 Moh He Con Nuck Rd., Bowler WI 54416 nan",WI,WI,Class II & III
+,"Suquamish Indian Tribe of the Port Madison Reservation, Washington",False,"PO Box 498 18490 Suquamish Way NE, Suquamish WA 98392",PO,PO,Class II & III
+Clearwater Casino & Resort,"Suquamish Indian Tribe of the Port Madison Reservation, Washington",True,"PO Box 498 18490 Suquamish Way NE, Suquamish WA 98392",PO,PO,Class II & III
+,Susanville Indian Rancheria,False,"745 Joaquin Street, Susanville CA 96130",CA,CA,Class II & III
+Diamond Mountain Casino,Susanville Indian Rancheria,True,"745 Joaquin Street, Susanville CA 96130",CA,CA,Class III
+,Swinomish Indian Tribal Community,False,"11404 Moorage Way, LaConner WA 98257",WA,WA,Class II & III
+Swinomish Casino & Lodge,Swinomish Indian Tribal Community,True,"11404 Moorage Way, LaConner WA 98257",WA,WA,Class III
+,Sycuan Band of the Kumeyaay Nation,False,"5459 Sycuan Road, El Cajon CA 92019",CA,CA,Class II & III
+Sycuan Resort & Casino,Sycuan Band of the Kumeyaay Nation,True,"5459 Sycuan Road, El Cajon CA 92019",CA,CA,Class II & III
+,Table Mountain Rancheria,False,"P.O. Box 410 23736 Sky Harbour Rd, Friant CA 93626",CA,CA,Class II & III
+Table Mountain Casino Resort,Table Mountain Rancheria,True,"P.O. Box 410 23736 Sky Harbour Rd, Friant CA 93626",CA,CA,Class II & III
+,The Osage Nation,False,"627 Grandview Avenue, Pawhuska OK 74056",OK,OK,Class II & III
+Osage Casino Ponca City,The Osage Nation,True,"627 Grandview Avenue, Pawhuska OK 74056",OK,OK,Class II & III
+Osage Casino Sand Springs,The Osage Nation,True,"627 Grandview Avenue, Pawhuska OK 74056",OK,OK,Class II & III
+Osage Casino Skiatook,The Osage Nation,True,"627 Grandview Avenue, Pawhuska OK 74056",OK,OK,Class II & III
+Osage Casino Tulsa,The Osage Nation,True,"627 Grandview Avenue, Pawhuska OK 74056",OK,OK,Class II & III
+Osage Casino Bartlesville,The Osage Nation,True,"627 Grandview Avenue, Pawhuska OK 74056",OK,OK,Class II & III
+Osage Casino Hominy,The Osage Nation,True,"627 Grandview Avenue, Pawhuska OK 74056",OK,OK,Class II & III
+Osage Casino Pawhuska,The Osage Nation,True,"627 Grandview Avenue, Pawhuska OK 74056",OK,OK,Class II & III
+,"Thlopthlocco Tribal Town, Oklahoma",False,"P.O. Box 188, Okemah OK 74859",OK,OK,Class II
+Golden Pony Casino,"Thlopthlocco Tribal Town, Oklahoma",True,"P.O. Box 188, Okemah OK 74859",OK,OK,Class II & III
+,Three Affiliated Tribes of the Fort Berthold Reservation,False,"404 Frontage Rd., New Town ND 58763",ND,ND,Class II & III
+4 Bears Casino and Lodge,Three Affiliated Tribes of the Fort Berthold Reservation,True,"404 Frontage Rd., New Town ND 58763 nan",ND,ND,Class II & III
+American Legion Post 290,Three Affiliated Tribes of the Fort Berthold Reservation,True,"404 Frontage Rd., New Town ND 58763",ND,ND,Class II & III
+The River Willow,Three Affiliated Tribes of the Fort Berthold Reservation,True,"404 Frontage Rd., New Town ND 58763",ND,ND,Class III
+Sportman's Bar,Three Affiliated Tribes of the Fort Berthold Reservation,True,"404 Frontage Rd., New Town ND 58763",ND,ND,Class II & III
+,Tohono O'odham Nation of Arizona,False,"P.O. Box 837, Sells AZ 85634",AZ,AZ,Class II & III
+Desert Diamond Casino - White Tanks,Tohono O'odham Nation of Arizona,True,"P.O. Box 837, Sells AZ 85634",AZ,AZ,Class III
+"Desert Diamond Casino West Valley, Si'al Ke:k",Tohono O'odham Nation of Arizona,True,"P.O. Box 837, Sells AZ 85634",AZ,AZ,Class II & III
+Desert Diamond Why,Tohono O'odham Nation of Arizona,True,"P.O. Box 837, Sells AZ 85634",AZ,AZ,Class III
+Desert Diamond Tucson,Tohono O'odham Nation of Arizona,True,"P.O. Box 837, Sells AZ 85634",AZ,AZ,Class II & III
+Desert Diamond Sahuarita,Tohono O'odham Nation of Arizona,True,,AZ,AZ,Class II & III
+,Tolowa Dee-ni' Nation,False,"12801 Mouth of Smith River Road, Smith River CA 95567",CA,CA,Class II & III
+Lucky 7 Casino,Tolowa Dee-ni' Nation,True,,CA,CA,Class II & III
+Lucky 7 Fuel Mart,Tolowa Dee-ni' Nation,True,,CA,CA,Class III
+,Tonkawa Tribe of Indians of Oklahoma,False,"1 Rush Buffalo Rd., Tonkawa OK 74653",OK,OK,Class II & III
+Tonkawa Gasino,Tonkawa Tribe of Indians of Oklahoma,True,,OK,OK,Class II & III
+Tonkawa Indian Casino West,Tonkawa Tribe of Indians of Oklahoma,True,,OK,OK,Class II & III
+Native Lights Casino,Tonkawa Tribe of Indians of Oklahoma,True,,OK,OK,Class II & III
+,Tonto Apache Tribe of Arizona,False,"Tonto Apache Reservation #30, Payson AZ 85541",AZ,AZ,Class II & III
+Mazatzal Hotel & Casino,Tonto Apache Tribe of Arizona,True,,AZ,AZ,Class II & III
+,"Torres Martinez Desert Cahuilla Indians, California",False,"66725 Martinez Road, Thermal CA 92274",CA,CA,Class III
+Red Earth Casino,"Torres Martinez Desert Cahuilla Indians, California",True,,CA,CA,Class II & III
+,Tulalip Tribes of Washington,False,"6406 Marine Dr, Tulalip WA 98271",WA,WA,Class II & III
+Tulalip Bingo,Tulalip Tribes of Washington,True,,WA,WA,Class II
+Tulalip Resort Casino,Tulalip Tribes of Washington,True,,WA,WA,Class II & III
+Quil Ceda Creek Night Club & Casino,Tulalip Tribes of Washington,True,,WA,WA,Class III
+,Tunica-Biloxi Indian Tribe of Louisiana,False,"P.O. Box 1589 150 Melacon Drive, Marksville LA 71351-",LA,LA,Class II & III
+Paragon Casino & Resort,Tunica-Biloxi Indian Tribe of Louisiana,True,"P.O. Box 1589 150 Melacon Drive, Marksville LA 71351",LA,LA,Class II & III
+,Tuolumne Band of Me-Wuk Indians of the Tuolumne Rancheria,False,"P.O. Box 699 19595 Mi-Wu Street, Tuolumne CA 95379",CA,CA,Class II & III
+Black Oak Casino Resort,Tuolumne Band of Me-Wuk Indians of the Tuolumne Rancheria,True,"P.O. Box 699 19595 Mi-Wu Street, Tuolumne CA 95379",CA,CA,Class II & III
+,Turtle Mountain Band of Chippewa Indians,False,"P.O. Box 900 4180 Highway 281, Belcourt ND 58316",ND,ND,Class II & III
+Turtle Mountain Bingo Palace/Sprung,Turtle Mountain Band of Chippewa Indians,True,,ND,ND,Class II
+Outdoor Recreation Development Association (ORDA),Turtle Mountain Band of Chippewa Indians,True,,ND,ND,Class III
+Keya Radio Station,Turtle Mountain Band of Chippewa Indians,True,,ND,ND,Class II & III
+Grand Treasures Casino,Turtle Mountain Band of Chippewa Indians,True,,ND,ND,Class II
+Knights of Columbus (KC),Turtle Mountain Band of Chippewa Indians,True,,ND,ND,Class II
+LaDot's Lounge,Turtle Mountain Band of Chippewa Indians,True,,ND,ND,Class II
+Sky Dancer Hotel & Casino,Turtle Mountain Band of Chippewa Indians,True,,ND,ND,Class II & III
+,Twenty Nine Palms Band of Mission Indians,False,"46200 Harrison Place, Coachella CA 92236",CA,CA,Class II & III
+Tortoise Rock Casino,Twenty Nine Palms Band of Mission Indians,True,,CA,CA,Class II & III
+Tortoise Rock Casino,Twenty Nine Palms Band of Mission Indians,True,,CA,CA,Class II & III
+Spotlight 29 Casino,Twenty Nine Palms Band of Mission Indians,True,,CA,CA,Class III
+,United Auburn Indian Community of the Auburn Rancheria,False,"10720 Indian Hill Road, Auburn CA 95603",CA,CA,Class II & III
+Thunder Valley Casino,United Auburn Indian Community of the Auburn Rancheria,True,,CA,CA,Class II & III
+,Upper Sioux Community,False,"P.O. Box 147 5722 Travers Lane, Highway 67, Granite Falls MN",MN,MN,Class II & III
+56241,Upper Sioux Community,True,,,MN,Other
+Prairies Edge Convenience Store Non-Smoking Casino,Upper Sioux Community,True,,II,MN,Class III
+Prairie's Edge Casino Resort,Upper Sioux Community,True,,II,MN,Class II & III
+,Upper Skagit Indian Tribe of Washington,False,"25944 Community Plaza Way, Sedro Woolley WA 98284",WA,WA,Class II & III
+Skagit Valley Casino Resort,Upper Skagit Indian Tribe of Washington,True,,WA,WA,Class III
+,Ute Mountain Ute Tribe,False,"P.O. Box JJ, Towaoc CO 81334",JJ,JJ,Class II & III
+Ute Mountain Casino,Ute Mountain Ute Tribe,True,"P.O. Box JJ, Towaoc CO 81334",JJ,JJ,Class II & III
+,Viejas Band of Kumeyaay Indians,False,"P.O. Box 908 #1 Viejas Grade Road, Alpine CA 91901",CA,CA,Class II & III
+Viejas Bingo,Viejas Band of Kumeyaay Indians,True,"P.O. Box 908 #1 Viejas Grade Road, Alpine CA 91901",CA,CA,Class II
+Viejas Casino,Viejas Band of Kumeyaay Indians,True,"P.O. Box 908 #1 Viejas Grade Road, Alpine CA 91901",CA,CA,Class II & III
+Viejas Casino,Viejas Band of Kumeyaay Indians,True,"P.O. Box 908 #1 Viejas Grade Road, Alpine CA 91901",CA,CA,Class II & III
+,Washoe Tribe of Nevada and California,False,"919 Hwy. 395 South, Gardnerville NV 89410",NV,NV,Class II & III
+Wa She Shu Center,Washoe Tribe of Nevada and California,True,"919 Hwy. 395 South, Gardnerville NV 89410",NV,NV,Class III
+Wa She Shu Center,Washoe Tribe of Nevada and California,True,"919 Hwy. 395 South, Gardnerville NV 89410",NV,NV,Class III
+,White Earth Nation,False,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II & III
+3 Bears Golf Course dba Berry's Liquor Store&Towing,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+"City of Callaway, d/b/a Callaway Liquor Store",White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+"Cedar Crest Resort, LLC",White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+"Cedar Crest Resort, LLC",White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+Mahnomen Fire and Relief Association d/b/a Wild Rice,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+Naytahwaush Sports Complex,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+Mahnomen Country Club,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+"Roy Lake Store, LLC",White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+Bendickson General Store,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+Shooting Star Casino-Bagley,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II & III
+"Double Barrel, LLC, d/b/a Ruffed Grouse Roadhouse",White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+"RM Beverage, Inc. d/b/a Lean to Tavern",White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+M & W Foods Ogema,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+"City of Mahnomen, d/b/a Wild Rice Lounge",White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+Sundown Bar,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+Shooting Star Casino-Mahnomen,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II & III
+"Pinehurst Resort and Lodge, Inc.",White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+"Ogema Fire Department, d/b/a Ogema Liquor Store",White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+"McArthur's Village Store, Inc.",White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+M&W Service of White Earth,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+"Backwoods ICL, LLC dba Ice Cracking Lodge",White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+Peachy's Pub ALB Food & Beverage LLC,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",MN,MN,Class II
+,"White Mountain Apache Tribe of the Fort Apache Reservation, AZ",False,"201 E. Walnut St, Whiteriver AZ 85941",AZ,AZ,Class III
+Hon Dah Resort - Casino,"White Mountain Apache Tribe of the Fort Apache Reservation, AZ",True,"201 E. Walnut St, Whiteriver AZ 85941",AZ,AZ,Class II & III
+,Wichita and Affiliated Tribes,False,"P.O. Box 729, Anadarko OK 73005",OK,OK,Class II & III
+Sugar Creek Casino,Wichita and Affiliated Tribes,True,"P.O. Box 729, Anadarko OK 73005",OK,OK,Class II & III
+,"Wilton Rancheria, California",False,"9728 Kent Street, Elk Grove CA 95758",CA,CA,Class II & III
+Sky River Casino,"Wilton Rancheria, California",True,"9728 Kent Street, Elk Grove CA 95758",CA,CA,Class III
+,Winnebago Tribe of Nebraska,False,"100 Bluff Street P.O. Box 687, Winnebago NE 68071",NE,NE,Class II & III
+WinnaVegas Casino,Winnebago Tribe of Nebraska,True,"100 Bluff Street P.O. Box 687, Winnebago NE 68071",NE,NE,Class II & III
+Native Star Casino,Winnebago Tribe of Nebraska,True,"100 Bluff Street P.O. Box 687, Winnebago NE 68071",NE,NE,Class II
+Iron Horse Bar & Casino,Winnebago Tribe of Nebraska,True,"100 Bluff Street P.O. Box 687, Winnebago NE 68071",NE,NE,Class II
+,"Wyandotte Nation, Oklahoma",False,"8 Turtle Drive, Wyandotte OK 74370",OK,OK,Class II & III
+Crosswinds Casino,"Wyandotte Nation, Oklahoma",True,"8 Turtle Drive, Wyandotte OK 74370",OK,OK,Class II
+Wyandotte Nation 7th St. Casino,"Wyandotte Nation, Oklahoma",True,"8 Turtle Drive, Wyandotte OK 74370",OK,OK,Class II
+River Bend Casino,"Wyandotte Nation, Oklahoma",True,"8 Turtle Drive, Wyandotte OK 74370",OK,OK,Class II & III
+Lucky Turtle Casino,"Wyandotte Nation, Oklahoma",True,"8 Turtle Drive, Wyandotte OK 74370",OK,OK,Class II
+,Yankton Sioux Tribe of South Dakota,False,"P.O. Box 1153 800 Main Street SW, Wagner SD 57380",SW,SW,Class II & III
+Yankton Sioux Travel Plaza,Yankton Sioux Tribe of South Dakota,True,"P.O. Box 1153 800 Main Street SW, Wagner SD 57380",SW,SW,Class II
+Fort Randall Casino,Yankton Sioux Tribe of South Dakota,True,"P.O. Box 1153 800 Main Street SW, Wagner SD 57380",SW,SW,Class II & III
+,"Yavapai Apache Nation of the Camp Verde Indian Reservation, AZ",False,"2400 W. Datsi Street, Camp Verde AZ 86322",AZ,AZ,Class II & III
+Cliff Castle Casino,"Yavapai Apache Nation of the Camp Verde Indian Reservation, AZ",True,"2400 W. Datsi Street, Camp Verde AZ 86322",AZ,AZ,Class II & III
+Cliff Castle Casino,"Yavapai Apache Nation of the Camp Verde Indian Reservation, AZ",True,"2400 W. Datsi Street, Camp Verde AZ 86322",AZ,AZ,Class II & III
+,Yavapai-Prescott Indian Tribe,False,"530 East Merritt St. 305 S. Heather Heights, Prescott AZ",AZ,AZ,Class II & III
+Bucky's Casino,Yavapai-Prescott Indian Tribe,True,"530 East Merritt St. 305 S. Heather Heights, Prescott AZ 863012038",AZ,AZ,Class II & III
+Yavapai Casino,Yavapai-Prescott Indian Tribe,True,"530 East Merritt St. 305 S. Heather Heights, Prescott AZ 863012038",AZ,AZ,Class III
+,Yocha DeHe Wintun Nation,False,"P.O. Box 18, Brooks CA 95606",CA,CA,Class II & III
+Cache Creek Casino Resort,Yocha DeHe Wintun Nation,True,"P.O. Box 18, Brooks CA 95606",CA,CA,Class II & III
+,Ysleta del Sur Pueblo,False,"119 S. Old Pueblo Road, El Paso TX 79907",TX,TX,Class II
+Speaking Rock Casino & Entertainmnt Ctr -,Ysleta del Sur Pueblo,True,"119 S. Old Pueblo Road, El Paso TX 79907",TX,TX,Class II & III
+Speaking Rock Casino & Entertainmnt Ctr -,Ysleta del Sur Pueblo,True,"119 S. Old Pueblo Road, El Paso TX 79907",TX,TX,Class II & III
+,Yurok Tribe of the Yurok Reservation,False,"P.O. Box 1027 190 Klamath Blvd., Klamath CA 95548",CA,CA,Class II & III
+Redwood Hotel Casino,Yurok Tribe of the Yurok Reservation,True,"P.O. Box 1027 190 Klamath Blvd., Klamath CA 95548",CA,CA,Class III
+Redwood Hotel Casino,Yurok Tribe of the Yurok Reservation,True,"P.O. Box 1027 190 Klamath Blvd., Klamath CA 95548",CA,CA,Class III
+Redwood Hotel Casino,Yurok Tribe of the Yurok Reservation,True,"P.O. Box 1027 190 Klamath Blvd., Klamath CA 95548",CA,CA,Class III
+Redwood Hotel Casino,Yurok Tribe of the Yurok Reservation,True,"P.O. Box 1027 190 Klamath Blvd., Klamath CA 95548",CA,CA,Class III

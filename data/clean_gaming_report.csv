@@ -1,155 +1,940 @@
-,facility_name,owner_name,is_facility,address,state,classes
-0,,Absentee Shawnee Tribe of Indians of OK,False,"2025 S. Gordon Cooper Dr., Shawnee OK 74801",OK,Class II & III
-1,Thunderbird Casino - Shawnee,Absentee Shawnee Tribe of Indians of OK,True,"2025 S. Gordon Cooper Dr., Shawnee OK 74801",OK,Class II & III
-2,Thunderbird Entertainment Center,Absentee Shawnee Tribe of Indians of OK,True,"2025 S. Gordon Cooper Dr., Shawnee OK 74801",OK,Class II & III
-3,,Agua Caliente Band of Cahuilla Indians,False,"5401 Dinah Shore Dr., Palm Springs CA 92264",CA,Class II & III
-4,Agua Caliente Casino Rancho Mirage,Agua Caliente Band of Cahuilla Indians,True,"5401 Dinah Shore Dr., Palm Springs CA 92264",CA,Class II & III
-5,Agua Caliente Fuel,Agua Caliente Band of Cahuilla Indians,True,"5401 Dinah Shore Dr., Palm Springs CA 92264",CA,Class II
-6,Agua Caliente Casino Cathedral City,Agua Caliente Band of Cahuilla Indians,True,"5401 Dinah Shore Dr., Palm Springs CA 92264",CA,Class III
-7,Agua Caliente Casino Palm Springs,Agua Caliente Band of Cahuilla Indians,True,"5401 Dinah Shore Dr., Palm Springs CA 92264",CA,Class III
-8,,Ak-Chin Indian Communityof the Maricopa Indian Res,False,"42507 W. Peters & Nall Rd., Maricopa AZ 85238",AZ,Class II & III
-9,Harrah's Ak-Chin Casino Resort,Ak-Chin Indian Communityof the Maricopa Indian Res,True,"42507 W. Peters & Nall Rd., Maricopa AZ 85238",AZ,Class II & III
-10,,Alabama-Coushatta Tribe of Texas,False,"571 State Park Road 56, Livingston TX 77351",TX,Class II
-11,Ischoopa Travel Center,Alabama-Coushatta Tribe of Texas,True,"571 State Park Road 56, Livingston TX 77351",TX,Class II
-12,Naskila Gaming,Alabama-Coushatta Tribe of Texas,True,"571 State Park Road 56, Livingston TX 77351",TX,Class II
-13,Naskila Gaming,Alabama-Coushatta Tribe of Texas,True,"571 State Park Road 56, Livingston TX 77351",TX,Class II
-14,,"Alturas Indian Rancheria, California",False,"PO Box 340 901 County Road 56, Alturas CA 96101",PO,Class II & III
-15,Desert Rose Casino,"Alturas Indian Rancheria, California",True,"PO Box 340 901 County Road 56, Alturas CA 96101",PO,Class III
-16,,Apache Tribe of Oklahoma,False,"P.O. Box 1330, Anadarko OK 73005",OK,Class II & III
-17,Golden Eagle Casino,Apache Tribe of Oklahoma,True,"P.O. Box 1330, Anadarko OK 73005",OK,Class II & III
-18,Apache Lonestar Casino,Apache Tribe of Oklahoma,True,"P.O. Box 1330, Anadarko OK 73005",OK,Class II & III
-19,,Assiniboine & Sioux Tribes of the Fort Peck Reservation,False,"P.O. Box 1027, Poplar MT 59255",MT,Class II & III
-20,Fred's Grill and Casino fka B & S Laundry,Assiniboine & Sioux Tribes of the Fort Peck Reservation,True,"P.O. Box 1027, Poplar MT 59255",MT,Class III
-21,Tavern Casino,Assiniboine & Sioux Tribes of the Fort Peck Reservation,True,"P.O. Box 1027, Poplar MT 59255",MT,Class III
-22,Tribal Express Casino,Assiniboine & Sioux Tribes of the Fort Peck Reservation,True,"P.O. Box 1027, Poplar MT 59255",MT,Class III
-23,T.J.'s Quick Stop,Assiniboine & Sioux Tribes of the Fort Peck Reservation,True,"P.O. Box 1027, Poplar MT 59255",MT,Class III
-24,Silver Wolf Casino,Assiniboine & Sioux Tribes of the Fort Peck Reservation,True,"P.O. Box 1027, Poplar MT 59255",MT,Class II & III
-25,Git-N-Go,Assiniboine & Sioux Tribes of the Fort Peck Reservation,True,"P.O. Box 1027, Poplar MT 59255",MT,Class III
-26,,Augustine Band of Cahuilla Indians,False,"P.O. Box 846 84481 Avenue 54, Coachella CA 92236",CA,Class II & III
-27,Augustine Casino,Augustine Band of Cahuilla Indians,True,"P.O. Box 846 84481 Avenue 54, Coachella CA 92236",CA,Class III
-28,,Bad River Band of Lake Superior Tribe of Chippewa Indians,False,"P.O. Box 39, Odanah WI 54861",WI,Class II & III
-29,Bad River Lodge & Casino,Bad River Band of Lake Superior Tribe of Chippewa Indians,True,"P.O. Box 39, Odanah WI 54861",WI,Class II & III
-30,,Barona Group of Capitan Grande Band of Mission Indians,False,"1095 Barona Road, Lakeside CA 92040",CA,Class II & III
-31,Barona Valley Ranch Resort and Casino,Barona Group of Capitan Grande Band of Mission Indians,True,"1095 Barona Road, Lakeside CA 92040",CA,Class II & III
-32,,Bay Mills Indian Community,False,"12140 W. Lakeshore Drive, Brimley MI 49715",MI,Class II & III
-33,Bay Mills Resort & Casino,Bay Mills Indian Community,True,"12140 W. Lakeshore Drive, Brimley MI 49715",MI,Class II & III
-34,,Bear River Band of the Rohnerville Rancheria,False,"266 Keisner Road, Loleta CA 95551",CA,Class II & III
-35,Bear River Casino Resort,Bear River Band of the Rohnerville Rancheria,True,"266 Keisner Road, Loleta CA 95551",CA,Class II & III
-36,Bear River Pump and Play,Bear River Band of the Rohnerville Rancheria,True,"266 Keisner Road, Loleta CA 95551",CA,Class III
-37,,Berry Creek Rancheria of Maidu Indians of California,False,"5 Tyme Way, Oroville CA 95966",CA,Class II & III
-38,Gold Country Casino,Berry Creek Rancheria of Maidu Indians of California,True,"5 Tyme Way, Oroville CA 95966",CA,Class II & III
-39,,Big Sandy Band of Western Mono Indians,False,"P.O. Box 337 37302 Rancheria Lane, Auberry CA 93602",CA,Class II & III
-40,Mono Wind Casino,Big Sandy Band of Western Mono Indians,True,"P.O. Box 337 37302 Rancheria Lane, Auberry CA 93602",CA,Class III
-41,Mono Wind Casino,Big Sandy Band of Western Mono Indians,True,"P.O. Box 337 37302 Rancheria Lane, Auberry CA 93602",CA,Class III
-42,,Big Valley Band of Pomo Indians,False,"2726 Mission Rancheria Road, Lakeport CA 95453",CA,Class II & III
-43,Konocti Vista Casino Resort & Marina,Big Valley Band of Pomo Indians,True,"2726 Mission Rancheria Road, Lakeport CA 95453",CA,Class III
-44,,Bishop Paiute Tribe,False,"50 Tu Su Lane, Bishop CA 93514",CA,Class II & III
-45,Wanaaha Casino fka Paiute Palace,Bishop Paiute Tribe,True,"50 Tu Su Lane, Bishop CA 93514",CA,Class II & III
-46,,Blackfeet Tribe of the Blackfeet Indian Reservation of Montana,False,"P.O. Box 850, Browning MT 59417",MT,Class III
-47,The Peak,Blackfeet Tribe of the Blackfeet Indian Reservation of Montana,True,"P.O. Box 850, Browning MT 59417",MT,Class II
-48,Glacier Lil Peaks Casino,Blackfeet Tribe of the Blackfeet Indian Reservation of Montana,True,"P.O. Box 850, Browning MT 59417",MT,Class II
-49,Glacier Peaks Casino,Blackfeet Tribe of the Blackfeet Indian Reservation of Montana,True,"P.O. Box 850, Browning MT 59417",MT,Class II
-50,,Blue Lake Rancheria,False,"P.O. Box 428 428 Chartin Road, Blue Lake CA 95525",CA,Class II & III
-51,Blue Lake Fuel and Fun,Blue Lake Rancheria,True,"P.O. Box 428 428 Chartin Road, Blue Lake CA 95525",CA,Class III
-52,Blue Lake Casino,Blue Lake Rancheria,True,"P.O. Box 428 428 Chartin Road, Blue Lake CA 95525",CA,Class II & III
-53,,"Bois Forte Band of Minnesota Chippewa Tribe, Minnesota",False,"P.O. Box 16 5344 Lakeshore Drive, Nett Lake MN 55772",MN,Class II & III
-54,Fortune Bay Casino,"Bois Forte Band of Minnesota Chippewa Tribe, Minnesota",True,"P.O. Box 16 5344 Lakeshore Drive, Nett Lake MN 55772",MN,Class II & III
-55,,Buena Vista Rancheria of Me-Wuk Indians,False,"4650 Coal Mine Rd, Ione CA 95640",CA,Class II & III
-56,Harrah's Northern California,Buena Vista Rancheria of Me-Wuk Indians,True,"4650 Coal Mine Rd, Ione CA 95640",CA,Class III
-57,,Cabazon Band of Mission Indians,False,"84-245 B Indio Springs Dr., Indio CA 92203",CA,Class II & III
-58,Fantasy Springs Resort Casino,Cabazon Band of Mission Indians,True,"84-245 B Indio Springs Dr., Indio CA 92203",CA,Class II & III
-59,,Cachil Dehe Band of Wintun Indians of the Colusa Indian Community,False,"3730 Hwy 45, Colusa CA 95932",CA,Class II & III
-60,Wintun Mini Mart,Cachil Dehe Band of Wintun Indians of the Colusa Indian Community,True,"3730 Hwy 45, Colusa CA 95932",CA,Class II
-61,Colusa Casino Resort,Cachil Dehe Band of Wintun Indians of the Colusa Indian Community,True,"3730 Hwy 45, Colusa CA 95932",CA,Class II & III
-62,,Cahuilla Band of Mission Indians of the Cahuilla Reservation,False,"P.O. Box 391760 52701 Highway 371, Anza CA 92539",CA,Class II & III
-63,Cahuilla Casino,Cahuilla Band of Mission Indians of the Cahuilla Reservation,True,"P.O. Box 391760 52701 Highway 371, Anza CA 92539",CA,Class II & III
-64,Cahuilla Casino,Cahuilla Band of Mission Indians of the Cahuilla Reservation,True,"P.O. Box 391760 52701 Highway 371, Anza CA 92539",CA,Class II & III
-65,,Campo Band of Diegueno Mission of the Campo Indian Reservation,False,"36190 Church Rd.,Suite 1 PO Box 310, Campo CA 91906",PO,Class II & III
-66,Golden Acorn Casino,Campo Band of Diegueno Mission of the Campo Indian Reservation,True,"36190 Church Rd.,Suite 1 PO Box 310, Campo CA 91906",PO,Class III
-67,,Catawba Indian Nation,False,"996 Avenue of the Nations, Rock Hill SC 29730",SC,Class III
-68,Catawba Two Kings Casino,Catawba Indian Nation,True,"538 Kings Mountain Blvd, Kings Mountain, NC 28086",NC,Class III
-69,Catawba Two Kings Casino,Catawba Indian Nation,True,"538 Kings Mountain Blvd, Kings Mountain, NC 28086",NC,Class III
-70,,Cayuga Nation,False,"P.O. Box 786, Seneca Falls NY 13148",NY,Class II
-71,Lakeside Entertainment I,Cayuga Nation,True,"P.O. Box 786, Seneca Falls NY 13148",NY,Class II
-72,Lakeside Entertainment II,Cayuga Nation,True,"P.O. Box 786, Seneca Falls NY 13148",NY,Class II
-73,Lakeside Entertainment III (E3),Cayuga Nation,True,"P.O. Box 786, Seneca Falls NY 13148",NY,Class II
-74,Lakeside Entertainment IV,Cayuga Nation,True,"P.O. Box 786, Seneca Falls NY 13148",NY,Class II
-75,,Chemehuevi Indian Tribe of the Chemehuevi Nation,False,"P.O. Box 1976 1990 Palo Verde Dr., Havasu Lake CA 92363",CA,Class II & III
-76,Havasu Landing Resort & Casino,Chemehuevi Indian Tribe of the Chemehuevi Nation,True,"P.O. Box 1976 1990 Palo Verde Dr., Havasu Lake CA 92363",CA,Class III
-77,,Cher-Ae Heights Indian Community of the Trinidad Rancheria,False,"P.O.Box 630, Trinidad CA 95570",CA,Class III
-78,Cher-Ae-Heights Casino,Cher-Ae Heights Indian Community of the Trinidad Rancheria,True,"P.O.Box 630, Trinidad CA 95570",CA,Class II & III
-79,,"Cherokee Nation, Oklahoma",False,"P.O. Box 948, Tahlequah OK 74465",OK,Class III
-80,Cherokee Casino - Fort Gibson,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,Class II & III
-81,Cherokee Casino - Roland,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,Class II & III
-82,Cherokee Casino - Sallisaw,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,Class II & III
-83,Roland Travel Plaza,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,Class II & III
-84,Cherokee Casino - South Coffeyville,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,Class II & III
-85,Cherokee Nation Grove Casino,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,Class II & III
-86,Cherokee Casino Ramona,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,Class II & III
-87,Cherokee Casino - Tahlequah,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,Class II & III
-88,Cherokee Casino - Tahlequah,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,Class II & III
-89,Cherokee Casino - West Siloam Springs,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,Class II & III
-90,Hard Rock Hotel & Casino,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",OK,Class II & III
-91,,"Cheyenne and Arapaho Tribes, Oklahoma",False,"100 Red Moon Circle, Concho OK 73022",OK,Class II & III
-92,Lucky Star Casino #108,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",OK,Class II & III
-93,Lucky Star Travel Center Casino - Hammon,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",OK,Class II & III
-94,Lucky Star Travel Center Casino - Concho,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",OK,Class II & III
-95,Lucky Star Travel Center Casino - Concho,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",OK,Class II & III
-96,Lucky Star Casino Clinton,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",OK,Class II & III
-97,Lucky Star Casino - Concho,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",OK,Class II & III
-98,Lucky Star Casino - Canton,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",OK,Class II & III
-99,Lucky Star Casino - Watonga,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",OK,Class II & III
-100,,"Chickasaw Nation, Oklahoma",False,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-101,Ada Gaming Center,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-102,Chickasaw Travel Stop-Ada Gaming West,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-103,Black Gold Casino - Wilson,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-104,Chisholm Trail Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-105,West Bay Casino and Resort,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-106,Lakecrest Casino and Hotel,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-107,Megastar Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-108,Newcastle Travel Center,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-109,Riverstar Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-110,Chickasaw Travel Stop - Davis Gaming,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-111,Chickasaw Travel Stop - Davis Gaming,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-112,Tishomingo Tobacco Games,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II
-113,Tishomingo Tobacco Games,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II
-114,Artesian Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-115,Artesian Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-116,Jet Stream Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-117,Jet Stream Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-118,Winstar World Casino and Resort,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-119,Salt Creek Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-120,Salt Creek Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-121,Texoma Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-122,Chickasaw Travel Stop - Thackerville Gaming,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II
-123,Border Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-124,Treasure Valley Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-125,Washita Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-126,Madill Gaming Center,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-127,Newcastle Gaming Center,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-128,Riverwind Casino,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-129,Goldsby Gaming Center,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-130,Gold Mountain Casino - Ardmore,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",OK,Class II & III
-131,,Chicken Ranch Rancheria of Me-wuk Indians of California,False,"P.O. Box 1159 9195 Red Tail Hawk Drive, Jamestown CA 95327",CA,Class II & III
-132,Chicken Ranch Casino Resort,Chicken Ranch Rancheria of Me-wuk Indians of California,True,"P.O. Box 1159 9195 Red Tail Hawk Drive, Jamestown CA 95327",CA,Class II & III
-133,Chicken Ranch Casino & Event Hall,Chicken Ranch Rancheria of Me-wuk Indians of California,True,"P.O. Box 1159 9195 Red Tail Hawk Drive, Jamestown CA 95327",CA,Class II & III
-134,Chicken Ranch Casino & Event Hall,Chicken Ranch Rancheria of Me-wuk Indians of California,True,"P.O. Box 1159 9195 Red Tail Hawk Drive, Jamestown CA 95327",CA,Class II & III
-135,,"Chippewa Cree Indians of the Rocky Boy's Reservation, Montana",False,"96 Clinic Road North, Box Elder MT 59521",MT,Class II & III
-136,Northern Winz Casino II,"Chippewa Cree Indians of the Rocky Boy's Reservation, Montana",True,"96 Clinic Road North, Box Elder MT 59521",MT,Class III
-137,Northern Winz Hotel and Casino,"Chippewa Cree Indians of the Rocky Boy's Reservation, Montana",True,"96 Clinic Road North, Box Elder MT 59521",MT,Class II & III
-138,,Choctaw Nation of Oklahoma,False,"P.O. Drawer 1210, Durant OK 74702",OK,Class II & III
-139,Pocola Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,Class II & III
-140,Choctaw Landing-Hochatown,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,Class II & III
-141,Heavener Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,Class II & III
-142,Choctaw Casino - Hugo Travel Center,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,Class II & III
-143,Choctaw Casino - Idabel Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,Class II & III
-144,Choctaw Casino - Idabel Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,Class II & III
-145,Choctaw Casino - Antlers Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,Class II & III
-146,Choctaw Casino - Antlers Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,Class II & III
-147,Choctaw Casino - Antlers Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,Class II & III
-148,Choctaw Casino - Antlers Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,Class II & III
-149,Choctaw Casino - Grant Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,Class II & III
-150,Choctaw Casino - Stigler,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,Class II & III
-151,Choctaw Casino - McAlester,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,Class II & III
-152,Choctaw Casino - Atoka Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,Class II & III
-153,Choctaw Casino - Poteau Travel Plaza,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",OK,Class II & III
+,0,is_facility,address,classes_raw,facility_name,state,classes
+0,Absentee Shawnee Tribe of Indians of OK,False,"2025 S. Gordon Cooper Dr., Shawnee OK 74801",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+1,Absentee Shawnee Tribe of Indians of OK,True,"2025 S. Gordon Cooper Dr., Shawnee OK 74801",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Thunderbird Casino - Shawnee,OK,Class II & III
+2,Absentee Shawnee Tribe of Indians of OK,True,"2025 S. Gordon Cooper Dr., Shawnee OK 74801",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Thunderbird Entertainment Center,OK,Class II & III
+3,Agua Caliente Band of Cahuilla Indians,False,"5401 Dinah Shore Dr., Palm Springs CA 92264",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+4,Agua Caliente Band of Cahuilla Indians,True,"5401 Dinah Shore Dr., Palm Springs CA 92264",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Agua Caliente Casino Rancho Mirage,CA,Class II & III
+5,Agua Caliente Band of Cahuilla Indians,True,"5401 Dinah Shore Dr., Palm Springs CA 92264",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Agua Caliente Fuel,CA,Class II
+6,Agua Caliente Band of Cahuilla Indians,True,"5401 Dinah Shore Dr., Palm Springs CA 92264",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Agua Caliente Casino Cathedral City,CA,Class III
+7,Agua Caliente Band of Cahuilla Indians,True,"5401 Dinah Shore Dr., Palm Springs CA 92264",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Agua Caliente Casino Palm Springs,CA,Class III
+8,Ak-Chin Indian Communityof the Maricopa Indian Res,False,"42507 W. Peters & Nall Rd., Maricopa AZ 85238",Class Type: Class II & III   See 25 CFR 502.3 & 4,,AZ,Class II & III
+9,Ak-Chin Indian Communityof the Maricopa Indian Res,True,"42507 W. Peters & Nall Rd., Maricopa AZ 85238",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Harrah's Ak-Chin Casino Resort,AZ,Class II & III
+10,Alabama-Coushatta Tribe of Texas,False,"571 State Park Road 56, Livingston TX 77351",Class Type: Class II   See 25 CFR 502.3 & 4,,TX,Class II
+11,Alabama-Coushatta Tribe of Texas,True,"571 State Park Road 56, Livingston TX 77351",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Ischoopa Travel Center,TX,Class II
+12,Alabama-Coushatta Tribe of Texas,True,"571 State Park Road 56, Livingston TX 77351",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Naskila Gaming,TX,Class II
+13,Alabama-Coushatta Tribe of Texas,True,"571 State Park Road 56, Livingston TX 77351",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Naskila Gaming,TX,Class II
+14,"Alturas Indian Rancheria, California",False,"PO Box 340 901 County Road 56, Alturas CA 96101",Class Type: Class II & III   See 25 CFR 502.3 & 4,,PO,Class II & III
+15,"Alturas Indian Rancheria, California",True,"PO Box 340 901 County Road 56, Alturas CA 96101",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Desert Rose Casino,PO,Class III
+16,Apache Tribe of Oklahoma,False,"P.O. Box 1330, Anadarko OK 73005",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+17,Apache Tribe of Oklahoma,True,"P.O. Box 1330, Anadarko OK 73005",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Golden Eagle Casino,OK,Class II & III
+18,Apache Tribe of Oklahoma,True,"P.O. Box 1330, Anadarko OK 73005",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Apache Lonestar Casino,OK,Class II & III
+19,Assiniboine & Sioux Tribes of the Fort Peck Reservation,False,"P.O. Box 1027, Poplar MT 59255",Class Type: Class II & III   See 25 CFR 502.3 & 4,,MT,Class II & III
+20,Assiniboine & Sioux Tribes of the Fort Peck Reservation,True,"P.O. Box 1027, Poplar MT 59255",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Fred's Grill and Casino fka B & S Laundry,MT,Class III
+21,Assiniboine & Sioux Tribes of the Fort Peck Reservation,True,"P.O. Box 1027, Poplar MT 59255",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Tavern Casino,MT,Class III
+22,Assiniboine & Sioux Tribes of the Fort Peck Reservation,True,"P.O. Box 1027, Poplar MT 59255",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Tribal Express Casino,MT,Class III
+23,Assiniboine & Sioux Tribes of the Fort Peck Reservation,True,"P.O. Box 1027, Poplar MT 59255",Game Class Type:  Class III  See 25 CFR 502.3 & 4,T.J.'s Quick Stop,MT,Class III
+24,Assiniboine & Sioux Tribes of the Fort Peck Reservation,True,"P.O. Box 1027, Poplar MT 59255",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Silver Wolf Casino,MT,Class II & III
+25,Assiniboine & Sioux Tribes of the Fort Peck Reservation,True,"P.O. Box 1027, Poplar MT 59255",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Git-N-Go,MT,Class III
+26,Augustine Band of Cahuilla Indians,False,"P.O. Box 846 84481 Avenue 54, Coachella CA 92236",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+27,Augustine Band of Cahuilla Indians,True,"P.O. Box 846 84481 Avenue 54, Coachella CA 92236",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Augustine Casino,CA,Class III
+28,Bad River Band of Lake Superior Tribe of Chippewa Indians,False,"P.O. Box 39, Odanah WI 54861",Class Type: Class II & III   See 25 CFR 502.3 & 4,,WI,Class II & III
+29,Bad River Band of Lake Superior Tribe of Chippewa Indians,True,"P.O. Box 39, Odanah WI 54861",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Bad River Lodge & Casino,WI,Class II & III
+30,Barona Group of Capitan Grande Band of Mission Indians,False,"1095 Barona Road, Lakeside CA 92040",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+31,Barona Group of Capitan Grande Band of Mission Indians,True,"1095 Barona Road, Lakeside CA 92040",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Barona Valley Ranch Resort and Casino,CA,Class II & III
+32,Bay Mills Indian Community,False,"12140 W. Lakeshore Drive, Brimley MI 49715",Class Type: Class II & III   See 25 CFR 502.3 & 4,,MI,Class II & III
+33,Bay Mills Indian Community,True,"12140 W. Lakeshore Drive, Brimley MI 49715",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Bay Mills Resort & Casino,MI,Class II & III
+34,Bear River Band of the Rohnerville Rancheria,False,"266 Keisner Road, Loleta CA 95551",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+35,Bear River Band of the Rohnerville Rancheria,True,"266 Keisner Road, Loleta CA 95551",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Bear River Casino Resort,CA,Class II & III
+36,Bear River Band of the Rohnerville Rancheria,True,"266 Keisner Road, Loleta CA 95551",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Bear River Pump and Play,CA,Class III
+37,Berry Creek Rancheria of Maidu Indians of California,False,"5 Tyme Way, Oroville CA 95966",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+38,Berry Creek Rancheria of Maidu Indians of California,True,"5 Tyme Way, Oroville CA 95966",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Gold Country Casino,CA,Class II & III
+39,Big Sandy Band of Western Mono Indians,False,"P.O. Box 337 37302 Rancheria Lane, Auberry CA 93602",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+40,Big Sandy Band of Western Mono Indians,True,"P.O. Box 337 37302 Rancheria Lane, Auberry CA 93602",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Mono Wind Casino,CA,Class III
+41,Big Sandy Band of Western Mono Indians,True,"P.O. Box 337 37302 Rancheria Lane, Auberry CA 93602",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Mono Wind Casino,CA,Class III
+42,Big Valley Band of Pomo Indians,False,"2726 Mission Rancheria Road, Lakeport CA 95453",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+43,Big Valley Band of Pomo Indians,True,"2726 Mission Rancheria Road, Lakeport CA 95453",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Konocti Vista Casino Resort & Marina,CA,Class III
+44,Bishop Paiute Tribe,False,"50 Tu Su Lane, Bishop CA 93514",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+45,Bishop Paiute Tribe,True,"50 Tu Su Lane, Bishop CA 93514",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Wanaaha Casino fka Paiute Palace,CA,Class II & III
+46,Blackfeet Tribe of the Blackfeet Indian Reservation of Montana,False,"P.O. Box 850, Browning MT 59417",Class Type: Class III   See 25 CFR 502.3 & 4,,MT,Class III
+47,Blackfeet Tribe of the Blackfeet Indian Reservation of Montana,True,"P.O. Box 850, Browning MT 59417",Game Class Type:  Class II  See 25 CFR 502.3 & 4,The Peak,MT,Class II
+48,Blackfeet Tribe of the Blackfeet Indian Reservation of Montana,True,"P.O. Box 850, Browning MT 59417",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Glacier Lil Peaks Casino,MT,Class II
+49,Blackfeet Tribe of the Blackfeet Indian Reservation of Montana,True,"P.O. Box 850, Browning MT 59417",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Glacier Peaks Casino,MT,Class II
+50,Blue Lake Rancheria,False,"P.O. Box 428 428 Chartin Road, Blue Lake CA 95525",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+51,Blue Lake Rancheria,True,"P.O. Box 428 428 Chartin Road, Blue Lake CA 95525",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Blue Lake Fuel and Fun,CA,Class III
+52,Blue Lake Rancheria,True,"P.O. Box 428 428 Chartin Road, Blue Lake CA 95525",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Blue Lake Casino,CA,Class II & III
+53,"Bois Forte Band of Minnesota Chippewa Tribe, Minnesota",False,"P.O. Box 16 5344 Lakeshore Drive, Nett Lake MN 55772",Class Type: Class II & III   See 25 CFR 502.3 & 4,,MN,Class II & III
+54,"Bois Forte Band of Minnesota Chippewa Tribe, Minnesota",True,"P.O. Box 16 5344 Lakeshore Drive, Nett Lake MN 55772",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Fortune Bay Casino,MN,Class II & III
+55,Buena Vista Rancheria of Me-Wuk Indians,False,"4650 Coal Mine Rd, Ione CA 95640",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+56,Buena Vista Rancheria of Me-Wuk Indians,True,"4650 Coal Mine Rd, Ione CA 95640",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Harrah's Northern California,CA,Class III
+57,Cabazon Band of Mission Indians,False,"84-245 B Indio Springs Dr., Indio CA 92203",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+58,Cabazon Band of Mission Indians,True,"84-245 B Indio Springs Dr., Indio CA 92203",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Fantasy Springs Resort Casino,CA,Class II & III
+59,Cachil Dehe Band of Wintun Indians of the Colusa Indian Community,False,"3730 Hwy 45, Colusa CA 95932",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+60,Cachil Dehe Band of Wintun Indians of the Colusa Indian Community,True,"3730 Hwy 45, Colusa CA 95932",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Wintun Mini Mart,CA,Class II
+61,Cachil Dehe Band of Wintun Indians of the Colusa Indian Community,True,"3730 Hwy 45, Colusa CA 95932",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Colusa Casino Resort,CA,Class II & III
+62,Cahuilla Band of Mission Indians of the Cahuilla Reservation,False,"P.O. Box 391760 52701 Highway 371, Anza CA 92539",Class Type: Class II & III   See 25 CFR 502.3 & 4 nan,,CA,Class II & III
+63,Cahuilla Band of Mission Indians of the Cahuilla Reservation,True,"P.O. Box 391760 52701 Highway 371, Anza CA 92539",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cahuilla Casino,CA,Class II & III
+64,Cahuilla Band of Mission Indians of the Cahuilla Reservation,True,"P.O. Box 391760 52701 Highway 371, Anza CA 92539",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cahuilla Casino,CA,Class II & III
+65,Campo Band of Diegueno Mission of the Campo Indian Reservation,False,"36190 Church Rd.,Suite 1 PO Box 310, Campo CA 91906",Class Type: Class II & III   See 25 CFR 502.3 & 4,,PO,Class II & III
+66,Campo Band of Diegueno Mission of the Campo Indian Reservation,True,"36190 Church Rd.,Suite 1 PO Box 310, Campo CA 91906",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Golden Acorn Casino,PO,Class III
+67,Catawba Indian Nation,False,"996 Avenue of the Nations, Rock Hill SC 29730",Class Type:   See 25 CFR 502.3 & 4,,SC,Other
+68,Catawba Indian Nation,True,"996 Avenue of the Nations, Rock Hill SC 29730",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Catawba Two Kings Casino,SC,Class III
+69,Catawba Indian Nation,True,"996 Avenue of the Nations, Rock Hill SC 29730",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Catawba Two Kings Casino,SC,Class III
+70,Cayuga Nation,False,"P.O. Box 786, Seneca Falls NY 13148",Class Type: Class II   See 25 CFR 502.3 & 4,,NY,Class II
+71,Cayuga Nation,True,"P.O. Box 786, Seneca Falls NY 13148",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Lakeside Entertainment I,NY,Class II
+72,Cayuga Nation,True,"P.O. Box 786, Seneca Falls NY 13148",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Lakeside Entertainment II,NY,Class II
+73,Cayuga Nation,True,"P.O. Box 786, Seneca Falls NY 13148",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Lakeside Entertainment III (E3),NY,Class II
+74,Cayuga Nation,True,"P.O. Box 786, Seneca Falls NY 13148",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Lakeside Entertainment IV,NY,Class II
+75,Chemehuevi Indian Tribe of the Chemehuevi Nation,False,"P.O. Box 1976 1990 Palo Verde Dr., Havasu Lake CA 92363",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+76,Chemehuevi Indian Tribe of the Chemehuevi Nation,True,"P.O. Box 1976 1990 Palo Verde Dr., Havasu Lake CA 92363",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Havasu Landing Resort & Casino,CA,Class III
+77,Cher-Ae Heights Indian Community of the Trinidad Rancheria,False,"P.O.Box 630, Trinidad CA 95570",Class Type: Class III   See 25 CFR 502.3 & 4,,CA,Class III
+78,Cher-Ae Heights Indian Community of the Trinidad Rancheria,True,"P.O.Box 630, Trinidad CA 95570",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cher-Ae-Heights Casino,CA,Class II & III
+79,"Cherokee Nation, Oklahoma",False,"P.O. Box 948, Tahlequah OK 74465",Class Type: Class III   See 25 CFR 502.3 & 4,,OK,Class III
+80,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cherokee Casino - Fort Gibson,OK,Class II & III
+81,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cherokee Casino - Roland,OK,Class II & III
+82,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cherokee Casino - Sallisaw,OK,Class II & III
+83,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Roland Travel Plaza,OK,Class II & III
+84,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cherokee Casino - South Coffeyville,OK,Class II & III
+85,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cherokee Nation Grove Casino,OK,Class II & III
+86,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cherokee Casino Ramona,OK,Class II & III
+87,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cherokee Casino - Tahlequah,OK,Class II & III
+88,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cherokee Casino - Tahlequah,OK,Class II & III
+89,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cherokee Casino - West Siloam Springs,OK,Class II & III
+90,"Cherokee Nation, Oklahoma",True,"P.O. Box 948, Tahlequah OK 74465",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Hard Rock Hotel & Casino,OK,Class II & III
+91,"Cheyenne and Arapaho Tribes, Oklahoma",False,"100 Red Moon Circle, Concho OK 73022",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+92,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Lucky Star Casino #108,OK,Class II & III
+93,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Lucky Star Travel Center Casino - Hammon,OK,Class II & III
+94,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Lucky Star Travel Center Casino - Concho,OK,Class II & III
+95,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Lucky Star Travel Center Casino - Concho,OK,Class II & III
+96,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Lucky Star Casino Clinton,OK,Class II & III
+97,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Lucky Star Casino - Concho,OK,Class II & III
+98,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Lucky Star Casino - Canton,OK,Class II & III
+99,"Cheyenne and Arapaho Tribes, Oklahoma",True,"100 Red Moon Circle, Concho OK 73022",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Lucky Star Casino - Watonga,OK,Class II & III
+100,"Chickasaw Nation, Oklahoma",False,"P.O. Box 1548, Ada OK 74821",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+101,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Ada Gaming Center,OK,Class II & III
+102,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Chickasaw Travel Stop-Ada Gaming West,OK,Class II & III
+103,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Black Gold Casino - Wilson,OK,Class II & III
+104,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Chisholm Trail Casino,OK,Class II & III
+105,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,West Bay Casino and Resort,OK,Class II & III
+106,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Lakecrest Casino and Hotel,OK,Class II & III
+107,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Megastar Casino,OK,Class II & III
+108,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Newcastle Travel Center,OK,Class II & III
+109,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Riverstar Casino,OK,Class II & III
+110,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Chickasaw Travel Stop - Davis Gaming,OK,Class II & III
+111,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Chickasaw Travel Stop - Davis Gaming,OK,Class II & III
+112,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Tishomingo Tobacco Games,OK,Class II
+113,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Tishomingo Tobacco Games,OK,Class II
+114,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Artesian Casino,OK,Class II & III
+115,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Artesian Casino,OK,Class II & III
+116,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Jet Stream Casino,OK,Class II & III
+117,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Jet Stream Casino,OK,Class II & III
+118,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Winstar World Casino and Resort,OK,Class II & III
+119,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Salt Creek Casino,OK,Class II & III
+120,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Salt Creek Casino,OK,Class II & III
+121,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Texoma Casino,OK,Class II & III
+122,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Chickasaw Travel Stop - Thackerville Gaming,OK,Class II
+123,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Border Casino,OK,Class II & III
+124,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Treasure Valley Casino,OK,Class II & III
+125,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Washita Casino,OK,Class II & III
+126,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Madill Gaming Center,OK,Class II & III
+127,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Newcastle Gaming Center,OK,Class II & III
+128,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Riverwind Casino,OK,Class II & III
+129,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Goldsby Gaming Center,OK,Class II & III
+130,"Chickasaw Nation, Oklahoma",True,"P.O. Box 1548, Ada OK 74821",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Gold Mountain Casino - Ardmore,OK,Class II & III
+131,Chicken Ranch Rancheria of Me-wuk Indians of California,False,"P.O. Box 1159 9195 Red Tail Hawk Drive, Jamestown CA 95327",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+132,Chicken Ranch Rancheria of Me-wuk Indians of California,True,"P.O. Box 1159 9195 Red Tail Hawk Drive, Jamestown CA 95327",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Chicken Ranch Casino Resort,CA,Class II & III
+133,Chicken Ranch Rancheria of Me-wuk Indians of California,True,"P.O. Box 1159 9195 Red Tail Hawk Drive, Jamestown CA 95327",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Chicken Ranch Casino & Event Hall,CA,Class II & III
+134,Chicken Ranch Rancheria of Me-wuk Indians of California,True,"P.O. Box 1159 9195 Red Tail Hawk Drive, Jamestown CA 95327",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Chicken Ranch Casino & Event Hall,CA,Class II & III
+135,"Chippewa Cree Indians of the Rocky Boy's Reservation, Montana",False,"96 Clinic Road North, Box Elder MT 59521",Class Type: Class II & III   See 25 CFR 502.3 & 4,,MT,Class II & III
+136,"Chippewa Cree Indians of the Rocky Boy's Reservation, Montana",True,"96 Clinic Road North, Box Elder MT 59521",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Northern Winz Casino II,MT,Class III
+137,"Chippewa Cree Indians of the Rocky Boy's Reservation, Montana",True,"96 Clinic Road North, Box Elder MT 59521",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Northern Winz Hotel and Casino,MT,Class II & III
+138,Choctaw Nation of Oklahoma,False,"P.O. Drawer 1210, Durant OK 74702",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+139,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Pocola Travel Plaza,OK,Class II & III
+140,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Landing-Hochatown,OK,Class II & III
+141,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Heavener Travel Plaza,OK,Class II & III
+142,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Hugo Travel Center,OK,Class II & III
+143,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Idabel Travel Plaza,OK,Class II & III
+144,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Idabel Travel Plaza,OK,Class II & III
+145,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Antlers Travel Plaza,OK,Class II & III
+146,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Antlers Travel Plaza,OK,Class II & III
+147,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Antlers Travel Plaza,OK,Class II & III
+148,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Antlers Travel Plaza,OK,Class II & III
+149,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Grant Travel Plaza,OK,Class II & III
+150,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Stigler,OK,Class II & III
+151,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - McAlester,OK,Class II & III
+152,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Atoka Travel Plaza,OK,Class II & III
+153,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Poteau Travel Plaza,OK,Class II & III
+154,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Stringtown Travel Plaza,OK,Class II & III
+155,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Wilburton Travel Plaza,OK,Class II & III
+156,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Broken Bow Travel Plaza,OK,Class II & III
+157,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Idabel,OK,Class II & III
+158,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Pocola,OK,Class II & III
+159,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Stringtown,OK,Class II & III
+160,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino Too - McAlester Travel Plaza,OK,Class II & III
+161,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Durant Travel Plaza (East),OK,Class II & III
+162,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Durant Travel Plaza  (West),OK,Class II & III
+163,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino and Resort - Durant,OK,Class II & III
+164,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Broken Bow,OK,Class II & III
+165,Choctaw Nation of Oklahoma,True,"P.O. Drawer 1210, Durant OK 74702",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Choctaw Casino - Grant,OK,Class II & III
+166,"Citizen Potawatomi Nation, Oklahoma",False,"1601 S. Gordon Cooper Drive, Shawnee OK 74801",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+167,"Citizen Potawatomi Nation, Oklahoma",True,"1601 S. Gordon Cooper Drive, Shawnee OK 74801",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Firelake Travel Plaza,OK,Class II & III
+168,"Citizen Potawatomi Nation, Oklahoma",True,"1601 S. Gordon Cooper Drive, Shawnee OK 74801",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Golf Clubhouse,OK,Class III
+169,"Citizen Potawatomi Nation, Oklahoma",True,"1601 S. Gordon Cooper Drive, Shawnee OK 74801",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Golf Clubhouse,OK,Class III
+170,"Citizen Potawatomi Nation, Oklahoma",True,"1601 S. Gordon Cooper Drive, Shawnee OK 74801",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Firelake Entertainment Center,OK,Class II & III
+171,"Citizen Potawatomi Nation, Oklahoma",True,"1601 S. Gordon Cooper Drive, Shawnee OK 74801",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Grand Casino Hotel Resort,OK,Class II & III
+172,Cocopah Tribe of Arizona,False,"County 15th & Ave. G, Somerton AZ 85350",Class Type: Class II & III   See 25 CFR 502.3 & 4 nan,,AZ,Class II & III
+173,Cocopah Tribe of Arizona,True,"County 15th & Ave. G, Somerton AZ 85350",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cocopah Bingo and Casino,AZ,Class II & III
+174,Coeur d'Alene Tribe,False,"PO Box 408 850 A Street, Plummer ID 83851",Class Type: Class II & III   See 25 CFR 502.3 & 4,,PO,Class II & III
+175,Coeur d'Alene Tribe,True,"PO Box 408 850 A Street, Plummer ID 83851",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Benewah Market,PO,Class III
+176,Coeur d'Alene Tribe,True,"PO Box 408 850 A Street, Plummer ID 83851",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Benewah Automotive Center,PO,Class III
+177,Coeur d'Alene Tribe,True,"PO Box 408 850 A Street, Plummer ID 83851",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Coeur d'Alene Casino Resort/Hotel,PO,Class II & III
+178,"Colorado River Indian Tribes of the Colorado River Indian Reservation, AZ and CA",False,"26600 Mohave Road, Parker AZ 85344",Class Type: Class II & III   See 25 CFR 502.3 & 4,,AZ,Class II & III
+179,"Colorado River Indian Tribes of the Colorado River Indian Reservation, AZ and CA",True,"26600 Mohave Road, Parker AZ 85344",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Blue Water Casino,AZ,Class II & III
+180,"Comanche Nation, Oklahoma",False,"P.O. Box 908, Lawton OK 73502",Class Type: Class II & III   See 25 CFR 502.3 & 4 nan,,OK,Class II & III
+181,"Comanche Nation, Oklahoma",True,"P.O. Box 908, Lawton OK 73502",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Comanche Cache Casino,OK,Class II & III
+182,"Comanche Nation, Oklahoma",True,"P.O. Box 908, Lawton OK 73502",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,War Pony Casino,OK,Class II & III
+183,"Comanche Nation, Oklahoma",True,"P.O. Box 908, Lawton OK 73502",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Comanche Nation Travel Plaza.,OK,Class II & III
+184,"Comanche Nation, Oklahoma",True,"P.O. Box 908, Lawton OK 73502",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Comanche Nation Casino,OK,Class II & III
+185,"Comanche Nation, Oklahoma",True,"P.O. Box 908, Lawton OK 73502",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Comanche Red River Casino,OK,Class II & III
+186,"Comanche Nation, Oklahoma",True,"P.O. Box 908, Lawton OK 73502",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Comanche Spur Casino,OK,Class II & III
+187,"Comanche Nation, Oklahoma",True,"P.O. Box 908, Lawton OK 73502",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Comanche Star Casino,OK,Class II & III
+188,Confederated Salish and Kootenai Tribes of the Flathead Reservation,False,"4287 Complex Blvd., Pablo MT 59855",Class Type: Class II & III   See 25 CFR 502.3 & 4,,MT,Class II & III
+189,Confederated Salish and Kootenai Tribes of the Flathead Reservation,True,"4287 Complex Blvd., Pablo MT 59855",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Gray Wolf Peak Casino,MT,Class II
+190,Confederated Salish and Kootenai Tribes of the Flathead Reservation,True,"4287 Complex Blvd., Pablo MT 59855",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Gray Wolf Peak Casino,MT,Class II
+191,Confederated Salish and Kootenai Tribes of the Flathead Reservation,True,"4287 Complex Blvd., Pablo MT 59855",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Gray Wolf Peak Casino,MT,Class II
+192,Confederated Salish and Kootenai Tribes of the Flathead Reservation,True,"4287 Complex Blvd., Pablo MT 59855",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Gray Wolf Peak Casino,MT,Class II
+193,Confederated Salish and Kootenai Tribes of the Flathead Reservation,True,"4287 Complex Blvd., Pablo MT 59855",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Big Arm Marina Casino,MT,Class II
+194,Confederated Salish and Kootenai Tribes of the Flathead Reservation,True,"4287 Complex Blvd., Pablo MT 59855",Game Class Type:  Class II  See 25 CFR 502.3 & 4,KwaTaqNuk Resort,MT,Class II
+195,"Confederated Tribes and Bands of the Yakama Nation, Washington",False,"PO Box 151 401 Fort Rd, Toppenish WA 98948",Class Type: Class II & III   See 25 CFR 502.3 & 4,,PO,Class II & III
+196,"Confederated Tribes and Bands of the Yakama Nation, Washington",True,"PO Box 151 401 Fort Rd, Toppenish WA 98948",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Yakama Nation Legends Casino,PO,Class II & III
+197,"Confederated Tribes of Coos, Lower Umpqua & Siuslaw Indians of Oregon",False,"1245 Fulton Ave, Coos Bay OR 97420",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OR,Class II & III
+198,"Confederated Tribes of Coos, Lower Umpqua & Siuslaw Indians of Oregon",True,"1245 Fulton Ave, Coos Bay OR 97420",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Three River Casino - Coos Bay,OR,Class II
+199,"Confederated Tribes of Coos, Lower Umpqua & Siuslaw Indians of Oregon",True,"1245 Fulton Ave, Coos Bay OR 97420",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Three River Casino - Coos Bay,OR,Class II
+200,"Confederated Tribes of Coos, Lower Umpqua & Siuslaw Indians of Oregon",True,"1245 Fulton Ave, Coos Bay OR 97420",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Three Rivers Casino - Florence,OR,Class II & III
+201,Confederated Tribes of Siletz Indians of Oregon,False,"PO Box 549 201 SE Swan Ave, Siletz OR 97380",Class Type: Class II & III   See 25 CFR 502.3 & 4,,PO,Class II & III
+202,Confederated Tribes of Siletz Indians of Oregon,True,"PO Box 549 201 SE Swan Ave, Siletz OR 97380",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Chinook Winds Casino Resort,PO,Class II & III
+203,"Confederated Tribes of the Chehalis Reservation, Washington",False,"PO Box 536 420 Howanut Road, Oakville WA 98568",Class Type: Class II & III   See 25 CFR 502.3 & 4,,PO,Class II & III
+204,"Confederated Tribes of the Chehalis Reservation, Washington",True,"PO Box 536 420 Howanut Road, Oakville WA 98568",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Lucky Eagle Casino and Hotel,PO,Class II & III
+205,Confederated Tribes of the Colville Reservation Washington,False,"PO Box 150 21 Colville Street, Nespelem WA 99155",Class Type: Class II & III   See 25 CFR 502.3 & 4 nan,,PO,Class II & III
+206,Confederated Tribes of the Colville Reservation Washington,True,"PO Box 150 21 Colville Street, Nespelem WA 99155",Game Class Type:  Class III  See 25 CFR 502.3 & 4,12 Tribes Omak Casino,PO,Class III
+207,Confederated Tribes of the Colville Reservation Washington,True,"PO Box 150 21 Colville Street, Nespelem WA 99155",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,12 Tribes of Lake Chelan Casino,PO,Class II & III
+208,Confederated Tribes of the Colville Reservation Washington,True,"PO Box 150 21 Colville Street, Nespelem WA 99155",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,12 Tribes Coulee Dam Casino,PO,Class II & III
+209,Confederated Tribes of the Grand Ronde Community of Oregon,False,"9615 Grand Ronde Rd, Grand Ronde OR 97347-",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OR,Class II & III
+210,Confederated Tribes of the Grand Ronde Community of Oregon,True,"9615 Grand Ronde Rd, Grand Ronde OR 97347-",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Spirit Mountain Casino,OR,Class II & III
+211,Confederated Tribes of the Umatilla Indian Reservation,False,"46411 Timine Way, Pendleton OR 97801",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OR,Class II & III
+212,Confederated Tribes of the Umatilla Indian Reservation,True,"46411 Timine Way, Pendleton OR 97801",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Wildhorse Gaming Resort and Casino,OR,Class II & III
+213,Confederated Tribes of the Warm Springs Reservation of OR,False,"P.O. Box 1299 1233 Veterns St, Warm Springs OR 97761",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OR,Class II & III
+214,Confederated Tribes of the Warm Springs Reservation of OR,True,"P.O. Box 1299 1233 Veterns St, Warm Springs OR 97761",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Plateau Travel Plaza,OR,Class II
+215,Confederated Tribes of the Warm Springs Reservation of OR,True,"P.O. Box 1299 1233 Veterns St, Warm Springs OR 97761",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Indian Head Casino,OR,Class III
+216,Coquille Indian Tribe,False,"3050 Tremont Avenue, North Bend OR 97459",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OR,Class II & III
+217,Coquille Indian Tribe,True,"3050 Tremont Avenue, North Bend OR 97459",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Ko-Kwell Casino Resort Medford,OR,Class II
+218,Coquille Indian Tribe,True,"3050 Tremont Avenue, North Bend OR 97459",Game Class Type:  Class III  See 25 CFR 502.3 & 4,The Mill Casino,OR,Class III
+219,Coushatta Tribe of Louisiana,False,"P.O. BOX 818, C.C. Bel Road, ELTON LA 70532",Class Type: Class II & III   See 25 CFR 502.3 & 4,,BO,Class II & III
+220,Coushatta Tribe of Louisiana,True,"P.O. BOX 818, C.C. Bel Road, ELTON LA 70532",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Coushatta Casino Resort,BO,Class II & III
+221,Cow Creek Band of Umpqua Tribe of Indians,False,"2371 NE Stephens St STE 100, Roseburg OR 97470",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NE,Class II & III
+222,Cow Creek Band of Umpqua Tribe of Indians,True,"2371 NE Stephens St STE 100, Roseburg OR 97470",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Seven Feathers Casino Resort,NE,Class II & III
+223,Cowlitz Tribe,False,"PO Box 2547 1055 9th Ave S, Suite B, Longview WA 98632",Class Type:   See 25 CFR 502.3 & 4,,PO,Other
+224,Cowlitz Tribe,True,"PO Box 2547 1055 9th Ave S, Suite B, Longview WA 98632",Game Class Type:  Class III  See 25 CFR 502.3 & 4,ilani Casino Resort,PO,Class III
+225,Coyote Valley Band of Pomo Indians,False,"7601 North State Street, Redwood Valley CA 95470",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+226,Coyote Valley Band of Pomo Indians,True,"7601 North State Street, Redwood Valley CA 95470",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Coyote Valley Mini Casino,CA,Class II
+227,Coyote Valley Band of Pomo Indians,True,"7601 North State Street, Redwood Valley CA 95470",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Coyote Valley Casino,CA,Class II & III
+228,Crow Creek Sioux Tribe of the Crow Creek Reservation,False,"P.O. Box 50, Fort Thompson SD 57339",Class Type: Class III   See 25 CFR 502.3 & 4,,SD,Class III
+229,Crow Creek Sioux Tribe of the Crow Creek Reservation,True,"P.O. Box 50, Fort Thompson SD 57339 nan",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Lode Star Casino,SD,Class III
+230,"Delaware Nation, Oklahoma",False,"P.O. Box 825, Anadarko OK 73005",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+231,"Delaware Nation, Oklahoma",True,"P.O. Box 825, Anadarko OK 73005",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Casino Oklahoma,OK,Class II & III
+232,"Delaware Nation, Oklahoma",True,"P.O. Box 825, Anadarko OK 73005",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Gold River Casino,OK,Class II & III
+233,"Dry Creek Rancheria Band of Pomo Indians, California",False,"1450 Airport Blvd. Ste. 200A, Santa Rosa CA 95403","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: chrisw@drycreekrancheria.com",,CA,Class II & III
+234,"Dry Creek Rancheria Band of Pomo Indians, California",True,,"1450 Airport Blvd. Ste. 200A, Santa Rosa CA 95403
+Game Class Type:  Class III  See 25 CFR 502.3 & 4",River Rock Casino,CA,Class III
+235,Eastern Band of Cherokee Indians of North Carolina,False,"P.O. Box 455, Cherokee NC 28719","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: mhicks@ebci-nsn.gov",,NC,Class II & III
+236,Eastern Band of Cherokee Indians of North Carolina,True,,"P.O. Box 455, Cherokee NC 28719
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Harrah's Cherokee Casino,NC,Class II & III
+237,Eastern Band of Cherokee Indians of North Carolina,True,,"P.O. Box 455, Cherokee NC 28719
+Game Class Type:  Class III  See 25 CFR 502.3 & 4",Harrah's Cherokee Valley River Casino,NC,Class III
+238,Eastern Band of Cherokee Indians of North Carolina,True,,"P.O. Box 455, Cherokee NC 28719
+Game Class Type:  Class III  See 25 CFR 502.3 & 4",Harrah's Cherokee Valley River Casino,NC,Class III
+239,Eastern Shawnee Tribe of Oklahoma,False,"70500 E. 128 Road Suite 1, Wyandotte OK 74370","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: gjwallace@estoo.net",,OK,Class II & III
+240,Eastern Shawnee Tribe of Oklahoma,True,,"70500 E. 128 Road Suite 1, Wyandotte OK 74370
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Bordertown Outpost Casino,OK,Class II & III
+241,Eastern Shawnee Tribe of Oklahoma,True,,"70500 E. 128 Road Suite 1, Wyandotte OK 74370
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Indigo Sky Casino,OK,Class II & III
+242,Eklutna Native Village,False,"26339 Eklutna Village Road, Chugiak AK 99567","Class Type:   See 25 CFR 502.3 & 4 
+Email Address:",,AK,Other
+243,Eklutna Native Village,True,,"26339 Eklutna Village Road, Chugiak AK 99567
+Game Class Type:  Class II  See 25 CFR 502.3 & 4",Chin'an Gaming Hall,AK,Class II
+244,Elk Valley Rancheria,False,"2332 Howland Hill Road, Crescent City CA 95531","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: dmiller@elk-valley.com",,CA,Class II & III
+245,Elk Valley Rancheria,True,,"2332 Howland Hill Road, Crescent City CA 95531
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Elk Valley Casino,CA,Class II & III
+246,Enterprise Rancheria of the Maidu Indians of California,False,"3311 Forty Mile Road, Wheatland CA 95692","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: jcn@ergc.us",,CA,Class II & III
+247,Enterprise Rancheria of the Maidu Indians of California,True,,"3311 Forty Mile Road, Wheatland CA 95692
+Game Class Type:  Class III  See 25 CFR 502.3 & 4",Rocktane Slots & Casino at Fire Mountain,CA,Class III
+248,Enterprise Rancheria of the Maidu Indians of California,True,,"3311 Forty Mile Road, Wheatland CA 95692
+Game Class Type:  Class III  See 25 CFR 502.3 & 4",Hard Rock Hotel & Casino Sacramento at Fire Mountain,CA,Class III
+249,Federated Indians of Graton Rancheria,False,"6400 Redwood Dr. Suite 300, Rohnert Park CA 94928","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: ahardin@gratonrancheria.com",,CA,Class II & III
+250,Federated Indians of Graton Rancheria,True,,"6400 Redwood Dr. Suite 300, Rohnert Park CA 94928
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Graton Resort & Casino,CA,Class II & III
+251,Flandreau Santee Sioux Tribe,False,"P.O. Box 283, Flandreau SD 57028","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: tony.reider@fsst.org",,SD,Class II & III
+252,Flandreau Santee Sioux Tribe,True,,"P.O. Box 283, Flandreau SD 57028
+Game Class Type:  Class III  See 25 CFR 502.3 & 4",First American Mart,SD,Class III
+253,Flandreau Santee Sioux Tribe,True,,"P.O. Box 283, Flandreau SD 57028
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Royal River Casino and Hotel,SD,Class II & III
+254,"Fond du Lac Band of Minnesota Chippewa Tribe, Minnesota",False,"1720 Big Lake Road, Cloquet MN 55720","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: brucesavage@fdlband.org",,MN,Class II & III
+255,"Fond du Lac Band of Minnesota Chippewa Tribe, Minnesota",True,,"1720 Big Lake Road, Cloquet MN 55720
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Black Bear Casino,MN,Class II & III
+256,"Fond du Lac Band of Minnesota Chippewa Tribe, Minnesota",True,,"1720 Big Lake Road, Cloquet MN 55720
+Game Class Type:  Class III  See 25 CFR 502.3 & 4",Fond du Luth Casino,MN,Class III
+257,"Forest County Potawatomi Community, Wisconsin",False,"5416 Everybody's Rd, Crandon WI 54520","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: James.crawford@fcpotawatomi- nsn.gov",,WI,Class II & III
+258,"Forest County Potawatomi Community, Wisconsin",True,,"5416 Everybody's Rd, Crandon WI 54520
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Potawatomi Hotel & Casino,WI,Class II & III
+259,"Forest County Potawatomi Community, Wisconsin",True,,"5416 Everybody's Rd, Crandon WI 54520
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Potawatomi Carter Casino Hotel,WI,Class II & III
+260,"Fort Belknap Indian Community of the Fort Belknap Reservation, Montana",False,"RR 1 Box 66 656 Agency Main Street, Harlem MT 59526","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: jeffrey.stiffarm@ftbelknap.org",,RR,Class II & III
+261,"Fort Belknap Indian Community of the Fort Belknap Reservation, Montana",True,,"RR 1 Box 66 656 Agency Main Street, Harlem MT 
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4 59526",Fort Belknap Casino,RR,Class II & III
+262,Fort Independence Indian Community of Paiute Indians of  Fort Independence Reservation,False,"P.O.Box 67, Independence CA 93526","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: carl@fortindependence.com",,CA,Class II & III
+263,Fort Independence Indian Community of Paiute Indians of  Fort Independence Reservation,True,,"P.O.Box 67, Independence CA 93526
+Game Class Type:  Class II  See 25 CFR 502.3 & 4",Oak Creek Casino,CA,Class II
+264,Fort McDowell Yavapai Nation of Arizona,False,"P.O. Box 17779, Fountain Hills AZ 85269","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: Sandra.Pattea@fmyn.org",,AZ,Class II & III
+265,Fort McDowell Yavapai Nation of Arizona,True,,"P.O. Box 17779, Fountain Hills AZ 85269
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",We-Ko-Pa Casino Resort,AZ,Class II & III
+266,Fort Mojave Indian Tribe,False,"500 Merriman Avenue, Needles CA 92363","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: timothywilliams@fortmojave.com",,CA,Class II & III
+267,Fort Mojave Indian Tribe,True,,"500 Merriman Avenue, Needles CA 92363
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Avi Casino,CA,Class II & III
+268,Fort Mojave Indian Tribe,True,,"500 Merriman Avenue, Needles CA 92363
+Game Class Type:  Class III  See 25 CFR 502.3 & 4",Spirit Mountain Casino,CA,Class III
+269,Fort Sill Apache Tribe of Oklahoma,False,"43187 US Highway 281, Apache OK 73006","Class Type: Class II   See 25 CFR 502.3 & 4 
+Email Address: jennifer.heminokeky@fortsillapache- nsn.gov",,US,Class II
+270,Fort Sill Apache Tribe of Oklahoma,True,,"43187 US Highway 281, Apache OK 73006
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Warm Springs Casino,US,Class II & III
+271,Fort Sill Apache Tribe of Oklahoma,True,,"43187 US Highway 281, Apache OK 73006
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Apache Casino Hotel,US,Class II & III
+272,"Gila River Indian Community of the Gila River Indian Reservation, Arizona",False,"P.O. Box 97 315 West Casa Blanca, Sacaton AZ 85247","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: Stephen.Lewis@gric.nsn.us",,AZ,Class II & III
+273,"Gila River Indian Community of the Gila River Indian Reservation, Arizona",True,,"P.O. Box 97 315 West Casa Blanca, Sacaton AZ 85247 Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",San Tan Mountain Casino,AZ,Class II & III
+274,"Gila River Indian Community of the Gila River Indian Reservation, Arizona",True,,"P.O. Box 97 315 West Casa Blanca, Sacaton AZ 85247 Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Vee Quiva Casino,AZ,Class II & III
+275,"Gila River Indian Community of the Gila River Indian Reservation, Arizona",True,"P.O. Box 97 315 West Casa Blanca, Sacaton AZ 85247",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Wild Horse Pass Casino,AZ,Class II & III
+276,"Gila River Indian Community of the Gila River Indian Reservation, Arizona",True,"P.O. Box 97 315 West Casa Blanca, Sacaton AZ 85247",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Lone Butte Casino,AZ,Class II & III
+277,"Grand Portage Band of Minnesota Chippewa Tribe, Minnesota",False,"P.O. Box 428, Grand Portage MN 55605",Class Type: Class II & III   See 25 CFR 502.3 & 4 nan,,MN,Class II & III
+278,"Grand Portage Band of Minnesota Chippewa Tribe, Minnesota",True,"P.O. Box 428, Grand Portage MN 55605",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Grand Portage Casino,MN,Class II & III
+279,"Grand Traverse Band of Ottawa and Chippewa Indians, Michigan",False,"2605 N. West Bay Shore Dr., Peshawbestown MI 49682",Class Type: Class II & III   See 25 CFR 502.3 & 4 nan,,MI,Class II & III
+280,"Grand Traverse Band of Ottawa and Chippewa Indians, Michigan",True,"2605 N. West Bay Shore Dr., Peshawbestown MI 49682",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Crystal Shores Casino,MI,Class II & III
+281,"Grand Traverse Band of Ottawa and Chippewa Indians, Michigan",True,"2605 N. West Bay Shore Dr., Peshawbestown MI 49682",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Turtle Creek Casino,MI,Class II & III
+282,"Grand Traverse Band of Ottawa and Chippewa Indians, Michigan",True,"2605 N. West Bay Shore Dr., Peshawbestown MI 49682",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Leelanau Sands Casino,MI,Class II & III
+283,Habematolel Pomo of Upper Lake,False,"375 East Highway 20, Suite 1 P.O. Box 516, Upper Lake CA",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+284,Habematolel Pomo of Upper Lake,True,"375 East Highway 20, Suite 1 P.O. Box 516, Upper Lake CA 95485",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Running Creek Casino,CA,Class III
+285,Hannahville Indian Community,False,"N. 14911 Hannahville B1 Road P.O. Box 351, Wilson MI 49896",Class Type: Class II & III   See 25 CFR 502.3 & 4,,MI,Class II & III
+286,Hannahville Indian Community,True,"N. 14911 Hannahville B1 Road P.O. Box 351, Wilson MI 49896",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Island Resort & Casino,MI,Class II & III
+287,Ho-Chunk Nation of Wisconsin,False,"P.O. Box 667 W9814 Airport Road, Black River Falls WI 54615",Class Type: Class II & III   See 25 CFR 502.3 & 4,,WI,Class II & III
+288,Ho-Chunk Nation of Wisconsin,True,"P.O. Box 667 W9814 Airport Road, Black River Falls WI 54615",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Ho-Chunk Gaming - Wittenberg,WI,Class III
+289,Ho-Chunk Nation of Wisconsin,True,"P.O. Box 667 W9814 Airport Road, Black River Falls WI 54615",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Ho-Chunk Gaming - Tomah,WI,Class III
+290,Ho-Chunk Nation of Wisconsin,True,"P.O. Box 667 W9814 Airport Road, Black River Falls WI 54615",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Ho-Chunk Gaming - Nekoosa,WI,Class II & III
+291,Ho-Chunk Nation of Wisconsin,True,"P.O. Box 667 W9814 Airport Road, Black River Falls WI 54615",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Ho-Chunk Gaming - Black River Falls,WI,Class II & III
+292,Ho-Chunk Nation of Wisconsin,True,"P.O. Box 667 W9814 Airport Road, Black River Falls WI 54615",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Ho-Chunk Gaming - Wisconsin Dells,WI,Class II & III
+293,Ho-Chunk Nation of Wisconsin,True,"P.O. Box 667 W9814 Airport Road, Black River Falls WI 54615",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Ho-Chunk Gaming - Madison,WI,Class II
+294,Hoopa Valley Tribe,False,"P.O. Box 1348 NF Building Highway 96, Hoopa CA 95546",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NF,Class II & III
+295,Hoopa Valley Tribe,True,"P.O. Box 1348 NF Building Highway 96, Hoopa CA 95546",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Lucky Bear Casino,NF,Class II & III
+296,Iowa Tribe of Kansas and Nebraska,False,"3345 B Thrasher Rd., White Cloud KS 66094",Class Type: Class II & III   See 25 CFR 502.3 & 4,,KS,Class II & III
+297,Iowa Tribe of Kansas and Nebraska,True,"3345 B Thrasher Rd., White Cloud KS 66094",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Casino White Cloud,KS,Class II & III
+298,Iowa Tribe of Oklahoma,False,"335588 E. 750 Road, Perkins OK 74059",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+299,Iowa Tribe of Oklahoma,True,"335588 E. 750 Road, Perkins OK 74059",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cimarron Casino,OK,Class II & III
+300,Iowa Tribe of Oklahoma,True,"335588 E. 750 Road, Perkins OK 74059",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Ioway Travel Plaza Casino,OK,Class II & III
+301,Iowa Tribe of Oklahoma,True,"335588 E. 750 Road, Perkins OK 74059",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Ioway Casino,OK,Class II & III
+302,Jackson Band of Miwuk Indians,False,"P.O. Box 1090 12222 New York Ranch Road, Jackson CA 95642",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+303,Jackson Band of Miwuk Indians,True,"P.O. Box 1090 12222 New York Ranch Road, Jackson CA 95642",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Jackson Rancheria Casino & Hotel,CA,Class II & III
+304,Jamestown S'Klallam Tribe,False,"1033 Old Blyn Highway, Sequim WA 98382",Class Type: Class II & III   See 25 CFR 502.3 & 4,,WA,Class II & III
+305,Jamestown S'Klallam Tribe,True,"1033 Old Blyn Highway, Sequim WA 98382",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Seven Cedars Casino,WA,Class II & III
+306,Jamul Indian Village of California,False,"P.O. Box 612 14191 Hwy 94, Jamul CA 91935",Class Type: Class II   See 25 CFR 502.3 & 4,,CA,Class II
+307,Jamul Indian Village of California,True,"P.O. Box 612 14191 Hwy 94, Jamul CA 91935",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Jamul Casino,CA,Class III
+308,Jena Band of Choctaw Indians,False,"P.O. Box 14, Jena LA 71342",Class Type: Class II & III   See 25 CFR 502.3 & 4,,LA,Class II & III
+309,Jena Band of Choctaw Indians,True,"P.O. Box 14, Jena LA 71342",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Miko's Gaming,LA,Class II
+310,Jena Band of Choctaw Indians,True,"P.O. Box 14, Jena LA 71342",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Miko's Gaming,LA,Class II
+311,Jena Band of Choctaw Indians,True,"P.O. Box 14, Jena LA 71342",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Choctaw Pines Casino,LA,Class II
+312,Jena Band of Choctaw Indians,True,"P.O. Box 14, Jena LA 71342",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Choctaw Pines Casino,LA,Class II
+313,Kalispel Indian Community of the Kalispel Reservation,False,"1981 LeClerc Rd North, Usk WA 99180",Class Type: Class II & III   See 25 CFR 502.3 & 4,,WA,Class II & III
+314,Kalispel Indian Community of the Kalispel Reservation,True,"1981 LeClerc Rd North, Usk WA 99180",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Kalispel Casino,WA,Class II & III
+315,Kalispel Indian Community of the Kalispel Reservation,True,"1981 LeClerc Rd North, Usk WA 99180",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Northern Quest Resort & Casino,WA,Class II & III
+316,Karuk Tribe,False,"P.O. Box 1016 64236 2nd Ave., Happy Camp CA 96039",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+317,Karuk Tribe,True,"P.O. Box 1016 64236 2nd Ave., Happy Camp CA 96039",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Rain Rock Casino,CA,Class III
+318,"Kaw Nation, Oklahoma",False,"5640 LaCann Drive, Kaw City OK 74647",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+319,"Kaw Nation, Oklahoma",True,"5640 LaCann Drive, Kaw City OK 74647 nan",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Rock and Brews Casino,OK,Class II & III
+320,"Kaw Nation, Oklahoma",True,"5640 LaCann Drive, Kaw City OK 74647 nan",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Rock and Brews Casino,OK,Class II & III
+321,"Kaw Nation, Oklahoma",True,"5640 LaCann Drive, Kaw City OK 74647 nan",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Kanza Casino,OK,Class II & III
+322,Keweenaw Bay Indian Community,False,"KBIC Tribal Center 16429  Bear Town Rd., Baraga MI 49908",Class Type: Class II & III   See 25 CFR 502.3 & 4,,KB,Class II & III
+323,Keweenaw Bay Indian Community,True,"KBIC Tribal Center 16429  Bear Town Rd., Baraga MI 49908",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Ojibwa Casino II,KB,Class III
+324,Keweenaw Bay Indian Community,True,"KBIC Tribal Center 16429  Bear Town Rd., Baraga MI 49908",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Ojibwa Casino and Resort - Marquette,KB,Class II & III
+325,Kickapoo Traditional Tribe of Texas,False,"2212 Rosita Valley Road, Eagle Pass TX 78852",Class Type: Class II & III   See 25 CFR 502.3 & 4,,TX,Class II & III
+326,Kickapoo Traditional Tribe of Texas,True,"2212 Rosita Valley Road, Eagle Pass TX 78852",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Kickapoo Lucky Eagle Casino,TX,Class II
+327,Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas,False,"824 111th Drive, Horton KS 66439",Class Type: Class III   See 25 CFR 502.3 & 4,,KS,Class III
+328,Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas,True,"824 111th Drive, Horton KS 66439",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Golden Eagle Casino,KS,Class II & III
+329,Kickapoo Tribe of Oklahoma,False,"P.O. Box 70, McLoud OK 74851",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+330,Kickapoo Tribe of Oklahoma,True,"P.O. Box 70, McLoud OK 74851",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Kickapoo Casino - Shawnee,OK,Class II & III
+331,Kickapoo Tribe of Oklahoma,True,"P.O. Box 70, McLoud OK 74851",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Kickapoo Casino - Shawnee,OK,Class II & III
+332,Kickapoo Tribe of Oklahoma,True,"P.O. Box 70, McLoud OK 74851",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Kickapoo Casino,OK,Class II & III
+333,Kiowa Tribe of Oklahoma,False,"100 W Kiowa Way, Carnegie OK 73015",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+334,Kiowa Tribe of Oklahoma,True,"100 W Kiowa Way, Carnegie OK 73015",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Kiowa Casino Carnegie,OK,Class II & III
+335,Kiowa Tribe of Oklahoma,True,"100 W Kiowa Way, Carnegie OK 73015",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Kiowa Casino Red River,OK,Class II & III
+336,"Klamath Tribes, Oregon",False,"PO Box 436 501 Chiloquin Blvd, Chiloquin OR 97624",Class Type: Class II & III   See 25 CFR 502.3 & 4,,PO,Class II & III
+337,"Klamath Tribes, Oregon",True,"PO Box 436 501 Chiloquin Blvd, Chiloquin OR 97624",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Kla-Mo-Ya Casino,PO,Class III
+338,Klawock Cooperative Association,False,"PO Box 430 310 Bayview Blvd, Klawock AK 99925",Class Type: Class II & III   See 25 CFR 502.3 & 4,,PO,Class II & III
+339,Klawock Cooperative Association,True,"PO Box 430 310 Bayview Blvd, Klawock AK 99925",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Klawock Casino,PO,Class II
+340,Kootenai Tribe of Idaho,False,"PO Box 1269 100 Circle Dr, Bonners Ferry ID 83805",Class Type: Class II & III   See 25 CFR 502.3 & 4,,PO,Class II & III
+341,Kootenai Tribe of Idaho,True,"PO Box 1269 100 Circle Dr, Bonners Ferry ID 83805",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Kootenai River Inn Casino and Spa,PO,Class II & III
+342,Lac du Flambeau Band of Lake Superior Chippewa Indians,False,"P.O. Box 67, Lac du Flambeau WI 54538",Class Type: Class II & III   See 25 CFR 502.3 & 4,,WI,Class II & III
+343,Lac du Flambeau Band of Lake Superior Chippewa Indians,True,"P.O. Box 67, Lac du Flambeau WI 54538",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Lake of the Torches Resort Casino,WI,Class II & III
+344,"Leech Lake Band of Minnesota Chippewa Tribe, Minnesota",False,"190 Salistar Dr. NW, Cass Lake MN 56633",Class Type: Class III   See 25 CFR 502.3 & 4,,NW,Class III
+345,"Leech Lake Band of Minnesota Chippewa Tribe, Minnesota",True,"190 Salistar Dr. NW, Cass Lake MN 56633",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Big Winnie Bar,NW,Class II
+346,"Leech Lake Band of Minnesota Chippewa Tribe, Minnesota",True,"190 Salistar Dr. NW, Cass Lake MN 56633",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Charlie's Up North,NW,Class II
+347,"Leech Lake Band of Minnesota Chippewa Tribe, Minnesota",True,"190 Salistar Dr. NW, Cass Lake MN 56633",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Leino's Riverside Pub,NW,Class II
+348,"Leech Lake Band of Minnesota Chippewa Tribe, Minnesota",True,"190 Salistar Dr. NW, Cass Lake MN 56633",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Shingobee on the Bay,NW,Class II & III
+349,"Leech Lake Band of Minnesota Chippewa Tribe, Minnesota",True,"190 Salistar Dr. NW, Cass Lake MN 56633",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cedar Lakes Casino & Hotel,NW,Class II & III
+350,"Leech Lake Band of Minnesota Chippewa Tribe, Minnesota",True,"190 Salistar Dr. NW, Cass Lake MN 56633",Game Class Type:  Class III  See 25 CFR 502.3 & 4,White Oak Casino,NW,Class III
+351,"Leech Lake Band of Minnesota Chippewa Tribe, Minnesota",True,"190 Salistar Dr. NW, Cass Lake MN 56633",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Northern Lights Casino,NW,Class II & III
+352,Little River Band of Ottawa Indians,False,"375 River St., Manistee MI 49660",Class Type: Class II & III   See 25 CFR 502.3 & 4,,MI,Class II & III
+353,Little River Band of Ottawa Indians,True,"375 River St., Manistee MI 49660",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Little River Casino,MI,Class III
+354,Little Traverse Bay Band of Odawa Indians,False,"7500 Odawa Circle, Harbor Springs MI 49740",Class Type: Class II & III   See 25 CFR 502.3 & 4,,MI,Class II & III
+355,Little Traverse Bay Band of Odawa Indians,True,"7500 Odawa Circle, Harbor Springs MI 49740",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Odawa Casino Mackinaw City,MI,Class II
+356,Little Traverse Bay Band of Odawa Indians,True,"7500 Odawa Circle, Harbor Springs MI 49740",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Odawa Casino Resort,MI,Class II & III
+357,Lower Brule Sioux Tribe of the Lower Brule Reservation,False,"187 Oyate Circle, Lower Brule SD 57548",Class Type: Class II & III   See 25 CFR 502.3 & 4,,SD,Class II & III
+358,Lower Brule Sioux Tribe of the Lower Brule Reservation,True,"187 Oyate Circle, Lower Brule SD 57548",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Golden Buffalo Casino & Resort,SD,Class III
+359,Lower Elwha Tribal Community,False,"2851 Lower Elwha Rd, Port Angeles WA 98363",Class Type: Class II & III   See 25 CFR 502.3 & 4,,WA,Class II & III
+360,Lower Elwha Tribal Community,True,"2851 Lower Elwha Rd, Port Angeles WA 98363",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Elwha River Casino,WA,Class II
+361,Lower Sioux Indian Community in the State of Minnesota,False,"P.O. Box 308 39527 Res. Hwy 1, Morton MN 56270",Class Type: Class II & III   See 25 CFR 502.3 & 4,,MN,Class II & III
+362,Lower Sioux Indian Community in the State of Minnesota,True,"P.O. Box 308 39527 Res. Hwy 1, Morton MN 56270",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Jackpot Junction Casino Hotel,MN,Class II & III
+363,"Lummi Tribe of the Lummi Reservation, Washington",False,"2665 Kwina Road, Bellingham WA 98226",Class Type: Class II & III   See 25 CFR 502.3 & 4,,WA,Class II & III
+364,"Lummi Tribe of the Lummi Reservation, Washington",True,"2665 Kwina Road, Bellingham WA 98226",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Silver Reef Casino,WA,Class III
+365,Lytton Rancheria of California,False,"437 Aviation Blvd., Santa Rosa CA 95403",Class Type: Class II   See 25 CFR 502.3 & 4 nan,,CA,Class II
+366,Lytton Rancheria of California,True,"437 Aviation Blvd., Santa Rosa CA 95403",Game Class Type:  Class II  See 25 CFR 502.3 & 4,San Pablo Lytton Casino,CA,Class II
+367,"Manchester Band of Pomo Indians of the Manchester Rancheria, California",False,"P.O. Box 623 24 Mamie Laiwa Dr., Point Arena CA 95468",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+368,"Manchester Band of Pomo Indians of the Manchester Rancheria, California",True,"P.O. Box 623 24 Mamie Laiwa Dr., Point Arena CA 95468",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Garcia River Casino,CA,Class III
+369,Mashantucket Pequot Indian Tribe,False,"P.O. Box 3060 2 Matts Path, Mashantucket CT 063383060",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CT,Class II & III
+370,Mashantucket Pequot Indian Tribe,True,"P.O. Box 3060 2 Matts Path, Mashantucket CT 63383060",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Foxwoods Resort & Casino,CT,Class II & III
+371,Match-E-Be-Nash-She-Wish Band of Potawatomi Indians,False,"2872 Mission Drive, Shelbyville MI 49344",Class Type: Class II & III   See 25 CFR 502.3 & 4,,MI,Class II & III
+372,Match-E-Be-Nash-She-Wish Band of Potawatomi Indians,True,"2872 Mission Drive, Shelbyville MI 49344",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Gun Lake Casino,MI,Class III
+373,Mechoopda Indian Tribe of Chico Rancheria,False,"125 Mission Ranch Blvd., Chico CA 95926",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+374,Mechoopda Indian Tribe of Chico Rancheria,True,"125 Mission Ranch Blvd., Chico CA 95926",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Mechoopda Casino,CA,Class II
+375,Menominee Indian Tribe of Wisconsin,False,"P.O. Box 910, Keshena WI 54135",Class Type: Class II & III   See 25 CFR 502.3 & 4,,WI,Class II & III
+376,Menominee Indian Tribe of Wisconsin,True,"P.O. Box 910, Keshena WI 54135 nan",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Thunderbird C Store,WI,Class III
+377,Menominee Indian Tribe of Wisconsin,True,"P.O. Box 910, Keshena WI 54135",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Menominee Casino Resort,WI,Class II & III
+378,"Mescalero Apache Tribe of the Mescalero Reservation, NM",False,"P.O. Box 227, Mescalero NM 88340",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NM,Class II & III
+379,"Mescalero Apache Tribe of the Mescalero Reservation, NM",True,"P.O. Box 227, Mescalero NM 88340",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Casino Apache Travel Center,NM,Class II & III
+380,"Mescalero Apache Tribe of the Mescalero Reservation, NM",True,"P.O. Box 227, Mescalero NM 88340",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Inn of the Mountain Gods Resort and Casino,NM,Class II & III
+381,"Metlakatla Indian Community, Annette Island Reservation",False,"8th and Milton Street, Metlakatla AK 99926",Class Type: Class II   See 25 CFR 502.3 & 4,,AK,Class II
+382,"Metlakatla Indian Community, Annette Island Reservation",True,"8th and Milton Street, Metlakatla AK 99926",Game Class Type:  Class II  See 25 CFR 502.3 & 4,MIC Gaming Casino,AK,Class II
+383,Miami Tribe of Oklahoma,False,"P.O. Box 1326 3410 P St. NW, Miami OK 74355",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NW,Class II & III
+384,Miami Tribe of Oklahoma,True,"P.O. Box 1326 3410 P St. NW, Miami OK 74355",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Prairie Moon Casino,NW,Class II & III
+385,Miccosukee Tribe of Indians of Florida,False,"P.O. Box 440021 Tamiami Station, Miami FL 33144",Class Type: Class II   See 25 CFR 502.3 & 4 nan,,FL,Class II
+386,Miccosukee Tribe of Indians of Florida,True,"P.O. Box 440021 Tamiami Station, Miami FL 33144",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Little Trail Casino,FL,Class II
+387,Miccosukee Tribe of Indians of Florida,True,"P.O. Box 440021 Tamiami Station, Miami FL 33144",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Miccosukee Resort & Gaming,FL,Class II
+388,Middletown Rancheria of Pomo Indians of California,False,"P.O. Box 1035 22223 Hwy 29 @ Rancheria Rd, Middletown CA",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+389,Middletown Rancheria of Pomo Indians of California,True,"P.O. Box 1035 22223 Hwy 29 @ Rancheria Rd, Middletown CA 95461",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Twin Pine Casino,CA,Class II & III
+390,"Mille Lacs Band of Ojibwe, Minnesota",False,"43408 Oodena Drive, Onamia MN 56359",Class Type: Class II & III   See 25 CFR 502.3 & 4,,MN,Class II & III
+391,"Mille Lacs Band of Ojibwe, Minnesota",True,"43408 Oodena Drive, Onamia MN 56359",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Grand Casino Mille Lacs,MN,Class II & III
+392,"Mille Lacs Band of Ojibwe, Minnesota",True,"43408 Oodena Drive, Onamia MN 56359",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Grand Casino Mille Lacs,MN,Class II & III
+393,"Mille Lacs Band of Ojibwe, Minnesota",True,"43408 Oodena Drive, Onamia MN 56359",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Grand Casino Hinckley,MN,Class II & III
+394,Mississippi Band of Choctaw Indians,False,"P.O. Box 6010 101 Industrial Road, Choctaw MS 39350",Class Type: Class II & III   See 25 CFR 502.3 & 4,,MS,Class II & III
+395,Mississippi Band of Choctaw Indians,True,"P.O. Box 6010 101 Industrial Road, Choctaw MS 39350",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Golden Moon Hotel and Casino,MS,Class II & III
+396,Morongo Travel Center @ Morongo Trail Work Phone: 951-849-2895,False,"12700 Pumarra Road, Banning CA 92220",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,CA,Class II & III
+397, Casino Morongo,False,Work Fax: 951-849-2895,Email Address: Craig_Pleve@morongo.com,,,Other
+398, Work Phone: 951-849-3080,False,"12700 Pumarra Road, Banning CA 92220",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,CA,Class II & III
+399, Morongo Casino Resort & Spa,False,Work Fax: 951-849-3181,Email Address: Craig_Pleve@morongo.com,,,Other
+400, Work Phone: 800-252-4499,False,"12700 Pumarra Road, Banning CA 92220",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,CA,Class II & III
+401, Morongo Travel Center @ Seminole Dr.,False,Work Fax: 951-849-3181,Email Address: Craig_Pleve@morongo.com,,,Other
+402, Work Phone: 951-849-2895,False,"12700 Pumarra Road, Banning CA 92220",Game Class Type:  Class II  See 25 CFR 502.3 & 4,,CA,Class II
+403, Morongo Canyon Lanes,False,Work Fax: 951-849-5345,Email Address: Craig_Pleve@morongo.com,,,Other
+404, Work Phone: 909-849-3080,False,"12700 Pumarra Road, Banning CA 92220",Game Class Type:  Class II  See 25 CFR 502.3 & 4,,CA,Class II
+405, Creek Nation Casino - Checotah,False,Work Fax: 909-849-3181,Email Address: Craig_Pleve@morongo.com,,,Other
+406, Work Phone: 918-473-5899,False,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,OK,Class II & III
+407, Creek Nation Casino - Checotah,False,Work Fax: 918-473-5899,Email Address: lachrista.lollis@creeknationcasino.com,,,Other
+408, Work Phone: 918-473-5899,False,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,OK,Class II & III
+409, Creek Nation Casino - Checotah,False,Work Fax: 918-473-5899,Email Address: lachrista.lollis@creeknationcasino.com,,,Other
+410, Work Phone: 918-473-4628,False,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,OK,Class II & III
+411, Creek Nation Casino - Checotah,False,Work Fax: 918-473-5899,Email Address: lachrista.lollis@creeknationcasino.com,,,Other
+412, Work Phone: 918-473-4628,False,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,OK,Class II & III
+413, Suite Shots,False,Work Fax: 918-473-5899,Email Address: lachrista.lollis@creeknationcasino.com,,,Other
+414, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,OK,Class II & III
+415, Suite Shots,False,Work Fax: 918-995-8212,Email Address: jerry.floyd@creeknationcasino.com,,,Other
+416, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,OK,Class II & III
+417, Suite Shots,False,Work Fax:,Email Address: jerry.floyd@creeknationcasino.com,,,Other
+418, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,OK,Class II & III
+419, Suite Shots,False,Work Fax: 918-995-8212,Email Address: jerry.floyd@creeknationcasino.com,,,Other
+420, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,OK,Class II & III
+421, Suite Shots,False,Work Fax: 918-995-8212,Email Address: jerry.floyd@creeknationcasino.com,,,Other
+422, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,OK,Class II & III
+423, Suite Shots,False,Work Fax:,Email Address: jerry.floyd@creeknationcasino.com,,,Other
+424, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,OK,Class II & III
+425, Suite Shots,False,Work Fax: 918-995-8212,Email Address: jerry.floyd@creeknationcasino.com,,,Other
+426, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,OK,Class II & III
+427, Suite Shots,False,Work Fax: 918-995-8212,Email Address: jerry.floyd@creeknationcasino.com,,,Other
+428, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,OK,Class II & III
+429, Suite Shots,False,Work Fax:,Email Address: jerry.floyd@creeknationcasino.com,,,Other
+430, Work Phone: 918-995-8212,False,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,OK,Class II & III
+431, Creek Nation Travel Plaza - Muskogee,False,Work Fax: 918-995-8212,Email Address: jerry.floyd@creeknationcasino.com,,,Other
+432, Work Phone: 918-683-1825,False,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,OK,Class II & III
+433, Creek Nation Travel Plaza - Okmulgee,False,Work Fax: 918-709-7509,Email Address: farrell.kaaihue@creeknationcasino.com,,,Other
+434, Work Phone: 918-756-8400,False,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,OK,Class II & III
+435, Creek Nation Casino - Holdenville,False,Work Fax:,Email Address: roger.birdcreek@creeknationcasino.com,,,Other
+436, Work Phone: 405-379-3321,False,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,,OK,Class II & III
+437, Work Phone: 405-379-3321,True,,Email Address: joel.chaffin@creeknationcasino.com,Work Fax: 405-379-3504,,Other
+438, Work Phone: 405-379-3321,True,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Creek Nation Casino - Muskogee,OK,Class II & III
+439, Work Phone: 405-379-3321,True,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Creek Nation Casino - Okemah,OK,Class II & III
+440, Work Phone: 405-379-3321,True,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,One Fire Casino,OK,Class II & III
+441, Work Phone: 405-379-3321,True,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,River Spirit Casino,OK,Class II & III
+442, Work Phone: 405-379-3321,True,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Creek Nation Casino -  Bristow,OK,Class II & III
+443, Work Phone: 405-379-3321,True,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Creek Nation Casino - Duck Creek,OK,Class II & III
+444, Work Phone: 405-379-3321,True,"P.O. Box 580, Okmulgee OK 74447",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Creek Nation Casino - Eufaula,OK,Class II & III
+445,Navajo Nation,False,"P.O. Box 9000, Window Rock AZ 86515",Class Type: Class II & III   See 25 CFR 502.3 & 4,,AZ,Class II & III
+446,Navajo Nation,True,"P.O. Box 9000, Window Rock AZ 86515",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Navajo Blue Travel Plaza- Twin Arrows Navajo Casino Resort,AZ,Class III
+447,Navajo Nation,True,"P.O. Box 9000, Window Rock AZ 86515",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Northern Edge Navajo Casino,AZ,Class II & III
+448,Navajo Nation,True,"P.O. Box 9000, Window Rock AZ 86515",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Twin Arrows Navajo Casino Resort,AZ,Class II & III
+449,Navajo Nation,True,"P.O. Box 9000, Window Rock AZ 86515",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Flowing Waters Navajo Casino,AZ,Class II
+450,Navajo Nation,True,"P.O. Box 9000, Window Rock AZ 86515",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Fire Rock Navajo Casino,AZ,Class II & III
+451,Nez Perce Tribe,False,"PO Box 305 100 Agency Rd, Lapwai ID 83540",Class Type: Class II & III   See 25 CFR 502.3 & 4,,PO,Class II & III
+452,Nez Perce Tribe,True,"PO Box 305 100 Agency Rd, Lapwai ID 83540",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Nez Perce Express Convenience Store,PO,Class III
+453,Nez Perce Tribe,True,"PO Box 305 100 Agency Rd, Lapwai ID 83540",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Nez Perce Express Convenience Store,PO,Class III
+454,Nez Perce Tribe,True,"PO Box 305 100 Agency Rd, Lapwai ID 83540",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Clearwater River Casino & Lodge,PO,Class II & III
+455,Nez Perce Tribe,True,"PO Box 305 100 Agency Rd, Lapwai ID 83540",Game Class Type:  Class III  See 25 CFR 502.3 & 4,It'Se Ye-Ye Casino,PO,Class III
+456,Nisqually Indian Tribe,False,"4820 She-Nah-Num Dr SE, Olympia WA 98513",Class Type: Class II & III   See 25 CFR 502.3 & 4,,SE,Class II & III
+457,Nisqually Indian Tribe,True,"4820 She-Nah-Num Dr SE, Olympia WA 98513",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Red Wind Casino,SE,Class III
+458,Nooksack Indian Tribe of Washington,False,"PO Box 157 5016 Deming Rd, Deming WA 98244",Class Type: Class III   See 25 CFR 502.3 & 4,,PO,Class III
+459,Nooksack Indian Tribe of Washington,True,"PO Box 157 5016 Deming Rd, Deming WA 98244",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Northwood Casino,PO,Class II
+460,Northern Arapaho Tribe of the Wind River Indian Reservation,False,"P.O. Box 396, Fort Washakie WY 82514",Class Type: Class II & III   See 25 CFR 502.3 & 4 nan,,WY,Class II & III
+461,Northern Arapaho Tribe of the Wind River Indian Reservation,True,"P.O. Box 396, Fort Washakie WY 82514",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Wind River Casino,WY,Class II & III
+462,Northern Arapaho Tribe of the Wind River Indian Reservation,True,"P.O. Box 396, Fort Washakie WY 82514",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Little Wind Casino,WY,Class III
+463,Northern Cheyenne Tribe of the Northern Cheyenne Indian Reservation,False,"P.O. Box 128, Lame Deer MT 59043",Class Type: Class II & III   See 25 CFR 502.3 & 4 nan,,MT,Class II & III
+464,Northern Cheyenne Tribe of the Northern Cheyenne Indian Reservation,True,"P.O. Box 128, Lame Deer MT 59043",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Charging Horse Casino & Bingo,MT,Class II & III
+465,"Nottawaseppi Huron Band of Potawatomi, Michigan",False,"1485 Mno-Madzawen Way, Fulton MI 49052",Class Type: Class II & III   See 25 CFR 502.3 & 4,,MI,Class II & III
+466,"Nottawaseppi Huron Band of Potawatomi, Michigan",True,"1485 Mno-Madzawen Way, Fulton MI 49052",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Firekeepers,MI,Class II & III
+467,"Ohkay Owingeh, New Mexico",False,"P.O. Box 1099, San Juan NM 87566",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NM,Class II & III
+468,"Ohkay Owingeh, New Mexico",True,"P.O. Box 1099, San Juan NM 87566",Game Class Type:  Class III  See 25 CFR 502.3 & 4,OHKAY Casino,NM,Class III
+469,Omaha Tribe of Nebraska,False,"P.O. Box 368, Macy NE 68039",Class Type: Class III   See 25 CFR 502.3 & 4,,NE,Class III
+470,Omaha Tribe of Nebraska,True,"P.O. Box 368, Macy NE 68039",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Blackbird Bend Casino,NE,Class III
+471,Omaha Tribe of Nebraska,True,"P.O. Box 368, Macy NE 68039",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Lucky 77 Casino,NE,Class II
+472,Oneida Indian Nation,False,"2037 Dream Catcher Plaza, Oneida NY 13421",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NY,Class II & III
+473,Oneida Indian Nation,True,"2037 Dream Catcher Plaza, Oneida NY 13421",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Play On #39 Slot Parlor at Verona Crossroads,NY,Class II
+474,Oneida Indian Nation,True,"2037 Dream Catcher Plaza, Oneida NY 13421",Game Class Type:  Class II  See 25 CFR 502.3 & 4,SavOn Gas & Cigarettes #015,NY,Class II
+475,Oneida Indian Nation,True,"2037 Dream Catcher Plaza, Oneida NY 13421",Game Class Type:  Class II  See 25 CFR 502.3 & 4,SavOn Gas and Cigarettes #032,NY,Class II
+476,Oneida Indian Nation,True,"2037 Dream Catcher Plaza, Oneida NY 13421",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Point Place Casino,NY,Class III
+477,Oneida Indian Nation,True,"2037 Dream Catcher Plaza, Oneida NY 13421",Game Class Type:  Class II  See 25 CFR 502.3 & 4,The Lake House at Sylvan Beach,NY,Class II
+478,Oneida Indian Nation,True,"2037 Dream Catcher Plaza, Oneida NY 13421",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Yellow Brick Road Casino,NY,Class III
+479,Oneida Indian Nation,True,"2037 Dream Catcher Plaza, Oneida NY 13421",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Oneida Lake Savon #34,NY,Class II
+480,Oneida Indian Nation,True,"2037 Dream Catcher Plaza, Oneida NY 13421",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Turning Stone Casino,NY,Class II & III
+481,Oneida Nation,False,"P.O. Box 365 N7210 Seminary Rd, Oneida WI 54155",Class Type: Class II & III   See 25 CFR 502.3 & 4,,WI,Class II & III
+482,Oneida Nation,True,"P.O. Box 365 N7210 Seminary Rd, Oneida WI 54155",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Oneida Travel Center,WI,Class III
+483,Oneida Nation,True,"P.O. Box 365 N7210 Seminary Rd, Oneida WI 54155",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Oneida Packerland One Stop,WI,Class III
+484,Oneida Nation,True,"P.O. Box 365 N7210 Seminary Rd, Oneida WI 54155",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Oneida Bingo & Casino,WI,Class II & III
+485,Oneida Nation,True,"P.O. Box 365 N7210 Seminary Rd, Oneida WI 54155",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Mason Street Casino,WI,Class II & III
+486,Oneida Nation,True,"P.O. Box 365 N7210 Seminary Rd, Oneida WI 54155",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Imac Bingo Facility,WI,Class II & III
+487,"Otoe-Missouria Tribe of Indians, Oklahoma",False,"8151 Highway 177, Red Rock OK 74651",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+488,"Otoe-Missouria Tribe of Indians, Oklahoma",True,"8151 Highway 177, Red Rock OK 74651",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,7 Clans Paradise Casino,OK,Class II & III
+489,"Otoe-Missouria Tribe of Indians, Oklahoma",True,"8151 Highway 177, Red Rock OK 74651",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,7 Clans Casino Perry,OK,Class II & III
+490,"Otoe-Missouria Tribe of Indians, Oklahoma",True,"8151 Highway 177, Red Rock OK 74651",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,7 Clans Red Rock Gasino,OK,Class II & III
+491,"Otoe-Missouria Tribe of Indians, Oklahoma",True,"8151 Highway 177, Red Rock OK 74651",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,7 Clans Chilocco Gasino,OK,Class II & III
+492,"Otoe-Missouria Tribe of Indians, Oklahoma",True,"8151 Highway 177, Red Rock OK 74651",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,7 Clans First Council Casino,OK,Class II & III
+493,Ottawa Tribe of Oklahoma,False,"13 S. 69A P.O. Box 110, Miami OK 74355",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+494,Ottawa Tribe of Oklahoma,True,"13 S. 69A P.O. Box 110, Miami OK 74355",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,High Winds Casino,OK,Class II & III
+495,Pala Band of Luiseno Mission Indians of the Pala Reservation,False,"35008 Pala Temecula Road PMB 50, Pala CA 92059",Class Type: Class II & III   See 25 CFR 502.3 & 4,,PM,Class II & III
+496,Pala Band of Luiseno Mission Indians of the Pala Reservation,True,"35008 Pala Temecula Road PMB 50, Pala CA 92059 nan",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Pala Casino Resort and Spa,PM,Class II & III
+497,Pascua Yaqui Tribe of Arizona,False,"7474 S. Camino De Oeste, Tucson AZ 85746",Class Type: Class II & III   See 25 CFR 502.3 & 4,,AZ,Class II & III
+498,Pascua Yaqui Tribe of Arizona,True,"7474 S. Camino De Oeste, Tucson AZ 85746",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Del Sol Marketplace,AZ,Class II
+499,Pascua Yaqui Tribe of Arizona,True,"7474 S. Camino De Oeste, Tucson AZ 85746",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Casino Del Sol,AZ,Class II & III
+500,Pascua Yaqui Tribe of Arizona,True,"7474 S. Camino De Oeste, Tucson AZ 85746",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Casino of the Sun,AZ,Class III
+501,Paskenta Band of Nomlaki Indians,False,"2655 Everett Freeman Way PO Box 709, Corning CA 960219336",Class Type: Class II & III   See 25 CFR 502.3 & 4,,PO,Class II & III
+502,Paskenta Band of Nomlaki Indians,True,"2655 Everett Freeman Way PO Box 709, Corning CA 960219336",Game Class Type:  Class II  See 25 CFR 502.3 & 4,South Tower at Rolling Hills,PO,Class II
+503,Paskenta Band of Nomlaki Indians,True,"2655 Everett Freeman Way PO Box 709, Corning CA 960219336",Game Class Type:  Class II  See 25 CFR 502.3 & 4,The Travel Center,PO,Class II
+504,Paskenta Band of Nomlaki Indians,True,"2655 Everett Freeman Way PO Box 709, Corning CA 960219336",Game Class Type:  Class II  See 25 CFR 502.3 & 4,The Equestrian Center,PO,Class II
+505,Paskenta Band of Nomlaki Indians,True,"2655 Everett Freeman Way PO Box 709, Corning CA 960219336",Game Class Type:  Class II  See 25 CFR 502.3 & 4,The Travel Clubhouse,PO,Class II
+506,Paskenta Band of Nomlaki Indians,True,"2655 Everett Freeman Way PO Box 709, Corning CA 960219336",Game Class Type:  Class II  See 25 CFR 502.3 & 4,The Links at Rolling Hills,PO,Class II
+507,Paskenta Band of Nomlaki Indians,True,"2655 Everett Freeman Way PO Box 709, Corning CA 960219336",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Rolling Hills Casino,PO,Class III
+508,Pauma Band of Luiseno Mission Indians of the Pauma - Yuima Reservation,False,"1010 Pauma Reservation Road P.O. Box 369, Pauma Valley CA",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+509,Pauma Band of Luiseno Mission Indians of the Pauma - Yuima Reservation,True,"1010 Pauma Reservation Road P.O. Box 369, Pauma Valley CA 92061",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Casino Pauma,CA,Class II & III
+510,Pawnee Nation of Oklahoma,False,"P.O. Box 470 881 Little Deer Drive, Pawnee OK 74058",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+511,Pawnee Nation of Oklahoma,True,"P.O. Box 470 881 Little Deer Drive, Pawnee OK 74058",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,TeePee Casino,OK,Class II & III
+512,Pawnee Nation of Oklahoma,True,"P.O. Box 470 881 Little Deer Drive, Pawnee OK 74058",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Stonewolf Casino,OK,Class II & III
+513,Pawnee Nation of Oklahoma,True,"P.O. Box 470 881 Little Deer Drive, Pawnee OK 74058 nan",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Pawnee Nation Trading Post & Casino,OK,Class II & III
+514,Pechanga Band of Luiseno Mission Indians of the Pechanga Reservation,False,"P.O. Box 1477 12705 Pechanga Rd., Temecula CA 92593",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+515,Pechanga Band of Luiseno Mission Indians of the Pechanga Reservation,True,"P.O. Box 1477 12705 Pechanga Rd., Temecula CA 92593",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Pechanga Resort and Casino,CA,Class II & III
+516,Pechanga Band of Luiseno Mission Indians of the Pechanga Reservation,True,"P.O. Box 1477 12705 Pechanga Rd., Temecula CA 92593",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Pechanga Resort and Casino,CA,Class II & III
+517,Peoria Tribe of Indians of Oklahoma,False,"P.O. Box 1527, Miami OK 74355",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+518,Peoria Tribe of Indians of Oklahoma,True,"P.O. Box 1527, Miami OK 74355",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Buffalo Run Casino,OK,Class II & III
+519,Picayune Rancheria of Chukchansi Indians,False,"49260 Chapel Hill, Oakhurst CA 93644",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+520,Picayune Rancheria of Chukchansi Indians,True,"49260 Chapel Hill, Oakhurst CA 93644",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Chukchansi Gold Resort and Casino,CA,Class III
+521,Picayune Rancheria of Chukchansi Indians,True,"49260 Chapel Hill, Oakhurst CA 93644",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Chukchansi Gold Resort and Casino,CA,Class III
+522,Pit River Tribe,False,"36970 Park Ave, Burney CA 96013",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+523,Pit River Tribe,True,"36970 Park Ave, Burney CA 96013",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Pit River Casino,CA,Class III
+524,Poarch Band of Creek Indians,False,"5811 Jack Springs Road, Atmore AL 36502",Class Type: Class II   See 25 CFR 502.3 & 4,,AL,Class II
+525,Poarch Band of Creek Indians,True,"5811 Jack Springs Road, Atmore AL 36502",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Wind Creek Casino and Hotel - Montgomery,AL,Class II
+526,Poarch Band of Creek Indians,True,"5811 Jack Springs Road, Atmore AL 36502",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Wind Creek Casino and Hotel - Atmore,AL,Class II
+527,Poarch Band of Creek Indians,True,"5811 Jack Springs Road, Atmore AL 36502",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Wind Creek Casino and Hotel - Wetumpka,AL,Class II
+528,Pokagon Band of Potawatomi Indians of Michigan and Indiana,False,"PO Box 180 58620 Sink Rd., Dowagiac MI 49047",Class Type: Class II & III   See 25 CFR 502.3 & 4 nan,,PO,Class II & III
+529,Pokagon Band of Potawatomi Indians of Michigan and Indiana,True,"PO Box 180 58620 Sink Rd., Dowagiac MI 49047",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Four Winds Casino South Bend,PO,Class II
+530,Pokagon Band of Potawatomi Indians of Michigan and Indiana,True,"PO Box 180 58620 Sink Rd., Dowagiac MI 49047",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Four Winds Casino Dowagiac,PO,Class II & III
+531,Pokagon Band of Potawatomi Indians of Michigan and Indiana,True,"PO Box 180 58620 Sink Rd., Dowagiac MI 49047",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Four Winds Hartford,PO,Class II & III
+532,Pokagon Band of Potawatomi Indians of Michigan and Indiana,True,"PO Box 180 58620 Sink Rd., Dowagiac MI 49047",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Four Winds Casino Resort,PO,Class II & III
+533,Ponca Tribe of Indians of Oklahoma,False,"20 White Eagle Drive, Ponca City OK 74601",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+534,Ponca Tribe of Indians of Oklahoma,True,"20 White Eagle Drive, Ponca City OK 74601",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Fancy Dance Casino,OK,Class II & III
+535,Ponca Tribe of Nebraska,False,"P.O. Box 288, Niobrara NE 68760",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NE,Class II & III
+536,Ponca Tribe of Nebraska,True,"P.O. Box 288, Niobrara NE 68760",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Prairie Flower Casino,NE,Class III
+537,Port Gamble S'Klallam Tribe,False,"31912 Little Boston Rd NE, Kingston WA 98346",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NE,Class II & III
+538,Port Gamble S'Klallam Tribe,True,"31912 Little Boston Rd NE, Kingston WA 98346",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,The Point Casino,NE,Class II & III
+539,Prairie Band Potawatomi Nation,False,"16281 Q Road, Mayetta KS 66509",Class Type: Class II & III   See 25 CFR 502.3 & 4,,KS,Class II & III
+540,Prairie Band Potawatomi Nation,True,"16281 Q Road, Mayetta KS 66509",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Prairie Band One Stop,KS,Class II
+541,Prairie Band Potawatomi Nation,True,"16281 Q Road, Mayetta KS 66509",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Prairie Band Casino and Resort,KS,Class II & III
+542,Prairie Island Indian Community in the State of Minnesota,False,"5636 Sturgeon Lake Road, Welch MN 55089",Class Type: Class II & III   See 25 CFR 502.3 & 4,,MN,Class II & III
+543,Prairie Island Indian Community in the State of Minnesota,True,"5636 Sturgeon Lake Road, Welch MN 55089",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Treasure Island Resort & Casino,MN,Class II & III
+544,"Pueblo of Acoma, New Mexico",False,"P.O. Box 309, Acoma NM 87034",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NM,Class II & III
+545,"Pueblo of Acoma, New Mexico",True,"P.O. Box 309, Acoma NM 87034",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Sky City Travel Center,NM,Class III
+546,"Pueblo of Acoma, New Mexico",True,"P.O. Box 309, Acoma NM 87034",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Sky City Casino,NM,Class II & III
+547,Pueblo of Isleta,False,"P.O. Box 1270, Isleta NM 87022",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NM,Class II & III
+548,Pueblo of Isleta,True,"P.O. Box 1270, Isleta NM 87022",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Isleta Resort & Casino,NM,Class II & III
+549,Pueblo of Laguna,False,"P.O. Box 194, Laguna NM 87026",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NM,Class II & III
+550,Pueblo of Laguna,True,"P.O. Box 194, Laguna NM 87026",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Rt. 66 Casino,NM,Class II & III
+551,Pueblo of Laguna,True,"P.O. Box 194, Laguna NM 87026",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Rt. 66 Casino Express,NM,Class III
+552,Pueblo of Laguna,True,"P.O. Box 194, Laguna NM 87026",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Dancing Eagle Casino,NM,Class II & III
+553,Pueblo of Pojoaque,False,"78 Cities of Gold Road, Santa Fe NM 87506",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NM,Class II & III
+554,Pueblo of Pojoaque,True,"78 Cities of Gold Road, Santa Fe NM 87506",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Buffalo Thunder,NM,Class II & III
+555,Pueblo of Pojoaque,True,"78 Cities of Gold Road, Santa Fe NM 87506",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cities of Gold Casino,NM,Class II & III
+556,Pueblo of San Felipe,False,"P.O. Box 4339, San Felipe NM 87001",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NM,Class II & III
+557,Pueblo of San Felipe,True,"P.O. Box 4339, San Felipe NM 87001",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Travel Center - Slot Stop,NM,Class III
+558,Pueblo of San Felipe,True,"P.O. Box 4339, San Felipe NM 87001",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Black Mesa Casino,NM,Class III
+559,Pueblo of Sandia,False,"481 Sandia Loop, Bernalillo NM 87004",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NM,Class II & III
+560,Pueblo of Sandia,True,"481 Sandia Loop, Bernalillo NM 87004",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Sandia Resort and Casino,NM,Class II & III
+561,Pueblo of Santa Ana,False,"2 Dove Road, Santa Ana Pueblo NM 87004",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NM,Class II & III
+562,Pueblo of Santa Ana,True,"2 Dove Road, Santa Ana Pueblo NM 87004",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Santa Ana Star Casino,NM,Class III
+563,Pueblo of Santa Clara,False,"P.O. Box 580, Espanola NM 87532",Class Type: Class III   See 25 CFR 502.3 & 4,,NM,Class III
+564,Pueblo of Santa Clara,True,"P.O. Box 580, Espanola NM 87532",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Santa Claran Hotel Casino,NM,Class II & III
+565,Pueblo of Taos,False,"P.O. Box 1846, Taos NM 87571",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NM,Class II & III
+566,Pueblo of Taos,True,"P.O. Box 1846, Taos NM 87571",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Taos Mountain Casino,NM,Class III
+567,"Pueblo of Tesuque, New Mexico",False,"Route 42 Box 360-T, Santa Fe NM 87506",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NM,Class II & III
+568,"Pueblo of Tesuque, New Mexico",True,"Route 42 Box 360-T, Santa Fe NM 87506",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Tesuque Casino,NM,Class III
+569,"Puyallup Tribe of Indians, Washington",False,"3009 E Portland Ave, Tacoma WA 98404",Class Type: Class II & III   See 25 CFR 502.3 & 4,,WA,Class II & III
+570,"Puyallup Tribe of Indians, Washington",True,"3009 E Portland Ave, Tacoma WA 98404",Game Class Type:  Class II  See 25 CFR 502.3 & 4,"BJ's Enterprises, Inc.",WA,Class II
+571,"Puyallup Tribe of Indians, Washington",True,"3009 E Portland Ave, Tacoma WA 98404",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Emerald Queen Casino and Hotel in Tacoma,WA,Class II & III
+572,"Puyallup Tribe of Indians, Washington",True,"3009 E Portland Ave, Tacoma WA 98404",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Emerald Queen Casino at Fife,WA,Class III
+573,"Quapaw Tribe of Indians, Oklahoma",False,"69300 East Nee Road, Quapaw OK 74363",Class Type: Class II & III   See 25 CFR 502.3 & 4 nan,,OK,Class II & III
+574,"Quapaw Tribe of Indians, Oklahoma",True,"69300 East Nee Road, Quapaw OK 74363",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Quapaw Casino,OK,Class II & III
+575,"Quapaw Tribe of Indians, Oklahoma",True,"69300 East Nee Road, Quapaw OK 74363",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Downstream Casino,OK,Class II & III
+576,Quechan Indian Tribe/CA,False,"350 Picacho Rd. PO Box 1899 Yuma AZ 85366, Winterhaven",Class Type: Class III   See 25 CFR 502.3 & 4,,PO,Class III
+577,Quechan Indian Tribe/CA,True,,executivesecretary@quechantribe.com,CA 92283,,Other
+578,Quechan Indian Tribe/CA,True,"350 Picacho Rd. PO Box 1899 Yuma AZ 85366, Winterhaven CA 92283",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Quechan Casino Resort,PO,Class II & III
+579,"Quechan Tribe of the Fort Yuma Indian Reservation, CA and AZ",False,"P.O. Box 1899, Yuma AZ 85366",Class Type: Class II & III   See 25 CFR 502.3 & 4 nan,,AZ,Class II & III
+580,"Quechan Tribe of the Fort Yuma Indian Reservation, CA and AZ",True,"P.O. Box 1899, Yuma AZ 85366",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Quechan Casino Resort,AZ,Class II & III
+581,"Quechan Tribe of the Fort Yuma Indian Reservation, CA and AZ",True,"P.O. Box 1899, Yuma AZ 85366",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Quechan Paradise Casino Arizona,AZ,Class II & III
+582,"Quinault Indian Nation, Washington",False,"PO Box 189 1214 Aalis Drive, Taholah WA 98587",Class Type: Class II & III   See 25 CFR 502.3 & 4,,PO,Class II & III
+583,"Quinault Indian Nation, Washington",True,"PO Box 189 1214 Aalis Drive, Taholah WA 98587",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Quinault Beach Resort and Casino,PO,Class II & III
+584,Red Cliff Band of Lake Superior Chippewa Indians of Wisconsin,False,"88455 Pike Rd Hwy 13, Bayfield WI 54814",Class Type: Class II & III   See 25 CFR 502.3 & 4,,WI,Class II & III
+585,Red Cliff Band of Lake Superior Chippewa Indians of Wisconsin,True,"88455 Pike Rd Hwy 13, Bayfield WI 54814",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Legendary Waters Resort and Casino,WI,Class II & III
+586,Red Lake Band of Chippewa Indians,False,"P.O. Box 550, Red Lake MN 56671",Class Type: Class II & III   See 25 CFR 502.3 & 4,,MN,Class II & III
+587,Red Lake Band of Chippewa Indians,True,"P.O. Box 550, Red Lake MN 56671",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Seven Clans Casino - Red Lake,MN,Class II & III
+588,Red Lake Band of Chippewa Indians,True,"P.O. Box 550, Red Lake MN 56671",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Seven Clans Casino - Thief River Falls,MN,Class II & III
+589,Red Lake Band of Chippewa Indians,True,"P.O. Box 550, Red Lake MN 56671",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Seven Clans Casino - Warroad,MN,Class II & III
+590,Redding Rancheria,False,"2000 Redding Rancheria Road, Redding CA 96001",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+591,Redding Rancheria,True,"2000 Redding Rancheria Road, Redding CA 96001",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Win-River Casino,CA,Class II & III
+592,Rincon Band of Luiseno Mission Indians of the Rincon Reservation,False,"One Government Center Lane, Valley Center CA 92082",Class Type: Class II & III   See 25 CFR 502.3 & 4 nan,,CA,Class II & III
+593,Rincon Band of Luiseno Mission Indians of the Rincon Reservation,True,"One Government Center Lane, Valley Center CA 92082",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Harrah's Southern California Resort,CA,Class II & III
+594,Robinson Rancheria,False,"P.O. Box 428, Nice CA 95464",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+595,Robinson Rancheria,True,"P.O. Box 428, Nice CA 95464",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Robinson Rancheria Bingo & Casino,CA,Class II & III
+596,Rosebud Sioux Tribe of the Rosebud Indian Reservation,False,"P.O. Box 430, Rosebud SD 57570",Class Type: Class II & III   See 25 CFR 502.3 & 4,,SD,Class II & III
+597,Rosebud Sioux Tribe of the Rosebud Indian Reservation,True,"P.O. Box 430, Rosebud SD 57570",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Rosebud Casino,SD,Class II & III
+598,"Round Valley Indian Tribes, Round Valley Reservation, California",False,"77826 Covelo Road, Covelo CA 95428",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+599,"Round Valley Indian Tribes, Round Valley Reservation, California",True,"77826 Covelo Road, Covelo CA 95428",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Hidden Oaks Casino,CA,Class II
+600,"Sac & Fox Nation, Oklahoma",False,"920883 South Highway 99 Building A, Stroud OK 74079",Class Type: Class II   See 25 CFR 502.3 & 4 nan,,OK,Class II
+601,"Sac & Fox Nation, Oklahoma",True,"920883 South Highway 99 Building A, Stroud OK 74079",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Black Hawk Casino,OK,Class II & III
+602,"Sac & Fox Nation, Oklahoma",True,"920883 South Highway 99 Building A, Stroud OK 74079",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Sac and Fox Nation Casino - Stroud,OK,Class II & III
+603,Sac & Fox Tribe of the Mississippi in Iowa,False,"349 Meskwaki Road, Tama IA 52339",Class Type: Class II & III   See 25 CFR 502.3 & 4,,IA,Class II & III
+604,Sac & Fox Tribe of the Mississippi in Iowa,True,"349 Meskwaki Road, Tama IA 52339",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,"Meskwaki Bingo, Casino, Hotel",IA,Class II & III
+605,Sac and Fox Nation of Missouri in Kansas & Nebraska,False,"305 N. Main, Reserve KS 66434",Class Type: Class II & III   See 25 CFR 502.3 & 4,,KS,Class II & III
+606,Sac and Fox Nation of Missouri in Kansas & Nebraska,True,"305 N. Main, Reserve KS 66434",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Sac & Fox Casino,KS,Class II & III
+607,Saginaw Chippewa Indian Tribe of Michigan,False,"7070 E. Broadway Rd., Mt. Pleasant MI 48858",Class Type: Class II & III   See 25 CFR 502.3 & 4,,MI,Class II & III
+608,Saginaw Chippewa Indian Tribe of Michigan,True,"7070 E. Broadway Rd., Mt. Pleasant MI 48858",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Soaring Eagle Casino & Resort,MI,Class II & III
+609,Saginaw Chippewa Indian Tribe of Michigan,True,"7070 E. Broadway Rd., Mt. Pleasant MI 48858",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Soaring Eagle-Slot Palace and Bingo Hall,MI,Class II & III
+610,Saginaw Chippewa Indian Tribe of Michigan,True,"7070 E. Broadway Rd., Mt. Pleasant MI 48858",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Saganing Eagle's Landing Casino,MI,Class III
+611,Saint Regis Mohawk Tribe,False,"Akwesasne Community Building 412 State Route 37, Akwesasne",Class Type: Class II & III   See 25 CFR 502.3 & 4,,,Class II & III
+612,Saint Regis Mohawk Tribe,True,nan nan,Michael.Conners@srmt-nsn.gov; ron.lafrance@srmt-,NY 13655,,Other
+613,Saint Regis Mohawk Tribe,True,"Akwesasne Community Building 412 State Route 37, Akwesasne NY 13655",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Akwesasne Mohawk Casino Resort,NY,Class II & III
+614,Salt River Pima-Maricopa Indian Community,False,"10005 East Osborn Road, Scottsdale AZ 85256",Class Type: Class II & III   See 25 CFR 502.3 & 4,,AZ,Class II & III
+615,Salt River Pima-Maricopa Indian Community,True,"10005 East Osborn Road, Scottsdale AZ 85256",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Casino Arizona,AZ,Class II & III
+616,Salt River Pima-Maricopa Indian Community,True,"10005 East Osborn Road, Scottsdale AZ 85256",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Talking Stick Resort,AZ,Class II & III
+617,San Carlos Apache Tribe of the San Carlos Reservation,False,"P.O. Box 0, San Carlos AZ 85550",Class Type: Class II & III   See 25 CFR 502.3 & 4,,AZ,Class II & III
+618,San Carlos Apache Tribe of the San Carlos Reservation,True,"P.O. Box 0, San Carlos AZ 85550",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Apache Gold Casino,AZ,Class II & III
+619,San Carlos Apache Tribe of the San Carlos Reservation,True,"P.O. Box 0, San Carlos AZ 85550",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Apache Sky Casino,AZ,Class III
+620,San Pasqual Band of Diegueno Mission Indians of California,False,"P.O. Box 365 16400 Kumeyaay Way, Valley Center CA 92082",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+621,San Pasqual Band of Diegueno Mission Indians of California,True,"P.O. Box 365 16400 Kumeyaay Way, Valley Center CA 92082",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Valley View Casino,CA,Class III
+622,Santa Rosa Rancheria Tachi Yokut Tribe,False,"P.O. Box 8 16835 Alkali Drive, Lemoore CA 93245",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+623,Santa Rosa Rancheria Tachi Yokut Tribe,True,"P.O. Box 8 16835 Alkali Drive, Lemoore CA 93245",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Yokut Hall,CA,Class II & III
+624,Santa Rosa Rancheria Tachi Yokut Tribe,True,"P.O. Box 8 16835 Alkali Drive, Lemoore CA 93245",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Yokut Gas,CA,Class II
+625,Santa Rosa Rancheria Tachi Yokut Tribe,True,"P.O. Box 8 16835 Alkali Drive, Lemoore CA 93245",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Tachi Palace Hotel and Casino,CA,Class II & III
+626,Santa Ynez Band of Chumash Mission Indians of the Santa Ynez Reservation,False,"P.O. Box 517 100 Via Juana Lane, Santa Ynez CA 93460",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+627,Santa Ynez Band of Chumash Mission Indians of the Santa Ynez Reservation,True,"P.O. Box 517 100 Via Juana Lane, Santa Ynez CA 93460",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Chumash Casino and Resort Enterprises,CA,Class II & III
+628,Santee Sioux Nation,False,"108 Spirit Lake Avenue West, Niobrara NE 68760",Class Type: Class II   See 25 CFR 502.3 & 4,,NE,Class II
+629,Santee Sioux Nation,True,"108 Spirit Lake Avenue West, Niobrara NE 68760",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Ohiya Casino and Resort,NE,Class II
+630,Sault Ste. Marie Tribe of Chippewa Indians of Michigan,False,"523 Ashmun Street, Sault Ste. Marie MI 49783",Class Type: Class II & III   See 25 CFR 502.3 & 4,,MI,Class II & III
+631,Sault Ste. Marie Tribe of Chippewa Indians of Michigan,True,"523 Ashmun Street, Sault Ste. Marie MI 49783",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,"Kewadin Casino, Manistique",MI,Class II & III
+632,Sault Ste. Marie Tribe of Chippewa Indians of Michigan,True,"523 Ashmun Street, Sault Ste. Marie MI 49783",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,"Kewadin Casino, St. Ignace",MI,Class II & III
+633,Sault Ste. Marie Tribe of Chippewa Indians of Michigan,True,"523 Ashmun Street, Sault Ste. Marie MI 49783",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Kewadin Casino Christmas,MI,Class III
+634,Sault Ste. Marie Tribe of Chippewa Indians of Michigan,True,"523 Ashmun Street, Sault Ste. Marie MI 49783",Game Class Type:  Class III  See 25 CFR 502.3 & 4,"Kewadin Casino, Hessel",MI,Class III
+635,Sault Ste. Marie Tribe of Chippewa Indians of Michigan,True,"523 Ashmun Street, Sault Ste. Marie MI 49783",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,"Kewadin Casino, Hotel & Convention Center",MI,Class II & III
+636,Seminole Nation of Oklahoma,False,"P.O. Box 1498, Wewoka OK 74884",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+637,Seminole Nation of Oklahoma,True,"P.O. Box 1498, Wewoka OK 74884",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Seminole Nation Rivermist Casino,OK,Class II & III
+638,Seminole Nation of Oklahoma,True,"P.O. Box 1498, Wewoka OK 74884",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Wewoka Trading Post,OK,Class II & III
+639,Seminole Nation of Oklahoma,True,"P.O. Box 1498, Wewoka OK 74884",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Seminole Nation Casino,OK,Class II & III
+640,Seminole Tribe of Florida,False,"6300 Stirling Road, Hollywood FL 33024",Class Type: Class II & III   See 25 CFR 502.3 & 4,,FL,Class II & III
+641,Seminole Tribe of Florida,True,"6300 Stirling Road, Hollywood FL 33024",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Seminole Brighton Bay Hotel & Casino,FL,Class II & III
+642,Seminole Tribe of Florida,True,"6300 Stirling Road, Hollywood FL 33024",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Seminole Indian Casino - Coconut Creek,FL,Class II & III
+643,Seminole Tribe of Florida,True,"6300 Stirling Road, Hollywood FL 33024",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Seminole Indian Casino - Hollywood,FL,Class II & III
+644,Seminole Tribe of Florida,True,"6300 Stirling Road, Hollywood FL 33024",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Seminole Indian Casino - Immokalee,FL,Class II & III
+645,Seminole Tribe of Florida,True,"6300 Stirling Road, Hollywood FL 33024",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Seminole Hard Rock Hotel & Casino - Hollywood,FL,Class II & III
+646,Seminole Tribe of Florida,True,"6300 Stirling Road, Hollywood FL 33024",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Seminole Hard Rock Hotel & Casino - Tampa,FL,Class II & III
+647,Seneca Nation of Indians,False,"12837 Route 438, Irving NY 14081",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NY,Class II & III
+648,Seneca Nation of Indians,True,"12837 Route 438, Irving NY 14081",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Seneca Gaming and Entertainment - Oil Springs,NY,Class II
+649,Seneca Nation of Indians,True,"12837 Route 438, Irving NY 14081",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Seneca Gaming and Entertainment - Irving,NY,Class II
+650,Seneca Nation of Indians,True,"12837 Route 438, Irving NY 14081",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Seneca Niagara Casino,NY,Class II & III
+651,Seneca Nation of Indians,True,"12837 Route 438, Irving NY 14081",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Seneca Allegany Casino,NY,Class III
+652,Seneca Nation of Indians,True,"12837 Route 438, Irving NY 14081",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Seneca Buffalo Creek Casino,NY,Class III
+653,Seneca Nation of Indians,True,"12837 Route 438, Irving NY 14081",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Seneca Gaming and Entertainment - Salamanca,NY,Class II
+654,Seneca-Cayuga Nation,False,"23701 S. 655 Rd., Grove OK 74344",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+655,Seneca-Cayuga Nation,True,"23701 S. 655 Rd., Grove OK 74344",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Grand Lake Casino,OK,Class II & III
+656,Shakopee Mdewakanton Sioux Community of Minnesota,False,"2330 Sioux Trail NW, Prior Lake MN 55372",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NW,Class II & III
+657,Shakopee Mdewakanton Sioux Community of Minnesota,True,"2330 Sioux Trail NW, Prior Lake MN 55372",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Mystic Lake Casino,NW,Class II & III
+658,Shakopee Mdewakanton Sioux Community of Minnesota,True,"2330 Sioux Trail NW, Prior Lake MN 55372",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Little Six Casino,NW,Class II & III
+659,"Shawnee Tribe, Oklahoma",False,"P.O. Box 189, Miami OK 74355",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+660,"Shawnee Tribe, Oklahoma",True,"P.O. Box 189, Miami OK 74355",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Golden Mesa Casino,OK,Class II & III
+661,Sherwood Valley Rancheria,False,"190 Sherwood Hill Dr., Willits CA 95490",Class Type: Class II & III   See 25 CFR 502.3 & 4 nan,,CA,Class II & III
+662,Sherwood Valley Rancheria,True,"190 Sherwood Hill Dr., Willits CA 95490",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Sherwood Valley Rancheria Casino,CA,Class III
+663,Shingle Springs Band of Miwok Indians,False,"P.O. Box 1340 5281 Honpie Rd, Shingle Springs CA 95682",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+664,Shingle Springs Band of Miwok Indians,True,"P.O. Box 1340 5281 Honpie Rd, Shingle Springs CA 95682",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Red Hawk Casino,CA,Class II & III
+665,"Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington",False,"PO Box 130 2373 Tokeland Rd, Tokeland WA 98590",Class Type: Class II & III   See 25 CFR 502.3 & 4,,PO,Class II & III
+666,"Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington",True,"PO Box 130 2373 Tokeland Rd, Tokeland WA 98590",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Shoalwater Bay Casino,PO,Class II
+667,Shoshone Tribe of the Wind River Indian Reservation,False,"P.O. Box 538, Fort Washakie WY 82514",Class Type: Class II & III   See 25 CFR 502.3 & 4,,WY,Class II & III
+668,Shoshone Tribe of the Wind River Indian Reservation,True,"P.O. Box 538, Fort Washakie WY 82514",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Shoshone Rose Casino,WY,Class III
+669,"Shoshone-Bannock Tribes, Idaho",False,"PO Box 306 Agency Bldg 82, 1 Pima Drive, Fort Hall ID 83203",Class Type: Class II & III   See 25 CFR 502.3 & 4,,PO,Class II & III
+670,"Shoshone-Bannock Tribes, Idaho",True,"PO Box 306 Agency Bldg 82, 1 Pima Drive, Fort Hall ID 83203",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Bannock Peak Casino,PO,Class III
+671,"Shoshone-Bannock Tribes, Idaho",True,"PO Box 306 Agency Bldg 82, 1 Pima Drive, Fort Hall ID 83203",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Shoshone-Bannock Casino,PO,Class II & III
+672,"Shoshone-Bannock Tribes, Idaho",True,"PO Box 306 Agency Bldg 82, 1 Pima Drive, Fort Hall ID 83203",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Sage Hill Travel Center & Casino,PO,Class III
+673,Sisseton-Wahpeton Oyate of the Lake Traverse Reservation,False,"Box 509, Agency Village SD 57262",Class Type: Class II & III   See 25 CFR 502.3 & 4,,SD,Class II & III
+674,Sisseton-Wahpeton Oyate of the Lake Traverse Reservation,True,"Box 509, Agency Village SD 57262",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Dakota Connection Casino,SD,Class II & III
+675,Sisseton-Wahpeton Oyate of the Lake Traverse Reservation,True,"Box 509, Agency Village SD 57262",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Dakota Magic Casino,SD,Class II & III
+676,Sisseton-Wahpeton Oyate of the Lake Traverse Reservation,True,"Box 509, Agency Village SD 57262",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Dakota Sioux Casino,SD,Class II & III
+677,Skokomish Indian Tribe,False,"80 N Tribal Center Rd, Skokomish Nation WA 98584",Class Type: Class II & III   See 25 CFR 502.3 & 4,,WA,Class II & III
+678,Skokomish Indian Tribe,True,"80 N Tribal Center Rd, Skokomish Nation WA 98584",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Lucky Dog Casino,WA,Class III
+679,Snoqualmie Indian Tribe,False,"8130 Railroad Ave., Ste. 103, Snoqualmie WA 98065",Class Type: Class II & III   See 25 CFR 502.3 & 4,,WA,Class II & III
+680,Snoqualmie Indian Tribe,True,"8130 Railroad Ave., Ste. 103, Snoqualmie WA 98065",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Snoqualmie Casino,WA,Class II & III
+681,Soboba Band of Luiseno Indians,False,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Class Type: Class II & III   See 25 CFR 502.3 & 4 nan,,CA,Class II & III
+682,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Soboba Casino,CA,Class III
+683,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Soboba Casino,CA,Class III
+684,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Soboba Casino,CA,Class III
+685,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Soboba Casino,CA,Class III
+686,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Soboba Casino,CA,Class III
+687,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Soboba Casino,CA,Class III
+688,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Soboba Casino,CA,Class III
+689,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Soboba Casino,CA,Class III
+690,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Soboba Casino,CA,Class III
+691,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Soboba Casino,CA,Class III
+692,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Soboba Casino,CA,Class III
+693,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Soboba Casino,CA,Class III
+694,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Soboba Casino,CA,Class III
+695,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Soboba Casino,CA,Class III
+696,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Soboba Casino,CA,Class III
+697,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Soboba Casino,CA,Class III
+698,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,RoadRunner Express,CA,Class II & III
+699,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,RoadRunner Express,CA,Class II & III
+700,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,RoadRunner Express,CA,Class II & III
+701,Soboba Band of Luiseno Indians,True,"P.O. Box 487 23906 Soboba Road, San Jacinto CA 92583",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,RoadRunner Express,CA,Class II & III
+702,Sokaogon Chippewa Community,False,"3051 Sand Lake Rd., Crandon WI 54520",Class Type: Class II & III   See 25 CFR 502.3 & 4,,WI,Class II & III
+703,Sokaogon Chippewa Community,True,"3051 Sand Lake Rd., Crandon WI 54520",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Mole Lake Casino and Bingo,WI,Class II & III
+704,Southern Ute Indian Tribe,False,"P.O. Box 737 116 Capote Dr., Ignacio CO 81137",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CO,Class II & III
+705,Southern Ute Indian Tribe,True,"P.O. Box 737 116 Capote Dr., Ignacio CO 81137",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Sky Ute Casino Resort,CO,Class II & III
+706,"Spirit Lake Tribe, North Dakota",False,"P.O. Box 359 816 3rd Avenue, Fort Totten ND 58335",Class Type: Class II & III   See 25 CFR 502.3 & 4,,ND,Class II & III
+707,"Spirit Lake Tribe, North Dakota",True,"P.O. Box 359 816 3rd Avenue, Fort Totten ND 58335",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Spirit Lake Casino & Resort,ND,Class II & III
+708,"Spokane Tribe of the Spokane Reservation, Washington",False,"PO Box 100 6195 Ford/Wellpinit Rd., Wellpinit WA 99040",Class Type: Class II & III   See 25 CFR 502.3 & 4,,PO,Class II & III
+709,"Spokane Tribe of the Spokane Reservation, Washington",True,"PO Box 100 6195 Ford/Wellpinit Rd., Wellpinit WA 99040",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Mistequa Casino,PO,Class III
+710,"Spokane Tribe of the Spokane Reservation, Washington",True,"PO Box 100 6195 Ford/Wellpinit Rd., Wellpinit WA 99040",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Spokane Tribe Casino,PO,Class III
+711,"Squaxin Island Tribe, Washington",False,"10 SE Squaxin Lane, Shelton WA 98584",Class Type: Class II & III   See 25 CFR 502.3 & 4,,SE,Class II & III
+712,"Squaxin Island Tribe, Washington",True,"10 SE Squaxin Lane, Shelton WA 98584",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Little Creek Casino Resort,SE,Class II & III
+713,St. Croix Chippewa Indians of Wisconsin,False,"P.O. Box 45287 24663 Angeline Ave., Webster WI 54893",Class Type: Class II & III   See 25 CFR 502.3 & 4,,WI,Class II & III
+714,St. Croix Chippewa Indians of Wisconsin,True,"P.O. Box 45287 24663 Angeline Ave., Webster WI 54893",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Danbury Community Center,WI,Class II
+715,St. Croix Chippewa Indians of Wisconsin,True,"P.O. Box 45287 24663 Angeline Ave., Webster WI 54893",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,St. Croix Casino Turtle Lake,WI,Class II & III
+716,St. Croix Chippewa Indians of Wisconsin,True,"P.O. Box 45287 24663 Angeline Ave., Webster WI 54893",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Sand Lake Community Center,WI,Class II
+717,St. Croix Chippewa Indians of Wisconsin,True,"P.O. Box 45287 24663 Angeline Ave., Webster WI 54893",Game Class Type:  Class III  See 25 CFR 502.3 & 4,St. Croix Casino Hertle Express,WI,Class III
+718,St. Croix Chippewa Indians of Wisconsin,True,"P.O. Box 45287 24663 Angeline Ave., Webster WI 54893",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,St. Croix Casino Danbury,WI,Class II & III
+719,Standing Rock Sioux Tribe of North and South Dakota,False,"P.O. Box D, Fort Yates ND 58538",Class Type: Class II & III   See 25 CFR 502.3 & 4,,ND,Class II & III
+720,Standing Rock Sioux Tribe of North and South Dakota,True,"P.O. Box D, Fort Yates ND 58538",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Prairie Knights Casino and Resort,ND,Class III
+721,Standing Rock Sioux Tribe of North and South Dakota,True,"P.O. Box D, Fort Yates ND 58538",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Grand River Casino & Resort,ND,Class II & III
+722,Stillaguamish Tribe of Indians of Washington,False,"PO Box 277 3322 236th St NE, Arlington WA 98223",Class Type: Class II & III   See 25 CFR 502.3 & 4,,PO,Class II & III
+723,Stillaguamish Tribe of Indians of Washington,True,"PO Box 277 3322 236th St NE, Arlington WA 98223",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Angel of the Winds Casino,PO,Class III
+724,Stockbridge-Munsee Community,False,"N8476 Moh He Con Nuck Rd., Bowler WI 54416",Class Type: Class II & III   See 25 CFR 502.3 & 4,,WI,Class II & III
+725,Stockbridge-Munsee Community,True,"N8476 Moh He Con Nuck Rd., Bowler WI 54416 nan",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,North Star Mohican Casino Resort,WI,Class II & III
+726,"Suquamish Indian Tribe of the Port Madison Reservation, Washington",False,"PO Box 498 18490 Suquamish Way NE, Suquamish WA 98392",Class Type: Class II & III   See 25 CFR 502.3 & 4,,PO,Class II & III
+727,"Suquamish Indian Tribe of the Port Madison Reservation, Washington",True,"PO Box 498 18490 Suquamish Way NE, Suquamish WA 98392",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Clearwater Casino & Resort,PO,Class II & III
+728,Susanville Indian Rancheria,False,"745 Joaquin Street, Susanville CA 96130",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+729,Susanville Indian Rancheria,True,"745 Joaquin Street, Susanville CA 96130",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Diamond Mountain Casino,CA,Class III
+730,Swinomish Indian Tribal Community,False,"11404 Moorage Way, LaConner WA 98257",Class Type: Class II & III   See 25 CFR 502.3 & 4,,WA,Class II & III
+731,Swinomish Indian Tribal Community,True,"11404 Moorage Way, LaConner WA 98257",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Swinomish Casino & Lodge,WA,Class III
+732,Sycuan Band of the Kumeyaay Nation,False,"5459 Sycuan Road, El Cajon CA 92019",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+733,Sycuan Band of the Kumeyaay Nation,True,"5459 Sycuan Road, El Cajon CA 92019",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Sycuan Resort & Casino,CA,Class II & III
+734,Table Mountain Rancheria,False,"P.O. Box 410 23736 Sky Harbour Rd, Friant CA 93626",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+735,Table Mountain Rancheria,True,"P.O. Box 410 23736 Sky Harbour Rd, Friant CA 93626",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Table Mountain Casino Resort,CA,Class II & III
+736,The Osage Nation,False,"627 Grandview Avenue, Pawhuska OK 74056",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+737,The Osage Nation,True,"627 Grandview Avenue, Pawhuska OK 74056",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Osage Casino Ponca City,OK,Class II & III
+738,The Osage Nation,True,"627 Grandview Avenue, Pawhuska OK 74056",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Osage Casino Sand Springs,OK,Class II & III
+739,The Osage Nation,True,"627 Grandview Avenue, Pawhuska OK 74056",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Osage Casino Skiatook,OK,Class II & III
+740,The Osage Nation,True,"627 Grandview Avenue, Pawhuska OK 74056",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Osage Casino Tulsa,OK,Class II & III
+741,The Osage Nation,True,"627 Grandview Avenue, Pawhuska OK 74056",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Osage Casino Bartlesville,OK,Class II & III
+742,The Osage Nation,True,"627 Grandview Avenue, Pawhuska OK 74056",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Osage Casino Hominy,OK,Class II & III
+743,The Osage Nation,True,"627 Grandview Avenue, Pawhuska OK 74056",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Osage Casino Pawhuska,OK,Class II & III
+744,"Thlopthlocco Tribal Town, Oklahoma",False,"P.O. Box 188, Okemah OK 74859",Class Type: Class II   See 25 CFR 502.3 & 4,,OK,Class II
+745,"Thlopthlocco Tribal Town, Oklahoma",True,"P.O. Box 188, Okemah OK 74859",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Golden Pony Casino,OK,Class II & III
+746,Three Affiliated Tribes of the Fort Berthold Reservation,False,"404 Frontage Rd., New Town ND 58763",Class Type: Class II & III   See 25 CFR 502.3 & 4,,ND,Class II & III
+747,Three Affiliated Tribes of the Fort Berthold Reservation,True,"404 Frontage Rd., New Town ND 58763 nan",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,4 Bears Casino and Lodge,ND,Class II & III
+748,Three Affiliated Tribes of the Fort Berthold Reservation,True,"404 Frontage Rd., New Town ND 58763",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,American Legion Post 290,ND,Class II & III
+749,Three Affiliated Tribes of the Fort Berthold Reservation,True,"404 Frontage Rd., New Town ND 58763",Game Class Type:  Class III  See 25 CFR 502.3 & 4,The River Willow,ND,Class III
+750,Three Affiliated Tribes of the Fort Berthold Reservation,True,"404 Frontage Rd., New Town ND 58763",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Sportman's Bar,ND,Class II & III
+751,Tohono O'odham Nation of Arizona,False,"P.O. Box 837, Sells AZ 85634",Class Type: Class II & III   See 25 CFR 502.3 & 4,,AZ,Class II & III
+752,Tohono O'odham Nation of Arizona,True,"P.O. Box 837, Sells AZ 85634",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Desert Diamond Casino - White Tanks,AZ,Class III
+753,Tohono O'odham Nation of Arizona,True,"P.O. Box 837, Sells AZ 85634",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,"Desert Diamond Casino West Valley, Si'al Ke:k",AZ,Class II & III
+754,Tohono O'odham Nation of Arizona,True,"P.O. Box 837, Sells AZ 85634",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Desert Diamond Why,AZ,Class III
+755,Tohono O'odham Nation of Arizona,True,"P.O. Box 837, Sells AZ 85634",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Desert Diamond Tucson,AZ,Class II & III
+756,Tohono O'odham Nation of Arizona,True,,"P.O. Box 837, Sells AZ 85634
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Desert Diamond Sahuarita,AZ,Class II & III
+757,Tolowa Dee-ni' Nation,False,"12801 Mouth of Smith River Road, Smith River CA 95567","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: jeri.thompson@tolowa.com",,CA,Class II & III
+758,Tolowa Dee-ni' Nation,True,,"12801 Mouth of Smith River Road, Smith River CA 
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4 95567",Lucky 7 Casino,CA,Class II & III
+759,Tolowa Dee-ni' Nation,True,,"12801 Mouth of Smith River Road, Smith River CA 
+Game Class Type:  Class III  See 25 CFR 502.3 & 4 95567",Lucky 7 Fuel Mart,CA,Class III
+760,Tonkawa Tribe of Indians of Oklahoma,False,"1 Rush Buffalo Rd., Tonkawa OK 74653","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: rmartin@tonkawatribe.com",,OK,Class II & III
+761,Tonkawa Tribe of Indians of Oklahoma,True,,"1 Rush Buffalo Rd., Tonkawa OK 74653
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Tonkawa Gasino,OK,Class II & III
+762,Tonkawa Tribe of Indians of Oklahoma,True,,"1 Rush Buffalo Rd., Tonkawa OK 74653
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Tonkawa Indian Casino West,OK,Class II & III
+763,Tonkawa Tribe of Indians of Oklahoma,True,,"1 Rush Buffalo Rd., Tonkawa OK 74653
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Native Lights Casino,OK,Class II & III
+764,Tonto Apache Tribe of Arizona,False,"Tonto Apache Reservation #30, Payson AZ 85541","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: cjohnson@tontoapache.org",,AZ,Class II & III
+765,Tonto Apache Tribe of Arizona,True,,"Tonto Apache Reservation #30, Payson AZ 85541
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Mazatzal Hotel & Casino,AZ,Class II & III
+766,"Torres Martinez Desert Cahuilla Indians, California",False,"66725 Martinez Road, Thermal CA 92274","Class Type: Class III   See 25 CFR 502.3 & 4 
+Email Address: Joseph.Mirelez@torresmartinez- nsn.gov",,CA,Class III
+767,"Torres Martinez Desert Cahuilla Indians, California",True,,"66725 Martinez Road, Thermal CA 92274
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Red Earth Casino,CA,Class II & III
+768,Tulalip Tribes of Washington,False,"6406 Marine Dr, Tulalip WA 98271","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: trgobin@tulaliptribes-nsn.gov",,WA,Class II & III
+769,Tulalip Tribes of Washington,True,,"6406 Marine Dr, Tulalip WA 98271
+Game Class Type:  Class II  See 25 CFR 502.3 & 4",Tulalip Bingo,WA,Class II
+770,Tulalip Tribes of Washington,True,,"6406 Marine Dr, Tulalip WA 98271
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Tulalip Resort Casino,WA,Class II & III
+771,Tulalip Tribes of Washington,True,,"6406 Marine Dr, Tulalip WA 98271
+Game Class Type:  Class III  See 25 CFR 502.3 & 4",Quil Ceda Creek Night Club & Casino,WA,Class III
+772,Tunica-Biloxi Indian Tribe of Louisiana,False,"P.O. Box 1589 150 Melacon Drive, Marksville LA 71351-","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: mpierite@tunica.org",,LA,Class II & III
+773,Tunica-Biloxi Indian Tribe of Louisiana,True,"P.O. Box 1589 150 Melacon Drive, Marksville LA 71351",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Paragon Casino & Resort,LA,Class II & III
+774,Tuolumne Band of Me-Wuk Indians of the Tuolumne Rancheria,False,"P.O. Box 699 19595 Mi-Wu Street, Tuolumne CA 95379","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: kday@mewuk.com",,CA,Class II & III
+775,Tuolumne Band of Me-Wuk Indians of the Tuolumne Rancheria,True,"P.O. Box 699 19595 Mi-Wu Street, Tuolumne CA 95379",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Black Oak Casino Resort,CA,Class II & III
+776,Turtle Mountain Band of Chippewa Indians,False,"P.O. Box 900 4180 Highway 281, Belcourt ND 58316","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: jamie.azure@tmbci.org",,ND,Class II & III
+777,Turtle Mountain Band of Chippewa Indians,True,,"P.O. Box 900 4180 Highway 281, Belcourt ND 58316
+Game Class Type:  Class II  See 25 CFR 502.3 & 4",Turtle Mountain Bingo Palace/Sprung,ND,Class II
+778,Turtle Mountain Band of Chippewa Indians,True,,"P.O. Box 900 4180 Highway 281, Belcourt ND 58316
+Game Class Type:  Class III  See 25 CFR 502.3 & 4",Outdoor Recreation Development Association (ORDA),ND,Class III
+779,Turtle Mountain Band of Chippewa Indians,True,,"P.O. Box 900 4180 Highway 281, Belcourt ND 58316
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Keya Radio Station,ND,Class II & III
+780,Turtle Mountain Band of Chippewa Indians,True,,"P.O. Box 900 4180 Highway 281, Belcourt ND 58316
+Game Class Type:  Class II  See 25 CFR 502.3 & 4",Grand Treasures Casino,ND,Class II
+781,Turtle Mountain Band of Chippewa Indians,True,,"P.O. Box 900 4180 Highway 281, Belcourt ND 58316
+Game Class Type:  Class II  See 25 CFR 502.3 & 4",Knights of Columbus (KC),ND,Class II
+782,Turtle Mountain Band of Chippewa Indians,True,,"P.O. Box 900 4180 Highway 281, Belcourt ND 58316
+Game Class Type:  Class II  See 25 CFR 502.3 & 4",LaDot's Lounge,ND,Class II
+783,Turtle Mountain Band of Chippewa Indians,True,,"P.O. Box 900 4180 Highway 281, Belcourt ND 58316
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Sky Dancer Hotel & Casino,ND,Class II & III
+784,Twenty Nine Palms Band of Mission Indians,False,"46200 Harrison Place, Coachella CA 92236","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: chairman@29palmsbomi-nsn.gov",,CA,Class II & III
+785,Twenty Nine Palms Band of Mission Indians,True,,"46200 Harrison Place, Coachella CA 92236
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Tortoise Rock Casino,CA,Class II & III
+786,Twenty Nine Palms Band of Mission Indians,True,,"46200 Harrison Place, Coachella CA 92236
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Tortoise Rock Casino,CA,Class II & III
+787,Twenty Nine Palms Band of Mission Indians,True,,"46200 Harrison Place, Coachella CA 92236
+Game Class Type:  Class III  See 25 CFR 502.3 & 4",Spotlight 29 Casino,CA,Class III
+788,United Auburn Indian Community of the Auburn Rancheria,False,"10720 Indian Hill Road, Auburn CA 95603","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: jwilliams@auburnrancheria.com; Lball@auburnrancheria.com",,CA,Class II & III
+789,United Auburn Indian Community of the Auburn Rancheria,True,,"10720 Indian Hill Road, Auburn CA 95603
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4",Thunder Valley Casino,CA,Class II & III
+790,Upper Sioux Community,False,"P.O. Box 147 5722 Travers Lane, Highway 67, Granite Falls MN","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: kevinj@uppersiouxcommunity-",,MN,Class II & III
+791,Upper Sioux Community,True,,nsn.gov,56241,,Other
+792,Upper Sioux Community,True,,"P.O. Box 147 5722 Travers Lane, Highway 67, Granite 
+Game Class Type:  Class III  See 25 CFR 502.3 & 4 Falls MN 56241",Prairies Edge Convenience Store Non-Smoking Casino,II,Class III
+793,Upper Sioux Community,True,,"P.O. Box 147 5722 Travers Lane, Highway 67, Granite 
+Game Class Type:  Class II & III  See 25 CFR 502.3 & 4 Falls MN 56241",Prairie's Edge Casino Resort,II,Class II & III
+794,Upper Skagit Indian Tribe of Washington,False,"25944 Community Plaza Way, Sedro Woolley WA 98284","Class Type: Class II & III   See 25 CFR 502.3 & 4 
+Email Address: marilyns@upperskagit.com",,WA,Class II & III
+795,Upper Skagit Indian Tribe of Washington,True,,"25944 Community Plaza Way, Sedro Woolley WA 
+Game Class Type:  Class III  See 25 CFR 502.3 & 4 98284",Skagit Valley Casino Resort,WA,Class III
+796,Ute Mountain Ute Tribe,False,"P.O. Box JJ, Towaoc CO 81334",Class Type: Class II & III   See 25 CFR 502.3 & 4,,JJ,Class II & III
+797,Ute Mountain Ute Tribe,True,"P.O. Box JJ, Towaoc CO 81334",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Ute Mountain Casino,JJ,Class II & III
+798,Viejas Band of Kumeyaay Indians,False,"P.O. Box 908 #1 Viejas Grade Road, Alpine CA 91901",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+799,Viejas Band of Kumeyaay Indians,True,"P.O. Box 908 #1 Viejas Grade Road, Alpine CA 91901",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Viejas Bingo,CA,Class II
+800,Viejas Band of Kumeyaay Indians,True,"P.O. Box 908 #1 Viejas Grade Road, Alpine CA 91901",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Viejas Casino,CA,Class II & III
+801,Viejas Band of Kumeyaay Indians,True,"P.O. Box 908 #1 Viejas Grade Road, Alpine CA 91901",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Viejas Casino,CA,Class II & III
+802,Washoe Tribe of Nevada and California,False,"919 Hwy. 395 South, Gardnerville NV 89410",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NV,Class II & III
+803,Washoe Tribe of Nevada and California,True,"919 Hwy. 395 South, Gardnerville NV 89410",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Wa She Shu Center,NV,Class III
+804,Washoe Tribe of Nevada and California,True,"919 Hwy. 395 South, Gardnerville NV 89410",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Wa She Shu Center,NV,Class III
+805,White Earth Nation,False,"35500 Eagleview Rd, Ogema MN 56569",Class Type: Class II & III   See 25 CFR 502.3 & 4 nan,,MN,Class II & III
+806,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,3 Bears Golf Course dba Berry's Liquor Store&Towing,MN,Class II
+807,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,"City of Callaway, d/b/a Callaway Liquor Store",MN,Class II
+808,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,"Cedar Crest Resort, LLC",MN,Class II
+809,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,"Cedar Crest Resort, LLC",MN,Class II
+810,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Mahnomen Fire and Relief Association d/b/a Wild Rice,MN,Class II
+811,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Naytahwaush Sports Complex,MN,Class II
+812,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Mahnomen Country Club,MN,Class II
+813,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,"Roy Lake Store, LLC",MN,Class II
+814,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Bendickson General Store,MN,Class II
+815,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Shooting Star Casino-Bagley,MN,Class II & III
+816,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,"Double Barrel, LLC, d/b/a Ruffed Grouse Roadhouse",MN,Class II
+817,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,"RM Beverage, Inc. d/b/a Lean to Tavern",MN,Class II
+818,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,M & W Foods Ogema,MN,Class II
+819,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,"City of Mahnomen, d/b/a Wild Rice Lounge",MN,Class II
+820,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Sundown Bar,MN,Class II
+821,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Shooting Star Casino-Mahnomen,MN,Class II & III
+822,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,"Pinehurst Resort and Lodge, Inc.",MN,Class II
+823,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,"Ogema Fire Department, d/b/a Ogema Liquor Store",MN,Class II
+824,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,"McArthur's Village Store, Inc.",MN,Class II
+825,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,M&W Service of White Earth,MN,Class II
+826,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,"Backwoods ICL, LLC dba Ice Cracking Lodge",MN,Class II
+827,White Earth Nation,True,"35500 Eagleview Rd, Ogema MN 56569",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Peachy's Pub ALB Food & Beverage LLC,MN,Class II
+828,"White Mountain Apache Tribe of the Fort Apache Reservation, AZ",False,"201 E. Walnut St, Whiteriver AZ 85941",Class Type: Class III   See 25 CFR 502.3 & 4,,AZ,Class III
+829,"White Mountain Apache Tribe of the Fort Apache Reservation, AZ",True,"201 E. Walnut St, Whiteriver AZ 85941",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Hon Dah Resort - Casino,AZ,Class II & III
+830,Wichita and Affiliated Tribes,False,"P.O. Box 729, Anadarko OK 73005",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+831,Wichita and Affiliated Tribes,True,"P.O. Box 729, Anadarko OK 73005",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Sugar Creek Casino,OK,Class II & III
+832,"Wilton Rancheria, California",False,"9728 Kent Street, Elk Grove CA 95758",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+833,"Wilton Rancheria, California",True,"9728 Kent Street, Elk Grove CA 95758",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Sky River Casino,CA,Class III
+834,Winnebago Tribe of Nebraska,False,"100 Bluff Street P.O. Box 687, Winnebago NE 68071",Class Type: Class II & III   See 25 CFR 502.3 & 4,,NE,Class II & III
+835,Winnebago Tribe of Nebraska,True,"100 Bluff Street P.O. Box 687, Winnebago NE 68071",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,WinnaVegas Casino,NE,Class II & III
+836,Winnebago Tribe of Nebraska,True,"100 Bluff Street P.O. Box 687, Winnebago NE 68071",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Native Star Casino,NE,Class II
+837,Winnebago Tribe of Nebraska,True,"100 Bluff Street P.O. Box 687, Winnebago NE 68071",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Iron Horse Bar & Casino,NE,Class II
+838,"Wyandotte Nation, Oklahoma",False,"8 Turtle Drive, Wyandotte OK 74370",Class Type: Class II & III   See 25 CFR 502.3 & 4,,OK,Class II & III
+839,"Wyandotte Nation, Oklahoma",True,"8 Turtle Drive, Wyandotte OK 74370",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Crosswinds Casino,OK,Class II
+840,"Wyandotte Nation, Oklahoma",True,"8 Turtle Drive, Wyandotte OK 74370",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Wyandotte Nation 7th St. Casino,OK,Class II
+841,"Wyandotte Nation, Oklahoma",True,"8 Turtle Drive, Wyandotte OK 74370",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,River Bend Casino,OK,Class II & III
+842,"Wyandotte Nation, Oklahoma",True,"8 Turtle Drive, Wyandotte OK 74370",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Lucky Turtle Casino,OK,Class II
+843,Yankton Sioux Tribe of South Dakota,False,"P.O. Box 1153 800 Main Street SW, Wagner SD 57380",Class Type: Class II & III   See 25 CFR 502.3 & 4,,SW,Class II & III
+844,Yankton Sioux Tribe of South Dakota,True,"P.O. Box 1153 800 Main Street SW, Wagner SD 57380",Game Class Type:  Class II  See 25 CFR 502.3 & 4,Yankton Sioux Travel Plaza,SW,Class II
+845,Yankton Sioux Tribe of South Dakota,True,"P.O. Box 1153 800 Main Street SW, Wagner SD 57380",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Fort Randall Casino,SW,Class II & III
+846,"Yavapai Apache Nation of the Camp Verde Indian Reservation, AZ",False,"2400 W. Datsi Street, Camp Verde AZ 86322",Class Type: Class II & III   See 25 CFR 502.3 & 4,,AZ,Class II & III
+847,"Yavapai Apache Nation of the Camp Verde Indian Reservation, AZ",True,"2400 W. Datsi Street, Camp Verde AZ 86322",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cliff Castle Casino,AZ,Class II & III
+848,"Yavapai Apache Nation of the Camp Verde Indian Reservation, AZ",True,"2400 W. Datsi Street, Camp Verde AZ 86322",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cliff Castle Casino,AZ,Class II & III
+849,Yavapai-Prescott Indian Tribe,False,"530 East Merritt St. 305 S. Heather Heights, Prescott AZ",Class Type: Class II & III   See 25 CFR 502.3 & 4,,AZ,Class II & III
+850,Yavapai-Prescott Indian Tribe,True,"530 East Merritt St. 305 S. Heather Heights, Prescott AZ 863012038",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Bucky's Casino,AZ,Class II & III
+851,Yavapai-Prescott Indian Tribe,True,"530 East Merritt St. 305 S. Heather Heights, Prescott AZ 863012038",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Yavapai Casino,AZ,Class III
+852,Yocha DeHe Wintun Nation,False,"P.O. Box 18, Brooks CA 95606",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+853,Yocha DeHe Wintun Nation,True,"P.O. Box 18, Brooks CA 95606",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Cache Creek Casino Resort,CA,Class II & III
+854,Ysleta del Sur Pueblo,False,"119 S. Old Pueblo Road, El Paso TX 79907",Class Type: Class II   See 25 CFR 502.3 & 4,,TX,Class II
+855,Ysleta del Sur Pueblo,True,"119 S. Old Pueblo Road, El Paso TX 79907",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Speaking Rock Casino & Entertainmnt Ctr -,TX,Class II & III
+856,Ysleta del Sur Pueblo,True,"119 S. Old Pueblo Road, El Paso TX 79907",Game Class Type:  Class II & III  See 25 CFR 502.3 & 4,Speaking Rock Casino & Entertainmnt Ctr -,TX,Class II & III
+857,Yurok Tribe of the Yurok Reservation,False,"P.O. Box 1027 190 Klamath Blvd., Klamath CA 95548",Class Type: Class II & III   See 25 CFR 502.3 & 4,,CA,Class II & III
+858,Yurok Tribe of the Yurok Reservation,True,"P.O. Box 1027 190 Klamath Blvd., Klamath CA 95548",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Redwood Hotel Casino,CA,Class III
+859,Yurok Tribe of the Yurok Reservation,True,"P.O. Box 1027 190 Klamath Blvd., Klamath CA 95548",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Redwood Hotel Casino,CA,Class III
+860,Yurok Tribe of the Yurok Reservation,True,"P.O. Box 1027 190 Klamath Blvd., Klamath CA 95548",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Redwood Hotel Casino,CA,Class III
+861,Yurok Tribe of the Yurok Reservation,True,"P.O. Box 1027 190 Klamath Blvd., Klamath CA 95548",Game Class Type:  Class III  See 25 CFR 502.3 & 4,Redwood Hotel Casino,CA,Class III
