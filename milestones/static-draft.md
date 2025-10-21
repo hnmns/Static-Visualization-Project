@@ -30,7 +30,7 @@ I am looking to pick couple of nations for comparison from the rank chart to see
 
 ![](/visualization/graphics/rank_mt_houseownership_vs_year.svg)
 
-![](/visualization/graphics/graphics/line_mt_outcome_facet_outcome_vs_year.svg)
+![](/visualization/graphics/line_mt_outcome_facet_outcome_vs_year.svg)
 
 
 The sixth shows what I somewhat expected about gaming facilities: That they de facto are not a silver bullet to economic issues. The first chart suggested it first, but there is perhaps only a higher upper bound on wealth measures associated with owning more gaming facilities. Reservations with many facilities and with no facilities seem to overlap in a co-located cloud of points. The impact of median income also obviously changes depending on the cost of living, which depends on the state. Maybe that is another facet to explore.
