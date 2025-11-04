@@ -9,6 +9,8 @@ General notes
     * Bois Forte Reservation and Off-Reservation Trust Land
     * Mille Lacs Reservation and Off-Reservation Trust Land
         * Also split in 2000
+* Reservations were attributed to states based on where their nations' gaming facilities were located
+    * This could lead to conflicts if two nations on the same reservations open facilities in different states' borders (Navajo, Colorado River Reservations both have land within multiple states)
 
 
 1. Median income vs. number of gaming facilities scatter plot
@@ -27,12 +29,18 @@ General notes
         * Remove "Community?"
 
 2. Poverty levels over time (strip plot)
-    * Blue median datum: `mark_tick()` does not support `strokeDash` because ticks are *rectangles*, not lines
-        * Check if Inkscape allows a dotted stroke
-
+    * Clear instances of 100% poverty rate, often associated with community survey years having extremely small sample sizes (e.g. N=15 when Havasupai Reservation had 100% poverty in 2018)
 
 3. Native Nation vs. State unemployment rates (bar chart)
     * Note that Snoqualmie in WA are missing unemployment data
+    * I do not have state data on any nations that do not own a facility
+        * Really, this study is geographically sparse in terms of facility location
+        * I will just manually fill in missing states for the purpose of this chart
+    * **Inkscape**
+        * Shift Washington facet and legend upward to close some of the negative space
+
+4. Rank chart of housing in MT reservations
+    * Add shadow or outline to nation names
 
 ## Other issues
 * Drop Oklahoma statistical areas (and Navajo Nation?)
