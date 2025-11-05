@@ -1,0 +1,2120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   class="marks"
+   width="945"
+   height="580"
+   viewBox="0 0 945 580"
+   id="svg215"
+   sodipodi:docname="line_mt_outcome_facet_outcome_vs_year_EDIT.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs215" />
+  <sodipodi:namedview
+     id="namedview215"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.0103448"
+     inkscape:cx="340.9727"
+     inkscape:cy="292.96928"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg215" />
+  <rect
+     width="945"
+     height="580"
+     fill="white"
+     id="rect1" />
+  <g
+     fill="none"
+     stroke-miterlimit="10"
+     transform="translate(318,129)"
+     id="g215">
+    <g
+       class="mark-group role-frame root"
+       role="graphics-object"
+       aria-roledescription="group mark container"
+       id="g214">
+      <g
+         id="g213"
+         transform="translate(0,0)">
+        <path
+           class="background"
+           aria-hidden="true"
+           d="M0,0h0v0h0Z"
+           id="path1" />
+        <g
+           id="g212">
+          <g
+             class="mark-group role-row-title row-title"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g9">
+            <g
+               transform="translate(-283,201)"
+               id="g8">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 id="path2" />
+              <g
+                 id="g7">
+                <g
+                   class="mark-group role-title"
+                   id="g6">
+                  <g
+                     transform="translate(-30.000000000000007,0)"
+                     id="g5">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path3" />
+                    <g
+                       id="g4">
+                      <g
+                         class="mark-text role-title-text"
+                         role="graphics-symbol"
+                         aria-roledescription="title"
+                         aria-label="Title text 'Socioeconomic outcome'"
+                         pointer-events="none"
+                         id="g3">
+                        <text
+                           text-anchor="middle"
+                           font-family="'Agency FB'"
+                           font-size="20px"
+                           font-weight="bold"
+                           fill="#000000"
+                           opacity="1"
+                           id="text3"
+                           x="58.459553"
+                           y="-4.9267578"
+                           style="font-size:21.3333px"><tspan
+                             sodipodi:role="line"
+                             id="tspan217"
+                             x="58.459553"
+                             y="-4.9267578"
+                             style="font-size:21.3333px">Socioeconomic</tspan><tspan
+                             sodipodi:role="line"
+                             id="tspan218"
+                             x="58.459553"
+                             y="21.739866"
+                             style="font-size:21.3333px">measure</tspan></text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path4" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path7" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-row-header row_header"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g28">
+            <g
+               transform="translate(-41,0)"
+               id="g15">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v110h0Z"
+                 id="path9" />
+              <g
+                 id="g14">
+                <g
+                   class="mark-group role-title"
+                   id="g13">
+                  <g
+                     transform="translate(-231.4580078125,55)"
+                     id="g12">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path10" />
+                    <g
+                       id="g11">
+                      <g
+                         class="mark-text role-title-text"
+                         role="graphics-symbol"
+                         aria-roledescription="title"
+                         aria-label="Title text '% adults 25+ with bachelor's or higher'"
+                         pointer-events="none"
+                         id="g10">
+                        <text
+                           text-anchor="start"
+                           font-family="Agency FB"
+                           font-size="18px"
+                           fill="#000"
+                           opacity="1"
+                           id="text10"
+                           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;opacity:1;fill:#000000"
+                           x="221.70648"
+                           y="-2.9180887"><tspan
+                             sodipodi:role="line"
+                             id="tspan215"
+                             x="221.70648"
+                             y="-2.9180887">% adults 25+ with</tspan><tspan
+                             sodipodi:role="line"
+                             id="tspan216"
+                             x="221.70648"
+                             y="19.581911">bachelor's or higher</tspan></text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path11" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path14" />
+            </g>
+            <g
+               transform="translate(-41,146)"
+               id="g21">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v110h0Z"
+                 id="path15" />
+              <g
+                 id="g20">
+                <g
+                   class="mark-group role-title"
+                   id="g19">
+                  <g
+                     transform="translate(-82.4658203125,55)"
+                     id="g18">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path16" />
+                    <g
+                       id="g17">
+                      <g
+                         class="mark-text role-title-text"
+                         role="graphics-symbol"
+                         aria-roledescription="title"
+                         aria-label="Title text '% in poverty'"
+                         pointer-events="none"
+                         id="g16">
+                        <text
+                           text-anchor="start"
+                           transform="translate(0,5)"
+                           font-family="Agency FB"
+                           font-size="18px"
+                           fill="#000"
+                           opacity="1"
+                           id="text16">% in poverty</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path17" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path20" />
+            </g>
+            <g
+               transform="translate(-41,287)"
+               id="g27">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v110h0Z"
+                 id="path21" />
+              <g
+                 id="g26">
+                <g
+                   class="mark-group role-title"
+                   id="g25">
+                  <g
+                     transform="translate(-154.2109375,55)"
+                     id="g24">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path22" />
+                    <g
+                       id="g23">
+                      <g
+                         class="mark-text role-title-text"
+                         role="graphics-symbol"
+                         aria-roledescription="title"
+                         aria-label="Title text 'Median household income'"
+                         pointer-events="none"
+                         id="g22">
+                        <text
+                           text-anchor="start"
+                           transform="translate(0,5)"
+                           font-family="Agency FB"
+                           font-size="18px"
+                           fill="#000"
+                           opacity="1"
+                           id="text22">Median household income</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path23" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path26" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-column-footer column_footer"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g103">
+            <g
+               transform="translate(0,405)"
+               id="g102">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h500v0h-500Z"
+                 id="path28" />
+              <g
+                 id="g101">
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="X-axis titled 'Year' for a discrete scale with 34 values: 1990, 1991, 1992, 1993, 1994, ending with 2023"
+                   id="g100">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g99">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path29" />
+                    <g
+                       id="g98">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g62">
+                        <line
+                           transform="translate(8,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line29" />
+                        <line
+                           transform="translate(23,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line30" />
+                        <line
+                           transform="translate(38,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line31" />
+                        <line
+                           transform="translate(52,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line32" />
+                        <line
+                           transform="translate(67,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line33" />
+                        <line
+                           transform="translate(81,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line34" />
+                        <line
+                           transform="translate(96,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line35" />
+                        <line
+                           transform="translate(111,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line36" />
+                        <line
+                           transform="translate(125,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line37" />
+                        <line
+                           transform="translate(140,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line38" />
+                        <line
+                           transform="translate(154,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line39" />
+                        <line
+                           transform="translate(169,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line40" />
+                        <line
+                           transform="translate(184,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line41" />
+                        <line
+                           transform="translate(198,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line42" />
+                        <line
+                           transform="translate(213,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line43" />
+                        <line
+                           transform="translate(228,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line44" />
+                        <line
+                           transform="translate(242,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line45" />
+                        <line
+                           transform="translate(257,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line46" />
+                        <line
+                           transform="translate(271,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line47" />
+                        <line
+                           transform="translate(286,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line48" />
+                        <line
+                           transform="translate(301,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line49" />
+                        <line
+                           transform="translate(315,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line50" />
+                        <line
+                           transform="translate(330,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line51" />
+                        <line
+                           transform="translate(345,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line52" />
+                        <line
+                           transform="translate(359,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line53" />
+                        <line
+                           transform="translate(374,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line54" />
+                        <line
+                           transform="translate(388,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line55" />
+                        <line
+                           transform="translate(403,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line56" />
+                        <line
+                           transform="translate(418,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line57" />
+                        <line
+                           transform="translate(432,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line58" />
+                        <line
+                           transform="translate(447,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line59" />
+                        <line
+                           transform="translate(461,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line60" />
+                        <line
+                           transform="translate(476,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line61" />
+                        <line
+                           transform="translate(491,0)"
+                           x2="0"
+                           y2="5"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line62" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g95">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(8.271929824561402,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text62">1990</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(22.89181286549708,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text63" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(37.511695906432756,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text64">1992</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(52.131578947368425,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text65" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(66.7514619883041,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text66" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(81.37134502923976,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text67" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(95.99122807017544,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text68" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(110.61111111111111,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text69" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(125.23099415204679,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text70" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(139.85087719298247,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text71" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(154.47076023391813,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text72">2000</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(169.09064327485382,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text73" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(183.71052631578948,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text74" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(198.33040935672517,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text75" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(212.95029239766083,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text76" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(227.57017543859652,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text77" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(242.19005847953218,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text78" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(256.8099415204679,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text79" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(271.42982456140356,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text80" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(286.0497076023392,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text81" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(300.66959064327483,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text82" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(315.2894736842106,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text83" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(329.9093567251462,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text84" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(344.52923976608196,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text85">2013</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(359.1491228070176,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text86" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(373.7690058479532,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text87" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(388.38888888888897,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text88">2016</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(403.0087719298246,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text89" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(417.62865497076024,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text90">2018</text>
+                        <text
+                           text-anchor="middle"
+                           transform="translate(432.248538011696,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text91" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(446.8684210526316,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text92" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(461.48830409356725,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text93" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(476.108187134503,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text94" />
+                        <text
+                           text-anchor="middle"
+                           transform="translate(490.72807017543863,18)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text95">2023</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g96">
+                        <line
+                           x2="500"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line95"
+                           transform="translate(0,0)" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-title"
+                         pointer-events="none"
+                         id="g97">
+                        <text
+                           text-anchor="middle"
+                           transform="translate(250,38)"
+                           font-family="Agency FB"
+                           font-size="16px"
+                           font-weight="bold"
+                           fill="#000"
+                           opacity="1"
+                           id="text96">Year</text>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path98" />
+                  </g>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path101" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-scope cell"
+             role="graphics-object"
+             aria-roledescription="group mark container"
+             id="g185">
+            <g
+               id="g129"
+               transform="translate(0,0)">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0.5,0.5h500v110h-500Z"
+                 stroke="#ddd"
+                 id="path103" />
+              <g
+                 id="g128">
+                <g
+                   class="mark-group role-axis"
+                   aria-hidden="true"
+                   id="g109">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g108">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path104" />
+                    <g
+                       id="g107">
+                      <g
+                         class="mark-rule role-axis-grid"
+                         pointer-events="none"
+                         id="g106">
+                        <line
+                           transform="translate(0,110)"
+                           x2="500"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line104" />
+                        <line
+                           transform="translate(0,60)"
+                           x2="500"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line105" />
+                        <line
+                           transform="translate(0,10)"
+                           x2="500"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line106" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path107" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="Y-axis for a linear scale with values from 0 to 22"
+                   id="g117">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g116">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path109" />
+                    <g
+                       id="g115">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g111">
+                        <line
+                           transform="translate(0,110)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line109" />
+                        <line
+                           transform="translate(0,60)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line110" />
+                        <line
+                           transform="translate(0,10)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line111" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g113">
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,114)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text111">0</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,63.99999999999999)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text112">10</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,14.000000000000004)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text113">20</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g114">
+                        <line
+                           transform="translate(0,110)"
+                           x2="0"
+                           y2="-110"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line113" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path115" />
+                  </g>
+                </g>
+                <g
+                   class="mark-rect role-mark child_layer_0_marks"
+                   role="graphics-object"
+                   aria-roledescription="rect mark container"
+                   id="g126">
+                  <path
+                     aria-label="year: 1990; value: 5.4892601432; geoname_abbrev: Flathead; American Indians in: Flathead"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M2.9239766081871323,82.55369928400955h5.84795321637427v27.446300715990446h-5.84795321637427Z"
+                     fill="cadetblue"
+                     opacity="1"
+                     id="path117" />
+                  <path
+                     aria-label="year: 2000; value: 10.8222490931; geoname_abbrev: Flathead; American Indians in: Flathead"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M149.12280701754386,55.888754534462h5.84795321637427v54.111245465538h-5.84795321637427Z"
+                     fill="cadetblue"
+                     opacity="1"
+                     id="path118" />
+                  <path
+                     aria-label="year: 2013; value: 15.4594317891; geoname_abbrev: Flathead; American Indians in: Flathead"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M339.1812865497077,32.7028410545175h5.84795321637427v77.2971589454825h-5.84795321637427Z"
+                     fill="cadetblue"
+                     opacity="1"
+                     id="path119" />
+                  <path
+                     aria-label="year: 2018; value: 16.3894433356; geoname_abbrev: Flathead; American Indians in: Flathead"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M412.280701754386,28.052783322244498h5.84795321637427v81.9472166777555h-5.84795321637427Z"
+                     fill="cadetblue"
+                     opacity="1"
+                     id="path120" />
+                  <path
+                     aria-label="year: 2023; value: 21.4534478756; geoname_abbrev: Flathead; American Indians in: Flathead"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M485.38011695906437,2.7327606222429948h5.84795321637427v107.26723937775701h-5.84795321637427Z"
+                     fill="cadetblue"
+                     opacity="1"
+                     id="path121" />
+                  <path
+                     aria-label="year: 1990; value: 7.87339093634; geoname_abbrev: Montana (state); American Indians in: Montana (state)"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M8.771929824561402,70.633045318286h5.84795321637427v39.366954681714006h-5.84795321637427Z"
+                     fill="coral"
+                     opacity="1"
+                     id="path122" />
+                  <path
+                     aria-label="year: 2000; value: 10.5290284578; geoname_abbrev: Montana (state); American Indians in: Montana (state)"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M154.97076023391813,57.3548577108565h5.84795321637427v52.6451422891435h-5.84795321637427Z"
+                     fill="coral"
+                     opacity="1"
+                     id="path123" />
+                  <path
+                     aria-label="year: 2013; value: 12.0376852176; geoname_abbrev: Montana (state); American Indians in: Montana (state)"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M345.02923976608196,49.811573912029004h5.84795321637427v60.188426087970996h-5.84795321637427Z"
+                     fill="coral"
+                     opacity="1"
+                     id="path124" />
+                  <path
+                     aria-label="year: 2018; value: 14.1871186815; geoname_abbrev: Montana (state); American Indians in: Montana (state)"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M418.12865497076024,39.0644065924965h5.84795321637427v70.93559340750349h-5.84795321637427Z"
+                     fill="coral"
+                     opacity="1"
+                     id="path125" />
+                  <path
+                     aria-label="year: 2023; value: 13.858618132; geoname_abbrev: Montana (state); American Indians in: Montana (state)"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M491.22807017543863,40.7069093398755h5.84795321637427v69.2930906601245h-5.84795321637427Z"
+                     fill="coral"
+                     opacity="1"
+                     id="path126" />
+                </g>
+                <g
+                   class="mark-rule role-mark child_layer_1_marks"
+                   role="graphics-object"
+                   aria-roledescription="rule mark container"
+                   id="g127">
+                  <line
+                     aria-label="year: 1992"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(38.011695906432756,0)"
+                     x2="0"
+                     y2="110"
+                     stroke="black"
+                     stroke-width="2"
+                     stroke-dasharray="4,4"
+                     id="line126" />
+                  <line
+                     aria-label="year: 2016"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(388.88888888888897,0)"
+                     x2="0"
+                     y2="110"
+                     stroke="black"
+                     stroke-width="2"
+                     stroke-dasharray="4,4"
+                     id="line127" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path128" />
+            </g>
+            <g
+               transform="translate(0,146)"
+               id="g158">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0.5,0.5h500v110h-500Z"
+                 stroke="#ddd"
+                 id="path129" />
+              <g
+                 id="g157">
+                <g
+                   class="mark-group role-axis"
+                   aria-hidden="true"
+                   id="g136">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g135">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path130" />
+                    <g
+                       id="g134">
+                      <g
+                         class="mark-rule role-axis-grid"
+                         pointer-events="none"
+                         id="g133">
+                        <line
+                           transform="translate(0,110)"
+                           x2="500"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line130" />
+                        <line
+                           transform="translate(0,73)"
+                           x2="500"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line131" />
+                        <line
+                           transform="translate(0,37)"
+                           x2="500"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line132" />
+                        <line
+                           x2="500"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line133"
+                           transform="translate(0,0)" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path134" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="Y-axis for a linear scale with values from 0 to 60"
+                   id="g146">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g145">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path136" />
+                    <g
+                       id="g144">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g139">
+                        <line
+                           transform="translate(0,110)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line136" />
+                        <line
+                           transform="translate(0,73)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line137" />
+                        <line
+                           transform="translate(0,37)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line138" />
+                        <line
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line139"
+                           transform="translate(0,0)" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g142">
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,114)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text139">0</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,77.33333333333334)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text140">20</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,40.66666666666667)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text141">40</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,4)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text142">60</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g143">
+                        <line
+                           transform="translate(0,110)"
+                           x2="0"
+                           y2="-110"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line142" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path144" />
+                  </g>
+                </g>
+                <g
+                   class="mark-rect role-mark child_layer_0_marks"
+                   role="graphics-object"
+                   aria-roledescription="rect mark container"
+                   id="g155">
+                  <path
+                     aria-label="year: 1990; value: 49.273144606; geoname_abbrev: Flathead; American Indians in: Flathead"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M2.9239766081871323,19.66590155572551h5.84795321637427v90.33409844427449h-5.84795321637427Z"
+                     fill="cadetblue"
+                     opacity="1"
+                     id="path146" />
+                  <path
+                     aria-label="year: 2000; value: 34.419898038; geoname_abbrev: Flathead; American Indians in: Flathead"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M149.12280701754386,46.89685359699267h5.84795321637427v63.10314640300733h-5.84795321637427Z"
+                     fill="cadetblue"
+                     opacity="1"
+                     id="path147" />
+                  <path
+                     aria-label="year: 2013; value: 34.2524594707; geoname_abbrev: Flathead; American Indians in: Flathead"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M339.1812865497077,47.20382430372731h5.84795321637427v62.79617569627269h-5.84795321637427Z"
+                     fill="cadetblue"
+                     opacity="1"
+                     id="path148" />
+                  <path
+                     aria-label="year: 2018; value: 34.9384977755; geoname_abbrev: Flathead; American Indians in: Flathead"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M412.280701754386,45.94608741167225h5.84795321637427v64.05391258832775h-5.84795321637427Z"
+                     fill="cadetblue"
+                     opacity="1"
+                     id="path149" />
+                  <path
+                     aria-label="year: 2023; value: 29.6819787986; geoname_abbrev: Flathead; American Indians in: Flathead"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M485.38011695906437,55.583038869257905h5.84795321637427v54.416961130742095h-5.84795321637427Z"
+                     fill="cadetblue"
+                     opacity="1"
+                     id="path150" />
+                  <path
+                     aria-label="year: 1990; value: 57.0429116932; geoname_abbrev: Montana (state); American Indians in: Montana (state)"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M8.771929824561402,5.421328562400487h5.84795321637427v104.57867143759951h-5.84795321637427Z"
+                     fill="coral"
+                     opacity="1"
+                     id="path151" />
+                  <path
+                     aria-label="year: 2000; value: 38.3723119798; geoname_abbrev: Montana (state); American Indians in: Montana (state)"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M154.97076023391813,39.650761370341h5.84795321637427v70.349238629659h-5.84795321637427Z"
+                     fill="coral"
+                     opacity="1"
+                     id="path152" />
+                  <path
+                     aria-label="year: 2013; value: 37.0777601451; geoname_abbrev: Montana (state); American Indians in: Montana (state)"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M345.02923976608196,42.02410640066503h5.84795321637427v67.97589359933497h-5.84795321637427Z"
+                     fill="coral"
+                     opacity="1"
+                     id="path153" />
+                  <path
+                     aria-label="year: 2018; value: 34.1402324243; geoname_abbrev: Montana (state); American Indians in: Montana (state)"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M418.12865497076024,47.409573888828426h5.84795321637427v62.590426111171574h-5.84795321637427Z"
+                     fill="coral"
+                     opacity="1"
+                     id="path154" />
+                  <path
+                     aria-label="year: 2023; value: 33.8618213543; geoname_abbrev: Montana (state); American Indians in: Montana (state)"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M491.22807017543863,47.91999418383559h5.84795321637427v62.08000581616441h-5.84795321637427Z"
+                     fill="coral"
+                     opacity="1"
+                     id="path155" />
+                </g>
+                <g
+                   class="mark-rule role-mark child_layer_1_marks"
+                   role="graphics-object"
+                   aria-roledescription="rule mark container"
+                   id="g156">
+                  <line
+                     aria-label="year: 1992"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(38.011695906432756,0)"
+                     x2="0"
+                     y2="110"
+                     stroke="black"
+                     stroke-width="2"
+                     stroke-dasharray="4,4"
+                     id="line155" />
+                  <line
+                     aria-label="year: 2016"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(388.88888888888897,0)"
+                     x2="0"
+                     y2="110"
+                     stroke="black"
+                     stroke-width="2"
+                     stroke-dasharray="4,4"
+                     id="line156" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path157" />
+            </g>
+            <g
+               transform="translate(0,287)"
+               id="g184">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0.5,0.5h500v110h-500Z"
+                 stroke="#ddd"
+                 id="path158" />
+              <g
+                 id="g183">
+                <g
+                   class="mark-group role-axis"
+                   aria-hidden="true"
+                   id="g164">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g163">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path159" />
+                    <g
+                       id="g162">
+                      <g
+                         class="mark-rule role-axis-grid"
+                         pointer-events="none"
+                         id="g161">
+                        <line
+                           transform="translate(0,110)"
+                           x2="500"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line159" />
+                        <line
+                           transform="translate(0,66)"
+                           x2="500"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line160" />
+                        <line
+                           transform="translate(0,22)"
+                           x2="500"
+                           y2="0"
+                           stroke="#ddd"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line161" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path162" />
+                  </g>
+                </g>
+                <g
+                   class="mark-group role-axis"
+                   role="graphics-symbol"
+                   aria-roledescription="axis"
+                   aria-label="Y-axis for a linear scale with values from 0 to 50,000"
+                   id="g172">
+                  <g
+                     transform="translate(0.5,0.5)"
+                     id="g171">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M0,0h0v0h0Z"
+                       pointer-events="none"
+                       id="path164" />
+                    <g
+                       id="g170">
+                      <g
+                         class="mark-rule role-axis-tick"
+                         pointer-events="none"
+                         id="g166">
+                        <line
+                           transform="translate(0,110)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line164" />
+                        <line
+                           transform="translate(0,66)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line165" />
+                        <line
+                           transform="translate(0,22)"
+                           x2="-5"
+                           y2="0"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line166" />
+                      </g>
+                      <g
+                         class="mark-text role-axis-label"
+                         pointer-events="none"
+                         id="g168">
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,114)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text166">0</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,70)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text167">20,000</text>
+                        <text
+                           text-anchor="end"
+                           transform="translate(-7,25.999999999999996)"
+                           font-family="Agency FB"
+                           font-size="14px"
+                           fill="#000"
+                           opacity="1"
+                           id="text168">40,000</text>
+                      </g>
+                      <g
+                         class="mark-rule role-axis-domain"
+                         pointer-events="none"
+                         id="g169">
+                        <line
+                           transform="translate(0,110)"
+                           x2="0"
+                           y2="-110"
+                           stroke="#888"
+                           stroke-width="1"
+                           opacity="1"
+                           id="line168" />
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path170" />
+                  </g>
+                </g>
+                <g
+                   class="mark-rect role-mark child_layer_0_marks"
+                   role="graphics-object"
+                   aria-roledescription="rect mark container"
+                   id="g181">
+                  <path
+                     aria-label="year: 1990; value: 34743.1546017; geoname_abbrev: Flathead; American Indians in: Flathead"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M2.9239766081871323,33.565059876267696h5.84795321637427v76.4349401237323h-5.84795321637427Z"
+                     fill="cadetblue"
+                     opacity="1"
+                     id="path172" />
+                  <path
+                     aria-label="year: 2000; value: 46803.197043; geoname_abbrev: Flathead; American Indians in: Flathead"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M149.12280701754386,7.032966505347646h5.84795321637427v102.96703349465236h-5.84795321637427Z"
+                     fill="cadetblue"
+                     opacity="1"
+                     id="path173" />
+                  <path
+                     aria-label="year: 2013; value: 37631.5647983; geoname_abbrev: Flathead; American Indians in: Flathead"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M339.1812865497077,27.210557443762436h5.84795321637427v82.78944255623756h-5.84795321637427Z"
+                     fill="cadetblue"
+                     opacity="1"
+                     id="path174" />
+                  <path
+                     aria-label="year: 2018; value: 40114.0011728; geoname_abbrev: Flathead; American Indians in: Flathead"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M412.280701754386,21.749197419748036h5.84795321637427v88.25080258025196h-5.84795321637427Z"
+                     fill="cadetblue"
+                     opacity="1"
+                     id="path175" />
+                  <path
+                     aria-label="year: 2023; value: 43558; geoname_abbrev: Flathead; American Indians in: Flathead"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M485.38011695906437,14.172399999999994h5.84795321637427v95.8276h-5.84795321637427Z"
+                     fill="cadetblue"
+                     opacity="1"
+                     id="path176" />
+                  <path
+                     aria-label="year: 1990; value: 32436.7389821; geoname_abbrev: Montana (state); American Indians in: Montana (state)"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M8.771929824561402,38.63917423942862h5.84795321637427v71.36082576057137h-5.84795321637427Z"
+                     fill="coral"
+                     opacity="1"
+                     id="path177" />
+                  <path
+                     aria-label="year: 2000; value: 39850.5802642; geoname_abbrev: Montana (state); American Indians in: Montana (state)"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M154.97076023391813,22.32872341867111h5.84795321637427v87.6712765813289h-5.84795321637427Z"
+                     fill="coral"
+                     opacity="1"
+                     id="path178" />
+                  <path
+                     aria-label="year: 2013; value: 38698.9042795; geoname_abbrev: Montana (state); American Indians in: Montana (state)"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M345.02923976608196,24.86241058502455h5.84795321637427v85.13758941497545h-5.84795321637427Z"
+                     fill="coral"
+                     opacity="1"
+                     id="path179" />
+                  <path
+                     aria-label="year: 2018; value: 38918.723587; geoname_abbrev: Montana (state); American Indians in: Montana (state)"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M418.12865497076024,24.37880810860506h5.84795321637427v85.62119189139494h-5.84795321637427Z"
+                     fill="coral"
+                     opacity="1"
+                     id="path180" />
+                  <path
+                     aria-label="year: 2023; value: 41425; geoname_abbrev: Montana (state); American Indians in: Montana (state)"
+                     role="graphics-symbol"
+                     aria-roledescription="bar"
+                     d="M491.22807017543863,18.865h5.84795321637427v91.135h-5.84795321637427Z"
+                     fill="coral"
+                     opacity="1"
+                     id="path181" />
+                </g>
+                <g
+                   class="mark-rule role-mark child_layer_1_marks"
+                   role="graphics-object"
+                   aria-roledescription="rule mark container"
+                   id="g182">
+                  <line
+                     aria-label="year: 1992"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(38.011695906432756,0)"
+                     x2="0"
+                     y2="110"
+                     stroke="black"
+                     stroke-width="2"
+                     stroke-dasharray="4,4"
+                     id="line181" />
+                  <line
+                     aria-label="year: 2016"
+                     role="graphics-symbol"
+                     aria-roledescription="rule mark"
+                     transform="translate(388.88888888888897,0)"
+                     x2="0"
+                     y2="110"
+                     stroke="black"
+                     stroke-width="2"
+                     stroke-dasharray="4,4"
+                     id="line182" />
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 display="none"
+                 id="path183" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-legend"
+             role="graphics-symbol"
+             aria-roledescription="legend"
+             aria-label="Symbol legend titled 'American Indians in' for fill color with 2 values: Flathead, Montana (state)"
+             id="g203"
+             transform="translate(0,175.18771)">
+            <g
+               transform="translate(521)"
+               id="g202">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M 0,0 H 101 V 54 H 0 Z"
+                 pointer-events="none"
+                 id="path185" />
+              <g
+                 id="g201">
+                <g
+                   class="mark-group role-legend-entry"
+                   id="g199">
+                  <g
+                     transform="translate(3,20)"
+                     id="g198">
+                    <path
+                       class="background"
+                       aria-hidden="true"
+                       d="M 0,0 V 0 0 Z"
+                       pointer-events="none"
+                       id="path186" />
+                    <g
+                       id="g197">
+                      <g
+                         class="mark-group role-scope"
+                         role="graphics-object"
+                         aria-roledescription="group mark container"
+                         id="g196">
+                        <g
+                           id="g191">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M 0,0 H 93.633789 V 15.5 H 0 Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path187" />
+                          <g
+                             id="g190">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g188">
+                              <path
+                                 transform="translate(7.5,7.5)"
+                                 d="M -5,-5 H 5 V 5 H -5 Z"
+                                 fill="#5f9ea0"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path188" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g189">
+                              <text
+                                 text-anchor="start"
+                                 transform="translate(19,12.5)"
+                                 font-family="'Agency FB'"
+                                 font-size="15px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text188">Flathead</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path190" />
+                        </g>
+                        <g
+                           transform="translate(0,18)"
+                           id="g195">
+                          <path
+                             class="background"
+                             aria-hidden="true"
+                             d="M 0,0 H 93.633789 V 15.5 H 0 Z"
+                             pointer-events="none"
+                             opacity="1"
+                             id="path191" />
+                          <g
+                             id="g194">
+                            <g
+                               class="mark-symbol role-legend-symbol"
+                               pointer-events="none"
+                               id="g192">
+                              <path
+                                 transform="translate(7.5,7.5)"
+                                 d="M -5,-5 H 5 V 5 H -5 Z"
+                                 fill="#ff7f50"
+                                 stroke-width="1.5"
+                                 opacity="1"
+                                 id="path192" />
+                            </g>
+                            <g
+                               class="mark-text role-legend-label"
+                               pointer-events="none"
+                               id="g193">
+                              <text
+                                 text-anchor="start"
+                                 transform="translate(19,12.5)"
+                                 font-family="'Agency FB'"
+                                 font-size="15px"
+                                 fill="#000000"
+                                 opacity="1"
+                                 id="text192">Montana (state)</text>
+                            </g>
+                          </g>
+                          <path
+                             class="foreground"
+                             aria-hidden="true"
+                             d=""
+                             pointer-events="none"
+                             display="none"
+                             id="path194" />
+                        </g>
+                      </g>
+                    </g>
+                    <path
+                       class="foreground"
+                       aria-hidden="true"
+                       d=""
+                       pointer-events="none"
+                       display="none"
+                       id="path197" />
+                  </g>
+                </g>
+                <g
+                   class="mark-text role-legend-title"
+                   pointer-events="none"
+                   id="g200">
+                  <text
+                     text-anchor="middle"
+                     transform="translate(50,12)"
+                     font-family="'Agency FB'"
+                     font-size="15px"
+                     font-weight="bold"
+                     fill="#000000"
+                     opacity="1"
+                     id="text199">American Indians in</text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path201" />
+            </g>
+          </g>
+          <g
+             class="mark-group role-title"
+             id="g211">
+            <g
+               transform="translate(-313,-123)"
+               id="g210">
+              <path
+                 class="background"
+                 aria-hidden="true"
+                 d="M0,0h0v0h0Z"
+                 pointer-events="none"
+                 id="path203" />
+              <g
+                 id="g209">
+                <g
+                   class="mark-text role-title-text"
+                   role="graphics-symbol"
+                   aria-roledescription="title"
+                   aria-label="Title text 'American Indian wealth in Montana's Flathead Reservation vs. state-wide over time'"
+                   pointer-events="none"
+                   id="g204">
+                  <text
+                     text-anchor="start"
+                     transform="translate(25,17)"
+                     font-family="Agency FB"
+                     font-size="22px"
+                     font-weight="bold"
+                     fill="#000"
+                     opacity="1"
+                     id="text204"><tspan
+                       id="tspan203">American Indian wealth in Montana's Flathead Reservation vs.</tspan><tspan
+                       x="0"
+                       dy="24"
+                       id="tspan204">state-wide over time</tspan></text>
+                </g>
+                <g
+                   class="mark-text role-title-subtitle"
+                   role="graphics-symbol"
+                   aria-roledescription="subtitle"
+                   aria-label="Subtitle text 'The Confederated Salish &amp; Kootenai Tribes of the Flathead Reservation opened multiple major casinos in the past few decades, but wealth on the reservation does not clearly break from statewide trends across all measures.  '"
+                   pointer-events="none"
+                   id="g208">
+                  <text
+                     text-anchor="start"
+                     transform="translate(25,61)"
+                     font-family="Agency FB"
+                     font-size="15px"
+                     fill="#000"
+                     opacity="1"
+                     id="text208"><tspan
+                       id="tspan205">The Confederated Salish &amp; Kootenai Tribes of the Flathead Reservation opened multiple major casinos in the past</tspan><tspan
+                       x="0"
+                       dy="17"
+                       id="tspan206">few decades, but wealth on the reservation does not clearly break from statewide trends across all measures.</tspan><tspan
+                       x="0"
+                       dy="17"
+                       id="tspan207" /><tspan
+                       x="0"
+                       dy="17"
+                       id="tspan208" /></text>
+                </g>
+              </g>
+              <path
+                 class="foreground"
+                 aria-hidden="true"
+                 d=""
+                 pointer-events="none"
+                 display="none"
+                 id="path209" />
+            </g>
+          </g>
+        </g>
+        <path
+           class="foreground"
+           aria-hidden="true"
+           d=""
+           display="none"
+           id="path212" />
+      </g>
+    </g>
+  </g>
+  <text
+     text-anchor="start"
+     font-family="'Agency FB'"
+     font-size="15px"
+     fill="#000000"
+     opacity="1"
+     id="text213-0"
+     x="359.51111"
+     y="125.27469"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:start;fill:#000000"><tspan
+       sodipodi:role="line"
+       id="tspan220"
+       x="359.51111"
+       y="125.27469">KwaTaqNuk Casino opens</tspan></text>
+  <text
+     text-anchor="start"
+     font-family="'Agency FB'"
+     font-size="15px"
+     fill="#000000"
+     opacity="1"
+     id="text213-0-8"
+     x="709.91455"
+     y="106.16714"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:start;fill:#000000"><tspan
+       sodipodi:role="line"
+       id="tspan221"
+       x="709.91455"
+       y="106.16714">Gray Wolf Peak</tspan><tspan
+       sodipodi:role="line"
+       id="tspan222"
+       x="709.91455"
+       y="124.91714">Casino opens</tspan></text>
+</svg>

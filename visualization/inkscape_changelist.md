@@ -41,6 +41,12 @@ General notes
 
 4. Rank chart of housing in MT reservations
     * Add shadow or outline to nation names
+    * Move legend to center
+    * Fill in legend label with a colored line and an uncolored line
+    * **Layers inexplicably disappeared after importing to Inkscape, so I will leave this chart as-is**
+
+5. Faceted Flathead
+    * Mark dotted rules with text (KwaTaqNuk, Grey Wolf Peak)
 
 ## Other issues
 * Drop Oklahoma statistical areas (and Navajo Nation?)

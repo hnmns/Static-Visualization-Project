@@ -1,0 +1,51 @@
+h1 {
+    font-family: "Overpass", sans-serif;
+}
+
+h2 {
+    font-family: "Overpass", sans-serif;
+    font-size: x-large;
+    margin-top: 50px;
+}
+
+h1, h2 {
+    margin-left: 20px;
+}
+
+p {
+    font-family: "Consola", Helvetica;
+    margin-left: 35px;
+    margin-right: 150px;
+}
+
+body {
+    font-family: "Consola", Helvetica;
+    background-color:White;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.container {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      margin-bottom:50px;
+}
+.container img {
+    width: 700px;
+    height: auto;
+    margin-left: 50px;
+}
+.container p {
+    flex: 1;
+}
+
+.hanging_indent {
+    margin-left: 70px;
+    margin-top:0px;
+}
